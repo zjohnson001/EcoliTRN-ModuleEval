@@ -1,15 +1,5 @@
-## Fork of moduledetection-evaluation to analyze a subset of E. Coli Data
-
-# Directory structure 
-├── data  
-│   ├── Model_evaluations  
-│   ├── Model_predictions  
-│   ├── RNAseq  
-│   └── Regulatory  
-├── docs  
-├── module_evaluation  
-│   └── downloads.py  
-└── notebooks  
+# Github Repo for the analysis of Module Evaluation Techniques on E. Coli as described in 
+## A comprehensive evaluation of module detection methods for gene expression data
 
 ```
 install cython modules with: python setup.py build_ext --inplace
