@@ -1,5 +1,5 @@
-# Analysis of RNA-seq Module Evaluation Techniques on E. Coli precise2k dataset
-### Methods from a comprehensive evaluation of module detection methods for gene expression data (Saelens et al., 2018)
+## Analysis of RNA-seq Module Evaluation Techniques on E. Coli precise2k dataset
+__Methods from a comprehensive evaluation of module detection methods for gene expression data (Saelens et al., 2018)__
 
 ```
 install cython modules with: python setup.py build_ext --inplace
