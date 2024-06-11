@@ -1,0 +1,5905 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="DsrA"/>
+<node id="hns"/>
+<node id="lrp"/>
+<node id="rbsA"/>
+<node id="rbsB"/>
+<node id="rbsC"/>
+<node id="rbsD"/>
+<node id="rbsK"/>
+<node id="rbsR"/>
+<node id="RpsH"/>
+<node id="secY"/>
+<node id="rplE"/>
+<node id="rplF"/>
+<node id="rplN"/>
+<node id="rplO"/>
+<node id="rplR"/>
+<node id="rplX"/>
+<node id="rpmD"/>
+<node id="rpsE"/>
+<node id="rpsH"/>
+<node id="rpsN"/>
+<node id="rpmJ"/>
+<node id="CsrA"/>
+<node id="moaA"/>
+<node id="moaB"/>
+<node id="moaD"/>
+<node id="moaE"/>
+<node id="moaC"/>
+<node id="rpoE"/>
+<node id="idlP"/>
+<node id="ytiC"/>
+<node id="ytiD"/>
+<node id="ymdA"/>
+<node id="iraD"/>
+<node id="GcvB"/>
+<node id="cstA"/>
+<node id="gdhA"/>
+<node id="ilvD"/>
+<node id="map"/>
+<node id="phoP"/>
+<node id="phoQ"/>
+<node id="ydeE"/>
+<node id="McaS"/>
+<node id="flhC"/>
+<node id="flhD"/>
+<node id="csgG"/>
+<node id="csgF"/>
+<node id="csgE"/>
+<node id="csgD"/>
+<node id="SgrS"/>
+<node id="manX"/>
+<node id="manY"/>
+<node id="manZ"/>
+<node id="ptsG"/>
+<node id="purR"/>
+<node id="yeiB"/>
+<node id="folE"/>
+<node id="adiY"/>
+<node id="RydC"/>
+<node id="pheA"/>
+<node id="trpA"/>
+<node id="trpB"/>
+<node id="trpC"/>
+<node id="trpD"/>
+<node id="trpE"/>
+<node id="trpL"/>
+<node id="cfa"/>
+<node id="SdhX"/>
+<node id="ackA"/>
+<node id="fdhE"/>
+<node id="katG"/>
+<node id="fdoI"/>
+<node id="fdoH"/>
+<node id="fdoG"/>
+<node id="RprA"/>
+<node id="rpoS"/>
+<node id="hdeD"/>
+<node id="narP"/>
+<node id="dgcM"/>
+<node id="RybB"/>
+<node id="nmpC"/>
+<node id="ompF"/>
+<node id="sdhC"/>
+<node id="rluD"/>
+<node id="fiu"/>
+<node id="CyaR"/>
+<node id="nadE"/>
+<node id="luxS"/>
+<node id="yobF"/>
+<node id="yqaE"/>
+<node id="OmrB"/>
+<node id="cirA"/>
+<node id="fepA"/>
+<node id="ompR"/>
+<node id="ompT"/>
+<node id="flgM"/>
+<node id="Spf"/>
+<node id="araF"/>
+<node id="ascF"/>
+<node id="fucP"/>
+<node id="sthA"/>
+<node id="nanT"/>
+<node id="puuE"/>
+<node id="nanC"/>
+<node id="srlA"/>
+<node id="MicA"/>
+<node id="ompA"/>
+<node id="tsx"/>
+<node id="ompX"/>
+<node id="yliM"/>
+<node id="OmrA"/>
+<node id="RyhB"/>
+<node id="cysE"/>
+<node id="fur"/>
+<node id="nirB"/>
+<node id="sdhA"/>
+<node id="sdhB"/>
+<node id="sodB"/>
+<node id="sucA"/>
+<node id="nuoM"/>
+<node id="nuoF"/>
+<node id="nuoA"/>
+<node id="nuoB"/>
+<node id="nuoC"/>
+<node id="nuoE"/>
+<node id="nuoG"/>
+<node id="nuoH"/>
+<node id="nuoI"/>
+<node id="nuoJ"/>
+<node id="nuoK"/>
+<node id="nuoL"/>
+<node id="nuoN"/>
+<node id="iscA"/>
+<node id="erpA"/>
+<node id="msrB"/>
+<node id="uof"/>
+<node id="shiA"/>
+<node id="iscU"/>
+<node id="iscS"/>
+<node id="iscR"/>
+<node id="FliX"/>
+<node id="rplB"/>
+<node id="rplC"/>
+<node id="rplD"/>
+<node id="rplP"/>
+<node id="rplV"/>
+<node id="rplW"/>
+<node id="rpmC"/>
+<node id="rpsC"/>
+<node id="rpsJ"/>
+<node id="rpsQ"/>
+<node id="rpsS"/>
+<node id="carbon storage regulator CsrA"/>
+<node id="glgA"/>
+<node id="glgC"/>
+<node id="glgP"/>
+<node id="sdiA"/>
+<node id="nhaR"/>
+<node id="dgcZ"/>
+<node id="pgaD"/>
+<node id="pgaC"/>
+<node id="pgaB"/>
+<node id="pgaA"/>
+<node id="dgcT"/>
+<node id="AgaR"/>
+<node id="agaA"/>
+<node id="kbaY"/>
+<node id="agaB"/>
+<node id="agaC"/>
+<node id="agaR"/>
+<node id="kbaZ"/>
+<node id="agaV"/>
+<node id="agaW"/>
+<node id="agaS"/>
+<node id="agaD"/>
+<node id="agaI"/>
+<node id="TdcA"/>
+<node id="tdcA"/>
+<node id="tdcB"/>
+<node id="tdcC"/>
+<node id="tdcD"/>
+<node id="tdcG"/>
+<node id="tdcF"/>
+<node id="tdcE"/>
+<node id="NarL"/>
+<node id="adhE"/>
+<node id="aspA"/>
+<node id="cysG"/>
+<node id="dmsA"/>
+<node id="dmsB"/>
+<node id="dmsC"/>
+<node id="fdhF"/>
+<node id="frdA"/>
+<node id="frdB"/>
+<node id="frdC"/>
+<node id="frdD"/>
+<node id="narG"/>
+<node id="narH"/>
+<node id="narI"/>
+<node id="narJ"/>
+<node id="narK"/>
+<node id="nirC"/>
+<node id="nirD"/>
+<node id="ogt"/>
+<node id="pflB"/>
+<node id="poxB"/>
+<node id="ompW"/>
+<node id="dcuA"/>
+<node id="fdnG"/>
+<node id="fdnH"/>
+<node id="fdnI"/>
+<node id="focA"/>
+<node id="nrfA"/>
+<node id="nrfB"/>
+<node id="nrfC"/>
+<node id="nrfD"/>
+<node id="nrfE"/>
+<node id="nrfF"/>
+<node id="nrfG"/>
+<node id="ccmH"/>
+<node id="ccmG"/>
+<node id="ccmF"/>
+<node id="ccmE"/>
+<node id="ccmC"/>
+<node id="ccmB"/>
+<node id="ccmA"/>
+<node id="napC"/>
+<node id="napB"/>
+<node id="napH"/>
+<node id="napG"/>
+<node id="napA"/>
+<node id="napF"/>
+<node id="napD"/>
+<node id="ccmD"/>
+<node id="hcr"/>
+<node id="hcp"/>
+<node id="ydeP"/>
+<node id="ynfE"/>
+<node id="ynfF"/>
+<node id="ynfG"/>
+<node id="ynfH"/>
+<node id="dmsD"/>
+<node id="ydhT"/>
+<node id="ydhV"/>
+<node id="ydhY"/>
+<node id="yoaG"/>
+<node id="yeaR"/>
+<node id="dcuR"/>
+<node id="dcuS"/>
+<node id="TdcR"/>
+<node id="FliZ"/>
+<node id="osmY"/>
+<node id="hdeA"/>
+<node id="hdeB"/>
+<node id="yhiD"/>
+<node id="gadB"/>
+<node id="gadE"/>
+<node id="yjbJ"/>
+<node id="mlrA"/>
+<node id="mdtE"/>
+<node id="mdtF"/>
+<node id="pdeR"/>
+<node id="gadC"/>
+<node id="Lrp"/>
+<node id="aceB"/>
+<node id="ansB"/>
+<node id="aroA"/>
+<node id="avtA"/>
+<node id="cadA"/>
+<node id="cadB"/>
+<node id="eco"/>
+<node id="fimA"/>
+<node id="fimC"/>
+<node id="fimD"/>
+<node id="fimF"/>
+<node id="fimG"/>
+<node id="fimH"/>
+<node id="ftsQ"/>
+<node id="gabT"/>
+<node id="gcvH"/>
+<node id="gltB"/>
+<node id="gltD"/>
+<node id="ilvA"/>
+<node id="ilvE"/>
+<node id="ilvH"/>
+<node id="ilvI"/>
+<node id="ilvM"/>
+<node id="lysU"/>
+<node id="metK"/>
+<node id="mtr"/>
+<node id="ompC"/>
+<node id="oppA"/>
+<node id="oppB"/>
+<node id="oppC"/>
+<node id="oppD"/>
+<node id="oppF"/>
+<node id="osmC"/>
+<node id="pepD"/>
+<node id="sdaA"/>
+<node id="serA"/>
+<node id="serB"/>
+<node id="serC"/>
+<node id="tdh"/>
+<node id="fau"/>
+<node id="argO"/>
+<node id="uspE"/>
+<node id="thrL"/>
+<node id="gabD"/>
+<node id="gabP"/>
+<node id="lysP"/>
+<node id="dadX"/>
+<node id="gcvT"/>
+<node id="gltF"/>
+<node id="stpA"/>
+<node id="gcvP"/>
+<node id="aidB"/>
+<node id="yjbQ"/>
+<node id="fimI"/>
+<node id="yehL"/>
+<node id="mqo"/>
+<node id="lrhA"/>
+<node id="sdaC"/>
+<node id="brnQ"/>
+<node id="yhjE"/>
+<node id="ybiJ"/>
+<node id="yjeM"/>
+<node id="cycA"/>
+<node id="yciN"/>
+<node id="ilvX"/>
+<node id="ybjS"/>
+<node id="ycaM"/>
+<node id="lolC"/>
+<node id="dtpA"/>
+<node id="leuE"/>
+<node id="yfcC"/>
+<node id="yfcZ"/>
+<node id="alaE"/>
+<node id="yqeF"/>
+<node id="yzgL"/>
+<node id="ytfK"/>
+<node id="ridA"/>
+<node id="yjiC"/>
+<node id="ilvG"/>
+<node id="MqsA"/>
+<node id="cspD"/>
+<node id="mqsA"/>
+<node id="mqsR"/>
+<node id="DnaA"/>
+<node id="aldA"/>
+<node id="dnaA"/>
+<node id="dnaN"/>
+<node id="guaA"/>
+<node id="guaB"/>
+<node id="nrdA"/>
+<node id="nrdB"/>
+<node id="polA"/>
+<node id="recF"/>
+<node id="uvrB"/>
+<node id="yfaE"/>
+<node id="yjeV"/>
+<node id="CsgD"/>
+<node id="nlpA"/>
+<node id="dgcC"/>
+<node id="fliE"/>
+<node id="fliF"/>
+<node id="fliA"/>
+<node id="fliZ"/>
+<node id="csgA"/>
+<node id="wrbA"/>
+<node id="fliG"/>
+<node id="fliH"/>
+<node id="yccJ"/>
+<node id="fliI"/>
+<node id="fliJ"/>
+<node id="fliK"/>
+<node id="csgB"/>
+<node id="csgC"/>
+<node id="flgN"/>
+<node id="tcyJ"/>
+<node id="yhbS"/>
+<node id="H-NS"/>
+<node id="appY"/>
+<node id="bglB"/>
+<node id="bglF"/>
+<node id="bglG"/>
+<node id="cadC"/>
+<node id="cspA"/>
+<node id="cydA"/>
+<node id="cydB"/>
+<node id="fimB"/>
+<node id="fimE"/>
+<node id="galE"/>
+<node id="galK"/>
+<node id="galT"/>
+<node id="lacA"/>
+<node id="lacY"/>
+<node id="lacZ"/>
+<node id="leuO"/>
+<node id="proV"/>
+<node id="proW"/>
+<node id="proX"/>
+<node id="rcsB"/>
+<node id="ftnA"/>
+<node id="yciE"/>
+<node id="yciF"/>
+<node id="yciG"/>
+<node id="chiA"/>
+<node id="gspB"/>
+<node id="gspO"/>
+<node id="dps"/>
+<node id="nrdD"/>
+<node id="hdfR"/>
+<node id="evgA"/>
+<node id="evgS"/>
+<node id="galM"/>
+<node id="dctR"/>
+<node id="slp"/>
+<node id="gspM"/>
+<node id="yhiM"/>
+<node id="gadW"/>
+<node id="gadX"/>
+<node id="rcsD"/>
+<node id="cas2"/>
+<node id="gadA"/>
+<node id="ydeO"/>
+<node id="mdtI"/>
+<node id="mdtJ"/>
+<node id="hchA"/>
+<node id="cas1"/>
+<node id="casE"/>
+<node id="casD"/>
+<node id="casC"/>
+<node id="casB"/>
+<node id="casA"/>
+<node id="gspA"/>
+<node id="gspC"/>
+<node id="gspD"/>
+<node id="gspE"/>
+<node id="gspF"/>
+<node id="gspG"/>
+<node id="gspH"/>
+<node id="gspI"/>
+<node id="gspJ"/>
+<node id="gspK"/>
+<node id="gspL"/>
+<node id="yjjP"/>
+<node id="yjjQ"/>
+<node id="bglJ"/>
+<node id="nrdG"/>
+<node id="AraC"/>
+<node id="araA"/>
+<node id="araB"/>
+<node id="araC"/>
+<node id="araD"/>
+<node id="araE"/>
+<node id="araG"/>
+<node id="araH"/>
+<node id="araJ"/>
+<node id="xylB"/>
+<node id="ygeA"/>
+<node id="yjfF"/>
+<node id="ytfQ"/>
+<node id="ytfR"/>
+<node id="ytfT"/>
+<node id="DcuR"/>
+<node id="dcuB"/>
+<node id="fumB"/>
+<node id="dctA"/>
+<node id="dpiB"/>
+<node id="dpiA"/>
+<node id="NagC"/>
+<node id="chbB"/>
+<node id="chbC"/>
+<node id="chbA"/>
+<node id="chbR"/>
+<node id="chbF"/>
+<node id="glmS"/>
+<node id="nagA"/>
+<node id="nagB"/>
+<node id="umpH"/>
+<node id="nagE"/>
+<node id="nagC"/>
+<node id="glmU"/>
+<node id="galP"/>
+<node id="chbG"/>
+<node id="chiP"/>
+<node id="chiQ"/>
+<node id="nanS"/>
+<node id="nanM"/>
+<node id="MlrA"/>
+<node id="yhbE"/>
+<node id="rplU"/>
+<node id="rpmA"/>
+<node id="obgE"/>
+<node id="ibaG"/>
+<node id="TrpR"/>
+<node id="aroH"/>
+<node id="aroL"/>
+<node id="aroM"/>
+<node id="trpR"/>
+<node id="yaiA"/>
+<node id="ModE"/>
+<node id="modB"/>
+<node id="modC"/>
+<node id="deoA"/>
+<node id="deoB"/>
+<node id="deoC"/>
+<node id="deoD"/>
+<node id="hycA"/>
+<node id="hycB"/>
+<node id="hycC"/>
+<node id="hycD"/>
+<node id="hycE"/>
+<node id="hycF"/>
+<node id="hycG"/>
+<node id="hycH"/>
+<node id="narL"/>
+<node id="narX"/>
+<node id="modA"/>
+<node id="hycI"/>
+<node id="Zur"/>
+<node id="znuB"/>
+<node id="ykgO"/>
+<node id="ykgM"/>
+<node id="pliG"/>
+<node id="znuA"/>
+<node id="znuC"/>
+<node id="LldR"/>
+<node id="fadL"/>
+<node id="lldP"/>
+<node id="lldR"/>
+<node id="lldD"/>
+<node id="fadE"/>
+<node id="yfdY"/>
+<node id="lpxP"/>
+<node id="glcD"/>
+<node id="yhcO"/>
+<node id="NsrR"/>
+<node id="hmp"/>
+<node id="ytfE"/>
+<node id="OmpR"/>
+<node id="bolA"/>
+<node id="htpX"/>
+<node id="lpp"/>
+<node id="malE"/>
+<node id="narV"/>
+<node id="narW"/>
+<node id="narY"/>
+<node id="narZ"/>
+<node id="potE"/>
+<node id="speF"/>
+<node id="tolC"/>
+<node id="pdhR"/>
+<node id="tsgA"/>
+<node id="rob"/>
+<node id="feoA"/>
+<node id="feoB"/>
+<node id="acrR"/>
+<node id="rhtA"/>
+<node id="narU"/>
+<node id="sstT"/>
+<node id="feoC"/>
+<node id="yobB"/>
+<node id="exoX"/>
+<node id="queE"/>
+<node id="alx"/>
+<node id="ChbR"/>
+<node id="RcsB"/>
+<node id="ftsA"/>
+<node id="ftsZ"/>
+<node id="sra"/>
+<node id="rseA"/>
+<node id="rseD"/>
+<node id="bdm"/>
+<node id="rseC"/>
+<node id="rseB"/>
+<node id="RcdA"/>
+<node id="sulA"/>
+<node id="ydeI"/>
+<node id="rsd"/>
+<node id="rmf"/>
+<node id="yagK"/>
+<node id="ybjI"/>
+<node id="ybjJ"/>
+<node id="rcdA"/>
+<node id="bluF"/>
+<node id="asr"/>
+<node id="Rob"/>
+<node id="fumC"/>
+<node id="ygiB"/>
+<node id="ygiC"/>
+<node id="zwf"/>
+<node id="inaA"/>
+<node id="marA"/>
+<node id="marR"/>
+<node id="marB"/>
+<node id="acrA"/>
+<node id="acrB"/>
+<node id="mdaB"/>
+<node id="acrZ"/>
+<node id="FlhDC"/>
+<node id="fliL"/>
+<node id="fliM"/>
+<node id="fliN"/>
+<node id="epd"/>
+<node id="iclR"/>
+<node id="pfkA"/>
+<node id="ptsH"/>
+<node id="fliD"/>
+<node id="fliO"/>
+<node id="fliS"/>
+<node id="fliT"/>
+<node id="fliP"/>
+<node id="fliQ"/>
+<node id="fliR"/>
+<node id="setB"/>
+<node id="gltJ"/>
+<node id="gltK"/>
+<node id="gltL"/>
+<node id="flgA"/>
+<node id="flgB"/>
+<node id="flgC"/>
+<node id="flgD"/>
+<node id="flgE"/>
+<node id="flgF"/>
+<node id="flgG"/>
+<node id="flgH"/>
+<node id="flgI"/>
+<node id="flgJ"/>
+<node id="flhA"/>
+<node id="gltI"/>
+<node id="flhE"/>
+<node id="flhB"/>
+<node id="yecR"/>
+<node id="fruB"/>
+<node id="Fis"/>
+<node id="osmE"/>
+<node id="crp"/>
+<node id="fadA"/>
+<node id="fadB"/>
+<node id="fis"/>
+<node id="glnA"/>
+<node id="glnG"/>
+<node id="glnL"/>
+<node id="glpT"/>
+<node id="gltX"/>
+<node id="gyrA"/>
+<node id="gyrB"/>
+<node id="hupA"/>
+<node id="hupB"/>
+<node id="katE"/>
+<node id="lpd"/>
+<node id="malF"/>
+<node id="malG"/>
+<node id="mazE"/>
+<node id="mazG"/>
+<node id="mtlA"/>
+<node id="mtlD"/>
+<node id="nanA"/>
+<node id="ndh"/>
+<node id="queA"/>
+<node id="topA"/>
+<node id="tpr"/>
+<node id="tufB"/>
+<node id="mazF"/>
+<node id="dusB"/>
+<node id="acs"/>
+<node id="proP"/>
+<node id="grcA"/>
+<node id="actP"/>
+<node id="yjcH"/>
+<node id="mtlR"/>
+<node id="cbpA"/>
+<node id="cbpM"/>
+<node id="aldB"/>
+<node id="hlyE"/>
+<node id="glcC"/>
+<node id="nanK"/>
+<node id="nanE"/>
+<node id="PgrR"/>
+<node id="tyrR"/>
+<node id="ycjF"/>
+<node id="ymjC"/>
+<node id="ymjD"/>
+<node id="ycjX"/>
+<node id="ycjG"/>
+<node id="mpaA"/>
+<node id="ycjY"/>
+<node id="mppA"/>
+<node id="IscR"/>
+<node id="hyaA"/>
+<node id="hyaB"/>
+<node id="hyaC"/>
+<node id="hyaD"/>
+<node id="hyaE"/>
+<node id="hyaF"/>
+<node id="sufA"/>
+<node id="torT"/>
+<node id="sufE"/>
+<node id="sufS"/>
+<node id="sufD"/>
+<node id="sufC"/>
+<node id="sufB"/>
+<node id="rnlA"/>
+<node id="rnlB"/>
+<node id="nfuA"/>
+<node id="Cra"/>
+<node id="aceA"/>
+<node id="aceE"/>
+<node id="aceF"/>
+<node id="aceK"/>
+<node id="aroP"/>
+<node id="crr"/>
+<node id="eda"/>
+<node id="edd"/>
+<node id="eno"/>
+<node id="fbaA"/>
+<node id="gapA"/>
+<node id="icd"/>
+<node id="pck"/>
+<node id="pgk"/>
+<node id="ppc"/>
+<node id="ppsA"/>
+<node id="ptsI"/>
+<node id="pykF"/>
+<node id="tpiA"/>
+<node id="hypF"/>
+<node id="setA"/>
+<node id="gpmM"/>
+<node id="envC"/>
+<node id="yibQ"/>
+<node id="mpl"/>
+<node id="glk"/>
+<node id="sgrT"/>
+<node id="prpB"/>
+<node id="prpC"/>
+<node id="prpD"/>
+<node id="prpE"/>
+<node id="yeaD"/>
+<node id="fbaB"/>
+<node id="RbsR"/>
+<node id="add"/>
+<node id="purD"/>
+<node id="purH"/>
+<node id="dcd"/>
+<node id="udk"/>
+<node id="TorR"/>
+<node id="tnaA"/>
+<node id="tnaB"/>
+<node id="tnaC"/>
+<node id="torA"/>
+<node id="torC"/>
+<node id="torD"/>
+<node id="torR"/>
+<node id="AcrR"/>
+<node id="soxR"/>
+<node id="soxS"/>
+<node id="puuA"/>
+<node id="StpA"/>
+<node id="Cbl"/>
+<node id="ssuB"/>
+<node id="tauD"/>
+<node id="tauA"/>
+<node id="tauB"/>
+<node id="tauC"/>
+<node id="ssuC"/>
+<node id="ssuD"/>
+<node id="ssuA"/>
+<node id="ssuE"/>
+<node id="SoxR"/>
+<node id="aroF"/>
+<node id="sodA"/>
+<node id="tyrA"/>
+<node id="yjcB"/>
+<node id="yrbL"/>
+<node id="FhlA"/>
+<node id="fhlA"/>
+<node id="hypA"/>
+<node id="hypB"/>
+<node id="hypC"/>
+<node id="hypD"/>
+<node id="hypE"/>
+<node id="hydN"/>
+<node id="HprR"/>
+<node id="cusA"/>
+<node id="cusS"/>
+<node id="cusR"/>
+<node id="cusC"/>
+<node id="cusF"/>
+<node id="cusB"/>
+<node id="msrP"/>
+<node id="msrQ"/>
+<node id="MarA"/>
+<node id="fpr"/>
+<node id="purA"/>
+<node id="rimK"/>
+<node id="xseA"/>
+<node id="nfsA"/>
+<node id="acnA"/>
+<node id="mlaD"/>
+<node id="mlaE"/>
+<node id="mlaF"/>
+<node id="ybjC"/>
+<node id="nfsB"/>
+<node id="ybjN"/>
+<node id="pqiA"/>
+<node id="pqiB"/>
+<node id="pqiC"/>
+<node id="ycgZ"/>
+<node id="ymgA"/>
+<node id="ariR"/>
+<node id="ymgC"/>
+<node id="mlaB"/>
+<node id="mlaC"/>
+<node id="ZraR"/>
+<node id="zraS"/>
+<node id="acrE"/>
+<node id="glnH"/>
+<node id="zraR"/>
+<node id="rfaD"/>
+<node id="rpoH"/>
+<node id="sspA"/>
+<node id="raiA"/>
+<node id="zraP"/>
+<node id="cspB"/>
+<node id="exuR"/>
+<node id="yhdW"/>
+<node id="yrdD"/>
+<node id="yhhY"/>
+<node id="cpxP"/>
+<node id="yjjY"/>
+<node id="ArgP"/>
+<node id="asd"/>
+<node id="dapB"/>
+<node id="dapD"/>
+<node id="lysA"/>
+<node id="lysC"/>
+<node id="GadE"/>
+<node id="rcsA"/>
+<node id="yjbR"/>
+<node id="TyrR"/>
+<node id="aroG"/>
+<node id="folA"/>
+<node id="tyrB"/>
+<node id="tyrP"/>
+<node id="CecR"/>
+<node id="rhlE"/>
+<node id="cecR"/>
+<node id="ybhR"/>
+<node id="ybhS"/>
+<node id="ybhF"/>
+<node id="ybhG"/>
+<node id="GlaR"/>
+<node id="apt"/>
+<node id="aroB"/>
+<node id="cysN"/>
+<node id="cysS"/>
+<node id="fhuE"/>
+<node id="kdsA"/>
+<node id="mglA"/>
+<node id="mrdA"/>
+<node id="murD"/>
+<node id="pdxA"/>
+<node id="ppiB"/>
+<node id="priC"/>
+<node id="rhsD"/>
+<node id="rpsF"/>
+<node id="tar"/>
+<node id="ttdA"/>
+<node id="yidB"/>
+<node id="ppx"/>
+<node id="yigG"/>
+<node id="smg"/>
+<node id="baeS"/>
+<node id="phoH"/>
+<node id="chaA"/>
+<node id="gcvA"/>
+<node id="rpiB"/>
+<node id="yihD"/>
+<node id="yihM"/>
+<node id="kdgT"/>
+<node id="tehA"/>
+<node id="htrE"/>
+<node id="yehD"/>
+<node id="yehS"/>
+<node id="rssB"/>
+<node id="idnK"/>
+<node id="hinT"/>
+<node id="yadN"/>
+<node id="chaB"/>
+<node id="chaC"/>
+<node id="rfbB"/>
+<node id="prmC"/>
+<node id="yfjD"/>
+<node id="yfiL"/>
+<node id="sgcC"/>
+<node id="ttdR"/>
+<node id="ygjI"/>
+<node id="ybaN"/>
+<node id="dgcN"/>
+<node id="yjdP"/>
+<node id="dinQ"/>
+<node id="ldcC"/>
+<node id="elfC"/>
+<node id="ycbU"/>
+<node id="ycbV"/>
+<node id="yccU"/>
+<node id="bssS"/>
+<node id="pdeG"/>
+<node id="ycgJ"/>
+<node id="ycgY"/>
+<node id="ycgV"/>
+<node id="ychQ"/>
+<node id="yciU"/>
+<node id="ycjP"/>
+<node id="ynaE"/>
+<node id="ydcK"/>
+<node id="safA"/>
+<node id="lsrG"/>
+<node id="tam"/>
+<node id="ydfI"/>
+<node id="ydfK"/>
+<node id="ydhS"/>
+<node id="ynjH"/>
+<node id="yeaE"/>
+<node id="yobD"/>
+<node id="yodB"/>
+<node id="yfbN"/>
+<node id="yfbO"/>
+<node id="hxpA"/>
+<node id="yfbU"/>
+<node id="yfcO"/>
+<node id="yfcV"/>
+<node id="yfdC"/>
+<node id="yfdV"/>
+<node id="oxc"/>
+<node id="ypdC"/>
+<node id="yfiR"/>
+<node id="ypjA"/>
+<node id="yqhC"/>
+<node id="ygiV"/>
+<node id="ygiW"/>
+<node id="yhcD"/>
+<node id="rsgA"/>
+<node id="orn"/>
+<node id="yjfY"/>
+<node id="bdcA"/>
+<node id="bdcR"/>
+<node id="idnD"/>
+<node id="PlaR"/>
+<node id="glpA"/>
+<node id="yiaK"/>
+<node id="yiaL"/>
+<node id="yiaM"/>
+<node id="yiaN"/>
+<node id="yiaO"/>
+<node id="lyxK"/>
+<node id="sgbH"/>
+<node id="sgbU"/>
+<node id="sgbE"/>
+<node id="ygjV"/>
+<node id="NhaR"/>
+<node id="nhaA"/>
+<node id="NarP"/>
+<node id="ydhU"/>
+<node id="ydhX"/>
+<node id="ydhW"/>
+<node id="GalR"/>
+<node id="galR"/>
+<node id="McbR"/>
+<node id="mcbA"/>
+<node id="XylR"/>
+<node id="xylA"/>
+<node id="xylE"/>
+<node id="xylG"/>
+<node id="xylH"/>
+<node id="xylF"/>
+<node id="xylR"/>
+<node id="HcaR"/>
+<node id="iroK"/>
+<node id="hcaR"/>
+<node id="hcaC"/>
+<node id="hcaB"/>
+<node id="hcaD"/>
+<node id="hcaE"/>
+<node id="hcaF"/>
+<node id="Fur"/>
+<node id="garL"/>
+<node id="argF"/>
+<node id="argG"/>
+<node id="entA"/>
+<node id="entB"/>
+<node id="entC"/>
+<node id="entD"/>
+<node id="entE"/>
+<node id="entF"/>
+<node id="exbB"/>
+<node id="fecA"/>
+<node id="fecB"/>
+<node id="fecC"/>
+<node id="fecD"/>
+<node id="fecE"/>
+<node id="fecI"/>
+<node id="fecR"/>
+<node id="fepB"/>
+<node id="fepC"/>
+<node id="fepD"/>
+<node id="fepE"/>
+<node id="fepG"/>
+<node id="fes"/>
+<node id="fhuC"/>
+<node id="glpF"/>
+<node id="glpK"/>
+<node id="nth"/>
+<node id="pyrC"/>
+<node id="recN"/>
+<node id="sucB"/>
+<node id="sucC"/>
+<node id="sucD"/>
+<node id="tonB"/>
+<node id="ugpE"/>
+<node id="uxaB"/>
+<node id="entS"/>
+<node id="entH"/>
+<node id="garK"/>
+<node id="garR"/>
+<node id="bfd"/>
+<node id="nohA"/>
+<node id="eamA"/>
+<node id="gpmA"/>
+<node id="mdtL"/>
+<node id="efeB"/>
+<node id="yddA"/>
+<node id="yddB"/>
+<node id="yihN"/>
+<node id="yihX"/>
+<node id="zapB"/>
+<node id="yejG"/>
+<node id="yojI"/>
+<node id="ygaC"/>
+<node id="nrdF"/>
+<node id="ydiE"/>
+<node id="dppB"/>
+<node id="dppC"/>
+<node id="dppD"/>
+<node id="dppF"/>
+<node id="garP"/>
+<node id="nrdE"/>
+<node id="ybdZ"/>
+<node id="yjjZ"/>
+<node id="xynR"/>
+<node id="bssR"/>
+<node id="efeO"/>
+<node id="ortT"/>
+<node id="yncE"/>
+<node id="adhP"/>
+<node id="tfaQ"/>
+<node id="tqsA"/>
+<node id="mntP"/>
+<node id="ftnB"/>
+<node id="mntH"/>
+<node id="maeB"/>
+<node id="pdeF"/>
+<node id="nrdH"/>
+<node id="nrdI"/>
+<node id="hybO"/>
+<node id="gpr"/>
+<node id="yqhD"/>
+<node id="dkgA"/>
+<node id="nfeF"/>
+<node id="yjiR"/>
+<node id="fhuF"/>
+<node id="uxaC"/>
+<node id="ArcA"/>
+<node id="cydC"/>
+<node id="arcA"/>
+<node id="argR"/>
+<node id="argT"/>
+<node id="betB"/>
+<node id="betI"/>
+<node id="betT"/>
+<node id="carA"/>
+<node id="moeA"/>
+<node id="moeB"/>
+<node id="cyoA"/>
+<node id="cyoB"/>
+<node id="cyoC"/>
+<node id="cyoD"/>
+<node id="cyoE"/>
+<node id="dppA"/>
+<node id="fumA"/>
+<node id="glpD"/>
+<node id="glpE"/>
+<node id="gltA"/>
+<node id="kdpA"/>
+<node id="kgtP"/>
+<node id="manA"/>
+<node id="mdh"/>
+<node id="ndk"/>
+<node id="pepN"/>
+<node id="pldA"/>
+<node id="pncB"/>
+<node id="pntA"/>
+<node id="putA"/>
+<node id="putP"/>
+<node id="rho"/>
+<node id="sdhD"/>
+<node id="ssb"/>
+<node id="thrA"/>
+<node id="uvrA"/>
+<node id="xthA"/>
+<node id="dsbB"/>
+<node id="cydD"/>
+<node id="yigI"/>
+<node id="ybfA"/>
+<node id="fadD"/>
+<node id="thiC"/>
+<node id="potF"/>
+<node id="yieE"/>
+<node id="yfiF"/>
+<node id="nupC"/>
+<node id="yeiQ"/>
+<node id="acnB"/>
+<node id="glcB"/>
+<node id="acpP"/>
+<node id="glcF"/>
+<node id="fadH"/>
+<node id="ybiU"/>
+<node id="rutG"/>
+<node id="rutF"/>
+<node id="rutE"/>
+<node id="rutD"/>
+<node id="rutC"/>
+<node id="rutB"/>
+<node id="rutA"/>
+<node id="ynaJ"/>
+<node id="ydgC"/>
+<node id="rstA"/>
+<node id="fadJ"/>
+<node id="fadI"/>
+<node id="glcA"/>
+<node id="glcG"/>
+<node id="glcE"/>
+<node id="nudE"/>
+<node id="igaA"/>
+<node id="yhgE"/>
+<node id="GlpR"/>
+<node id="glpB"/>
+<node id="glpC"/>
+<node id="glpQ"/>
+<node id="glpX"/>
+<node id="SutR"/>
+<node id="ydcO"/>
+<node id="sutR"/>
+<node id="KdpE"/>
+<node id="kdpB"/>
+<node id="kdpC"/>
+<node id="kdpF"/>
+<node id="SgrR"/>
+<node id="thiQ"/>
+<node id="thiP"/>
+<node id="thiB"/>
+<node id="sgrR"/>
+<node id="alaC"/>
+<node id="ArgR"/>
+<node id="hisM"/>
+<node id="argA"/>
+<node id="argB"/>
+<node id="argC"/>
+<node id="argD"/>
+<node id="argI"/>
+<node id="aroK"/>
+<node id="carB"/>
+<node id="cvpA"/>
+<node id="dacC"/>
+<node id="gltP"/>
+<node id="hisP"/>
+<node id="infB"/>
+<node id="waaA"/>
+<node id="nusA"/>
+<node id="pfkB"/>
+<node id="pnp"/>
+<node id="rpsO"/>
+<node id="yffB"/>
+<node id="truB"/>
+<node id="rbfA"/>
+<node id="rimP"/>
+<node id="argH"/>
+<node id="mukE"/>
+<node id="hisL"/>
+<node id="pyrL"/>
+<node id="argE"/>
+<node id="yaaU"/>
+<node id="artP"/>
+<node id="artI"/>
+<node id="artQ"/>
+<node id="artM"/>
+<node id="artJ"/>
+<node id="puuB"/>
+<node id="hisJ"/>
+<node id="hisQ"/>
+<node id="ykgA"/>
+<node id="lysO"/>
+<node id="ydgI"/>
+<node id="astE"/>
+<node id="astB"/>
+<node id="astD"/>
+<node id="astA"/>
+<node id="astC"/>
+<node id="eutS"/>
+<node id="yraQ"/>
+<node id="yhcC"/>
+<node id="PspF"/>
+<node id="pspA"/>
+<node id="pspB"/>
+<node id="pspC"/>
+<node id="pspD"/>
+<node id="pspE"/>
+<node id="pspG"/>
+<node id="pspF"/>
+<node id="PaaX"/>
+<node id="paaZ"/>
+<node id="paaA"/>
+<node id="paaB"/>
+<node id="paaC"/>
+<node id="paaD"/>
+<node id="paaE"/>
+<node id="paaF"/>
+<node id="paaG"/>
+<node id="paaH"/>
+<node id="paaI"/>
+<node id="paaJ"/>
+<node id="paaK"/>
+<node id="paaX"/>
+<node id="paaY"/>
+<node id="CytR"/>
+<node id="cdd"/>
+<node id="cytR"/>
+<node id="nupG"/>
+<node id="ppiA"/>
+<node id="udp"/>
+<node id="MatA"/>
+<node id="fliC"/>
+<node id="ecpA"/>
+<node id="CaiF"/>
+<node id="caiD"/>
+<node id="caiC"/>
+<node id="caiB"/>
+<node id="caiA"/>
+<node id="caiT"/>
+<node id="fixA"/>
+<node id="fixB"/>
+<node id="fixC"/>
+<node id="fixX"/>
+<node id="caiE"/>
+<node id="CusR"/>
+<node id="PurR"/>
+<node id="glnB"/>
+<node id="glyA"/>
+<node id="prs"/>
+<node id="purC"/>
+<node id="purE"/>
+<node id="purF"/>
+<node id="purK"/>
+<node id="purL"/>
+<node id="purM"/>
+<node id="purN"/>
+<node id="pyrD"/>
+<node id="speA"/>
+<node id="speB"/>
+<node id="ubiX"/>
+<node id="purB"/>
+<node id="codA"/>
+<node id="codB"/>
+<node id="hflD"/>
+<node id="purT"/>
+<node id="GadRcs"/>
+<node id="aslB"/>
+<node id="adiC"/>
+<node id="FadR"/>
+<node id="accD"/>
+<node id="fabA"/>
+<node id="fabB"/>
+<node id="accB"/>
+<node id="accC"/>
+<node id="fabH"/>
+<node id="fabD"/>
+<node id="fabG"/>
+<node id="uspA"/>
+<node id="fabI"/>
+<node id="accA"/>
+<node id="FNR"/>
+<node id="fnr"/>
+<node id="hemA"/>
+<node id="prfA"/>
+<node id="pykA"/>
+<node id="ung"/>
+<node id="upp"/>
+<node id="nikR"/>
+<node id="viaA"/>
+<node id="ravA"/>
+<node id="nikA"/>
+<node id="nikB"/>
+<node id="nikC"/>
+<node id="nikD"/>
+<node id="nikE"/>
+<node id="uraA"/>
+<node id="ccp"/>
+<node id="yibN"/>
+<node id="garD"/>
+<node id="caiF"/>
+<node id="dcuC"/>
+<node id="ydfZ"/>
+<node id="ydfO"/>
+<node id="yffS"/>
+<node id="mltA"/>
+<node id="aer"/>
+<node id="Nac"/>
+<node id="ispB"/>
+<node id="amn"/>
+<node id="ampD"/>
+<node id="cysQ"/>
+<node id="aroD"/>
+<node id="aroE"/>
+<node id="asnA"/>
+<node id="asnC"/>
+<node id="bfr"/>
+<node id="bisC"/>
+<node id="cheA"/>
+<node id="cpdB"/>
+<node id="cynT"/>
+<node id="cysJ"/>
+<node id="dcm"/>
+<node id="dcp"/>
+<node id="ddlA"/>
+<node id="dld"/>
+<node id="mltD"/>
+<node id="fucA"/>
+<node id="mnmG"/>
+<node id="gor"/>
+<node id="hemB"/>
+<node id="hemH"/>
+<node id="hfq"/>
+<node id="htpG"/>
+<node id="ilvN"/>
+<node id="intD"/>
+<node id="kbl"/>
+<node id="lepA"/>
+<node id="lepB"/>
+<node id="livH"/>
+<node id="livK"/>
+<node id="livM"/>
+<node id="lysR"/>
+<node id="malI"/>
+<node id="malY"/>
+<node id="mcrB"/>
+<node id="metE"/>
+<node id="metR"/>
+<node id="mglB"/>
+<node id="groS"/>
+<node id="mreC"/>
+<node id="nusB"/>
+<node id="osmB"/>
+<node id="phoB"/>
+<node id="pstS"/>
+<node id="pstC"/>
+<node id="ptrA"/>
+<node id="pyrB"/>
+<node id="rep"/>
+<node id="rfaH"/>
+<node id="rpmH"/>
+<node id="rpoZ"/>
+<node id="gmk"/>
+<node id="srlR"/>
+<node id="tdcR"/>
+<node id="thrS"/>
+<node id="tolB"/>
+<node id="trxB"/>
+<node id="uhpA"/>
+<node id="sbcD"/>
+<node id="yajD"/>
+<node id="ybgC"/>
+<node id="uvrY"/>
+<node id="xapR"/>
+<node id="ppdC"/>
+<node id="ygdB"/>
+<node id="yhaB"/>
+<node id="mscL"/>
+<node id="mioC"/>
+<node id="ydiB"/>
+<node id="pdeL"/>
+<node id="ycaC"/>
+<node id="ycaD"/>
+<node id="chpS"/>
+<node id="ychA"/>
+<node id="iraP"/>
+<node id="yifB"/>
+<node id="ilvL"/>
+<node id="leuL"/>
+<node id="wzzE"/>
+<node id="dsbA"/>
+<node id="ligB"/>
+<node id="waaG"/>
+<node id="mdtG"/>
+<node id="amiB"/>
+<node id="bglH"/>
+<node id="ubiA"/>
+<node id="ahpC"/>
+<node id="dadA"/>
+<node id="cynR"/>
+<node id="msrA"/>
+<node id="yigL"/>
+<node id="pabC"/>
+<node id="holE"/>
+<node id="yhcA"/>
+<node id="ycgB"/>
+<node id="ybfC"/>
+<node id="ibpA"/>
+<node id="nadC"/>
+<node id="greB"/>
+<node id="ygiF"/>
+<node id="eptA"/>
+<node id="yafC"/>
+<node id="yafD"/>
+<node id="yadC"/>
+<node id="yicJ"/>
+<node id="nudC"/>
+<node id="yidQ"/>
+<node id="yieH"/>
+<node id="cbrB"/>
+<node id="cbrC"/>
+<node id="yieP"/>
+<node id="nfrB"/>
+<node id="ybbC"/>
+<node id="cmtB"/>
+<node id="cmtA"/>
+<node id="rlmM"/>
+<node id="hofC"/>
+<node id="mobA"/>
+<node id="hemN"/>
+<node id="yihL"/>
+<node id="yihO"/>
+<node id="yihQ"/>
+<node id="yiiE"/>
+<node id="yiiF"/>
+<node id="fdhD"/>
+<node id="yijO"/>
+<node id="yjaH"/>
+<node id="yjbB"/>
+<node id="pdeC"/>
+<node id="yjcF"/>
+<node id="yjcO"/>
+<node id="rfbC"/>
+<node id="yehE"/>
+<node id="bglX"/>
+<node id="yeiH"/>
+<node id="yejB"/>
+<node id="secG"/>
+<node id="yeiE"/>
+<node id="prfC"/>
+<node id="nlpE"/>
+<node id="yaeF"/>
+<node id="cobT"/>
+<node id="waaF"/>
+<node id="yhhQ"/>
+<node id="yhiJ"/>
+<node id="yhjD"/>
+<node id="yiaD"/>
+<node id="wecH"/>
+<node id="yadM"/>
+<node id="cdaR"/>
+<node id="ygiL"/>
+<node id="ppnN"/>
+<node id="yecD"/>
+<node id="yecE"/>
+<node id="ybgE"/>
+<node id="iaaA"/>
+<node id="gatA"/>
+<node id="tomB"/>
+<node id="ygiM"/>
+<node id="prmB"/>
+<node id="ybaL"/>
+<node id="ygiN"/>
+<node id="lpxH"/>
+<node id="ycaK"/>
+<node id="exuT"/>
+<node id="yecF"/>
+<node id="pitB"/>
+<node id="cobU"/>
+<node id="yohO"/>
+<node id="yciZ"/>
+<node id="shoB"/>
+<node id="ecnA"/>
+<node id="mgtS"/>
+<node id="yoeB"/>
+<node id="ecnB"/>
+<node id="torI"/>
+<node id="yafV"/>
+<node id="ivy"/>
+<node id="yafQ"/>
+<node id="dinJ"/>
+<node id="yafN"/>
+<node id="yafO"/>
+<node id="yagU"/>
+<node id="ykgL"/>
+<node id="ykgE"/>
+<node id="ykgH"/>
+<node id="yaiS"/>
+<node id="yaiY"/>
+<node id="yaiZ"/>
+<node id="thiL"/>
+<node id="yajO"/>
+<node id="allR"/>
+<node id="glxK"/>
+<node id="ybcK"/>
+<node id="borD"/>
+<node id="ybcV"/>
+<node id="ybdK"/>
+<node id="dsbG"/>
+<node id="uspG"/>
+<node id="ybdR"/>
+<node id="nadD"/>
+<node id="ybeQ"/>
+<node id="ybeR"/>
+<node id="ybeT"/>
+<node id="ybeU"/>
+<node id="ybhD"/>
+<node id="ybhH"/>
+<node id="ybhI"/>
+<node id="ybhM"/>
+<node id="rlmF"/>
+<node id="ybjP"/>
+<node id="ybjQ"/>
+<node id="ybjX"/>
+<node id="macA"/>
+<node id="ycaN"/>
+<node id="elfA"/>
+<node id="elfG"/>
+<node id="yccM"/>
+<node id="rluE"/>
+<node id="ycgX"/>
+<node id="dhaK"/>
+<node id="dhaR"/>
+<node id="ymjA"/>
+<node id="abgA"/>
+<node id="abgR"/>
+<node id="ydaT"/>
+<node id="ydaU"/>
+<node id="ynaK"/>
+<node id="stfR"/>
+<node id="tfaR"/>
+<node id="pinR"/>
+<node id="ompN"/>
+<node id="ydcI"/>
+<node id="ydcS"/>
+<node id="ydcT"/>
+<node id="ydcU"/>
+<node id="ydcV"/>
+<node id="patD"/>
+<node id="ydcY"/>
+<node id="ydcZ"/>
+<node id="curA"/>
+<node id="ansP"/>
+<node id="ddpC"/>
+<node id="ydeQ"/>
+<node id="yneK"/>
+<node id="pinQ"/>
+<node id="ydfR"/>
+<node id="ynfA"/>
+<node id="ynfB"/>
+<node id="ynfD"/>
+<node id="ydgH"/>
+<node id="fumD"/>
+<node id="ydiL"/>
+<node id="ydiM"/>
+<node id="ydiO"/>
+<node id="ydiP"/>
+<node id="ydiY"/>
+<node id="yniB"/>
+<node id="hxpB"/>
+<node id="cho"/>
+<node id="ynjF"/>
+<node id="nudG"/>
+<node id="kdgR"/>
+<node id="yebQ"/>
+<node id="rsmF"/>
+<node id="yobA"/>
+<node id="uspC"/>
+<node id="dcyD"/>
+<node id="yedL"/>
+<node id="hprR"/>
+<node id="mtfA"/>
+<node id="nac"/>
+<node id="yeeZ"/>
+<node id="ugd"/>
+<node id="wcaF"/>
+<node id="wcaE"/>
+<node id="wzc"/>
+<node id="wzb"/>
+<node id="wza"/>
+<node id="yegH"/>
+<node id="yegL"/>
+<node id="yegR"/>
+<node id="yfbK"/>
+<node id="yfbL"/>
+<node id="yfbV"/>
+<node id="yfcP"/>
+<node id="emrK"/>
+<node id="yfdE"/>
+<node id="pdxK"/>
+<node id="yfeK"/>
+<node id="yfeS"/>
+<node id="yfgG"/>
+<node id="yfgH"/>
+<node id="csiE"/>
+<node id="yfhL"/>
+<node id="yfjI"/>
+<node id="abpA"/>
+<node id="ygaV"/>
+<node id="ygaP"/>
+<node id="ygaM"/>
+<node id="ygaZ"/>
+<node id="pphB"/>
+<node id="ispD"/>
+<node id="queD"/>
+<node id="ygcO"/>
+<node id="ygcP"/>
+<node id="ygcS"/>
+<node id="ygcE"/>
+<node id="gudX"/>
+<node id="queF"/>
+<node id="ygdR"/>
+<node id="kduI"/>
+<node id="yqeH"/>
+<node id="yqeJ"/>
+<node id="yqeK"/>
+<node id="ygeG"/>
+<node id="xdhA"/>
+<node id="yqeB"/>
+<node id="scpB"/>
+<node id="yggP"/>
+<node id="yghG"/>
+<node id="yghS"/>
+<node id="yghT"/>
+<node id="ygiZ"/>
+<node id="ygjH"/>
+<node id="yhaI"/>
+<node id="yraH"/>
+<node id="yhbX"/>
+<node id="yhdV"/>
+<node id="yhfL"/>
+<node id="yhfZ"/>
+<node id="yhhZ"/>
+<node id="yrhB"/>
+<node id="insK"/>
+<node id="yjeH"/>
+<node id="yjeJ"/>
+<node id="blc"/>
+<node id="yjfZ"/>
+<node id="ytfB"/>
+<node id="fklB"/>
+<node id="ytfJ"/>
+<node id="ytfP"/>
+<node id="yjgH"/>
+<node id="yjgM"/>
+<node id="yjgN"/>
+<node id="yjhI"/>
+<node id="feaB"/>
+<node id="SlyA"/>
+<node id="sgcA"/>
+<node id="sgcX"/>
+<node id="mdtM"/>
+<node id="sgcB"/>
+<node id="slyA"/>
+<node id="sgcR"/>
+<node id="sgcE"/>
+<node id="sgcQ"/>
+<node id="yjiN"/>
+<node id="YcjW"/>
+<node id="ymjB"/>
+<node id="ycjM"/>
+<node id="ycjN"/>
+<node id="ycjO"/>
+<node id="ycjQ"/>
+<node id="ycjR"/>
+<node id="ycjS"/>
+<node id="ycjT"/>
+<node id="ycjU"/>
+<node id="ycjV"/>
+<node id="ompG"/>
+<node id="YdeO"/>
+<node id="appA"/>
+<node id="appB"/>
+<node id="appC"/>
+<node id="yiiS"/>
+<node id="uspD"/>
+<node id="appX"/>
+<node id="NrdR"/>
+<node id="CysB"/>
+<node id="cysA"/>
+<node id="cysC"/>
+<node id="cysD"/>
+<node id="cysK"/>
+<node id="cysM"/>
+<node id="cysP"/>
+<node id="cysU"/>
+<node id="cysW"/>
+<node id="hslJ"/>
+<node id="cbl"/>
+<node id="NtrC"/>
+<node id="glnP"/>
+<node id="glnQ"/>
+<node id="relA"/>
+<node id="yhdX"/>
+<node id="yhdY"/>
+<node id="yhdZ"/>
+<node id="ddpF"/>
+<node id="ddpD"/>
+<node id="ddpB"/>
+<node id="ddpA"/>
+<node id="ddpX"/>
+<node id="patA"/>
+<node id="NanR"/>
+<node id="MhpR"/>
+<node id="mhpE"/>
+<node id="mhpA"/>
+<node id="mhpB"/>
+<node id="mhpC"/>
+<node id="mhpD"/>
+<node id="mhpF"/>
+<node id="PdhR"/>
+<node id="ddlB"/>
+<node id="lpxC"/>
+<node id="ftsI"/>
+<node id="ftsW"/>
+<node id="mraY"/>
+<node id="murC"/>
+<node id="murE"/>
+<node id="murF"/>
+<node id="murG"/>
+<node id="mraZ"/>
+<node id="rsmH"/>
+<node id="ftsL"/>
+<node id="ppsR"/>
+<node id="ybcW"/>
+<node id="RhaS"/>
+<node id="rhaR"/>
+<node id="rhaS"/>
+<node id="rhaT"/>
+<node id="rhaD"/>
+<node id="rhaA"/>
+<node id="rhaB"/>
+<node id="RutR"/>
+<node id="rutR"/>
+<node id="nemR"/>
+<node id="nemA"/>
+<node id="gloA"/>
+<node id="MalT"/>
+<node id="lamB"/>
+<node id="malK"/>
+<node id="malM"/>
+<node id="malP"/>
+<node id="malQ"/>
+<node id="LsrR"/>
+<node id="lsrK"/>
+<node id="lsrR"/>
+<node id="lsrA"/>
+<node id="lsrC"/>
+<node id="lsrD"/>
+<node id="lsrB"/>
+<node id="lsrF"/>
+<node id="PhoP"/>
+<node id="hemL"/>
+<node id="rstB"/>
+<node id="treR"/>
+<node id="mgtA"/>
+<node id="mgtL"/>
+<node id="clpS"/>
+<node id="iraM"/>
+<node id="slyB"/>
+<node id="mgrB"/>
+<node id="BtsR"/>
+<node id="cspC"/>
+<node id="btsT"/>
+<node id="CpxR"/>
+<node id="acrD"/>
+<node id="cpxR"/>
+<node id="atpB"/>
+<node id="atpI"/>
+<node id="cheW"/>
+<node id="cpxA"/>
+<node id="hha"/>
+<node id="degP"/>
+<node id="motA"/>
+<node id="motB"/>
+<node id="slt"/>
+<node id="tsr"/>
+<node id="yccA"/>
+<node id="ldtD"/>
+<node id="baeR"/>
+<node id="yebE"/>
+<node id="srkA"/>
+<node id="mdtD"/>
+<node id="yddG"/>
+<node id="ampH"/>
+<node id="ppiD"/>
+<node id="efeU"/>
+<node id="ldtC"/>
+<node id="spy"/>
+<node id="mdtA"/>
+<node id="mdtB"/>
+<node id="mdtC"/>
+<node id="kbp"/>
+<node id="yqjA"/>
+<node id="mzrA"/>
+<node id="DpiA"/>
+<node id="citG"/>
+<node id="citX"/>
+<node id="citF"/>
+<node id="citE"/>
+<node id="citD"/>
+<node id="citC"/>
+<node id="MraZ"/>
+<node id="AdiY"/>
+<node id="adiA"/>
+<node id="GntR"/>
+<node id="gntT"/>
+<node id="idnT"/>
+<node id="gntK"/>
+<node id="gntU"/>
+<node id="idnO"/>
+<node id="PdeL"/>
+<node id="rfe"/>
+<node id="yghJ"/>
+<node id="EvgA"/>
+<node id="emrY"/>
+<node id="yegZ"/>
+<node id="frc"/>
+<node id="yfdX"/>
+<node id="BaeR"/>
+<node id="AllR"/>
+<node id="gcl"/>
+<node id="allS"/>
+<node id="allA"/>
+<node id="hyi"/>
+<node id="glxR"/>
+<node id="allB"/>
+<node id="ybbY"/>
+<node id="YhaJ"/>
+<node id="ygiD"/>
+<node id="yqjF"/>
+<node id="yhaK"/>
+<node id="yhaL"/>
+<node id="yhhW"/>
+<node id="GadX"/>
+<node id="btuB"/>
+<node id="murI"/>
+<node id="glsA"/>
+<node id="ybaT"/>
+<node id="ydeM"/>
+<node id="ydeN"/>
+<node id="speG"/>
+<node id="UlaR"/>
+<node id="ulaB"/>
+<node id="ulaC"/>
+<node id="ulaG"/>
+<node id="ulaA"/>
+<node id="ulaD"/>
+<node id="ulaE"/>
+<node id="ulaF"/>
+<node id="CRP"/>
+<node id="puuC"/>
+<node id="ascB"/>
+<node id="cyaA"/>
+<node id="envZ"/>
+<node id="fucI"/>
+<node id="fucK"/>
+<node id="fucR"/>
+<node id="fucU"/>
+<node id="galS"/>
+<node id="gcd"/>
+<node id="glpG"/>
+<node id="glpR"/>
+<node id="hflC"/>
+<node id="hflK"/>
+<node id="hflX"/>
+<node id="ilvB"/>
+<node id="lacI"/>
+<node id="malT"/>
+<node id="malX"/>
+<node id="melA"/>
+<node id="melB"/>
+<node id="mglC"/>
+<node id="priB"/>
+<node id="rplI"/>
+<node id="rplM"/>
+<node id="rpsI"/>
+<node id="rpsR"/>
+<node id="secB"/>
+<node id="trg"/>
+<node id="trxA"/>
+<node id="ugpA"/>
+<node id="ugpB"/>
+<node id="ugpC"/>
+<node id="ugpQ"/>
+<node id="uhpT"/>
+<node id="uxuA"/>
+<node id="hyfA"/>
+<node id="yhfA"/>
+<node id="psiE"/>
+<node id="melR"/>
+<node id="ivbL"/>
+<node id="hyfB"/>
+<node id="preA"/>
+<node id="glgS"/>
+<node id="ychH"/>
+<node id="psuK"/>
+<node id="sbmC"/>
+<node id="psuG"/>
+<node id="hofB"/>
+<node id="ppdD"/>
+<node id="cspE"/>
+<node id="gatB"/>
+<node id="gatC"/>
+<node id="gatD"/>
+<node id="gatY"/>
+<node id="puuR"/>
+<node id="gntP"/>
+<node id="cas3"/>
+<node id="uxaA"/>
+<node id="frlA"/>
+<node id="dgoA"/>
+<node id="dgoK"/>
+<node id="dgoT"/>
+<node id="gpsA"/>
+<node id="hpt"/>
+<node id="uxuB"/>
+<node id="yahN"/>
+<node id="prpR"/>
+<node id="mhpR"/>
+<node id="rihA"/>
+<node id="ldtB"/>
+<node id="ybiT"/>
+<node id="comR"/>
+<node id="bhsA"/>
+<node id="puuD"/>
+<node id="mokB"/>
+<node id="rspB"/>
+<node id="rspA"/>
+<node id="gatZ"/>
+<node id="preT"/>
+<node id="murQ"/>
+<node id="murP"/>
+<node id="hyfC"/>
+<node id="hyfD"/>
+<node id="hyfE"/>
+<node id="hyfF"/>
+<node id="hyfG"/>
+<node id="hyfH"/>
+<node id="hyfI"/>
+<node id="hyfJ"/>
+<node id="hyfR"/>
+<node id="focB"/>
+<node id="ygcW"/>
+<node id="ygeW"/>
+<node id="aaeB"/>
+<node id="aaeA"/>
+<node id="aaeX"/>
+<node id="aaeR"/>
+<node id="frlB"/>
+<node id="frlC"/>
+<node id="frlD"/>
+<node id="frlR"/>
+<node id="hofP"/>
+<node id="hofO"/>
+<node id="hofN"/>
+<node id="hofM"/>
+<node id="dgoR"/>
+<node id="idnR"/>
+<node id="yjhG"/>
+<node id="yjhH"/>
+<node id="dgoD"/>
+<node id="BasR"/>
+<node id="dgkA"/>
+<node id="qseC"/>
+<node id="arnE"/>
+<node id="cspI"/>
+<node id="arnB"/>
+<node id="arnC"/>
+<node id="arnA"/>
+<node id="arnD"/>
+<node id="arnT"/>
+<node id="arnF"/>
+<node id="qseB"/>
+<node id="GlcC"/>
+<node id="SoxS"/>
+<node id="fldA"/>
+<node id="nfo"/>
+<node id="ribA"/>
+<node id="waaY"/>
+<node id="waaZ"/>
+<node id="nepI"/>
+<node id="decR"/>
+<node id="ydbK"/>
+<node id="PhoB"/>
+<node id="phnC"/>
+<node id="phnD"/>
+<node id="phnF"/>
+<node id="phnG"/>
+<node id="phnH"/>
+<node id="phnI"/>
+<node id="phnJ"/>
+<node id="phnK"/>
+<node id="phnL"/>
+<node id="phnM"/>
+<node id="phnN"/>
+<node id="phnO"/>
+<node id="phnP"/>
+<node id="phoA"/>
+<node id="phoE"/>
+<node id="phoR"/>
+<node id="phoU"/>
+<node id="pstA"/>
+<node id="pstB"/>
+<node id="sbcC"/>
+<node id="phnE"/>
+<node id="psiF"/>
+<node id="feaR"/>
+<node id="mipA"/>
+<node id="PuuR"/>
+<node id="ymjE"/>
+<node id="puuP"/>
+<node id="RacR"/>
+<node id="ydaS"/>
+<node id="ydaV"/>
+<node id="ydaW"/>
+<node id="rzpR"/>
+<node id="IHF"/>
+<node id="cysH"/>
+<node id="cysI"/>
+<node id="ihfA"/>
+<node id="ihfB"/>
+<node id="atoA"/>
+<node id="yjbE"/>
+<node id="yjbF"/>
+<node id="yjbG"/>
+<node id="yjbH"/>
+<node id="norW"/>
+<node id="norV"/>
+<node id="LeuO"/>
+<node id="yghR"/>
+<node id="NikR"/>
+<node id="LexA"/>
+<node id="dnaG"/>
+<node id="lexA"/>
+<node id="polB"/>
+<node id="recA"/>
+<node id="recB"/>
+<node id="recD"/>
+<node id="rpoD"/>
+<node id="rpsU"/>
+<node id="umuD"/>
+<node id="dinD"/>
+<node id="dinG"/>
+<node id="dinF"/>
+<node id="ybiB"/>
+<node id="yebG"/>
+<node id="recX"/>
+<node id="tisB"/>
+<node id="ftsK"/>
+<node id="dinI"/>
+<node id="ydjM"/>
+<node id="yoaA"/>
+<node id="symE"/>
+<node id="ruvB"/>
+<node id="OxyR"/>
+<node id="grxA"/>
+<node id="oxyR"/>
+<node id="ahpF"/>
+<node id="ychF"/>
+<node id="trxC"/>
+<node id="zinT"/>
+<node id="flu"/>
+<node id="elaB"/>
+<node id="MetJ"/>
+<node id="metA"/>
+<node id="metB"/>
+<node id="metC"/>
+<node id="metF"/>
+<node id="metL"/>
+<node id="metQ"/>
+<node id="metI"/>
+<node id="Mlc"/>
+<node id="mlc"/>
+<node id="HipB"/>
+<node id="hipB"/>
+<node id="hipA"/>
+<node id="eutA"/>
+<node id="eutH"/>
+<node id="SrsR"/>
+<node id="fucO"/>
+<node id="dhaM"/>
+<node id="yafL"/>
+<node id="bluR"/>
+<node id="dhaL"/>
+<node id="cdgI"/>
+<node id="yfdK"/>
+<node id="yfdL"/>
+<node id="yfdM"/>
+<node id="yfdN"/>
+<node id="yfdO"/>
+<node id="yfdP"/>
+<node id="yfdQ"/>
+<edge source="DsrA" target="hns"/>
+<edge source="DsrA" target="lrp"/>
+<edge source="DsrA" target="rbsA"/>
+<edge source="DsrA" target="rbsB"/>
+<edge source="DsrA" target="rbsC"/>
+<edge source="DsrA" target="rbsD"/>
+<edge source="DsrA" target="rbsK"/>
+<edge source="DsrA" target="rbsR"/>
+<edge source="hns" target="H-NS"/>
+<edge source="hns" target="Fis"/>
+<edge source="lrp" target="GcvB"/>
+<edge source="lrp" target="Lrp"/>
+<edge source="lrp" target="H-NS"/>
+<edge source="lrp" target="ArgR"/>
+<edge source="lrp" target="Nac"/>
+<edge source="rbsA" target="RbsR"/>
+<edge source="rbsB" target="RybB"/>
+<edge source="rbsB" target="RbsR"/>
+<edge source="rbsC" target="RbsR"/>
+<edge source="rbsD" target="RbsR"/>
+<edge source="rbsK" target="RbsR"/>
+<edge source="rbsR" target="RbsR"/>
+<edge source="RpsH" target="secY"/>
+<edge source="RpsH" target="rplE"/>
+<edge source="RpsH" target="rplF"/>
+<edge source="RpsH" target="rplN"/>
+<edge source="RpsH" target="rplO"/>
+<edge source="RpsH" target="rplR"/>
+<edge source="RpsH" target="rplX"/>
+<edge source="RpsH" target="rpmD"/>
+<edge source="RpsH" target="rpsE"/>
+<edge source="RpsH" target="rpsH"/>
+<edge source="RpsH" target="rpsN"/>
+<edge source="RpsH" target="rpmJ"/>
+<edge source="CsrA" target="moaA"/>
+<edge source="CsrA" target="moaB"/>
+<edge source="CsrA" target="moaD"/>
+<edge source="CsrA" target="moaE"/>
+<edge source="CsrA" target="moaC"/>
+<edge source="CsrA" target="rpoE"/>
+<edge source="CsrA" target="idlP"/>
+<edge source="CsrA" target="ytiC"/>
+<edge source="CsrA" target="ytiD"/>
+<edge source="CsrA" target="ymdA"/>
+<edge source="CsrA" target="iraD"/>
+<edge source="moaA" target="ModE"/>
+<edge source="moaA" target="FNR"/>
+<edge source="moaB" target="ModE"/>
+<edge source="moaB" target="FNR"/>
+<edge source="moaD" target="ModE"/>
+<edge source="moaD" target="FNR"/>
+<edge source="moaE" target="ModE"/>
+<edge source="moaE" target="FNR"/>
+<edge source="moaC" target="ModE"/>
+<edge source="moaC" target="FNR"/>
+<edge source="rpoE" target="RcsB"/>
+<edge source="rpoE" target="NtrC"/>
+<edge source="rpoE" target="CpxR"/>
+<edge source="rpoE" target="CRP"/>
+<edge source="idlP" target="DnaA"/>
+<edge source="ytiC" target="DnaA"/>
+<edge source="ytiD" target="DnaA"/>
+<edge source="iraD" target="DnaA"/>
+<edge source="GcvB" target="cstA"/>
+<edge source="GcvB" target="gdhA"/>
+<edge source="GcvB" target="ilvD"/>
+<edge source="GcvB" target="map"/>
+<edge source="GcvB" target="phoP"/>
+<edge source="GcvB" target="phoQ"/>
+<edge source="GcvB" target="ydeE"/>
+<edge source="cstA" target="CRP"/>
+<edge source="gdhA" target="Spf"/>
+<edge source="gdhA" target="ArgP"/>
+<edge source="gdhA" target="GlaR"/>
+<edge source="gdhA" target="Nac"/>
+<edge source="ilvD" target="Lrp"/>
+<edge source="ilvD" target="IHF"/>
+<edge source="map" target="Fur"/>
+<edge source="map" target="Nac"/>
+<edge source="phoP" target="MicA"/>
+<edge source="phoP" target="PhoP"/>
+<edge source="phoQ" target="MicA"/>
+<edge source="phoQ" target="PhoP"/>
+<edge source="ydeE" target="Nac"/>
+<edge source="McaS" target="flhC"/>
+<edge source="McaS" target="flhD"/>
+<edge source="McaS" target="csgG"/>
+<edge source="McaS" target="csgF"/>
+<edge source="McaS" target="csgE"/>
+<edge source="McaS" target="csgD"/>
+<edge source="flhC" target="OmrB"/>
+<edge source="flhC" target="OmrA"/>
+<edge source="flhC" target="FliZ"/>
+<edge source="flhC" target="H-NS"/>
+<edge source="flhC" target="MatA"/>
+<edge source="flhC" target="CRP"/>
+<edge source="flhD" target="OmrB"/>
+<edge source="flhD" target="OmrA"/>
+<edge source="flhD" target="FliZ"/>
+<edge source="flhD" target="H-NS"/>
+<edge source="flhD" target="MatA"/>
+<edge source="flhD" target="CRP"/>
+<edge source="csgG" target="RprA"/>
+<edge source="csgG" target="RybB"/>
+<edge source="csgG" target="OmrB"/>
+<edge source="csgG" target="OmrA"/>
+<edge source="csgG" target="FliZ"/>
+<edge source="csgG" target="MqsA"/>
+<edge source="csgG" target="CsgD"/>
+<edge source="csgG" target="H-NS"/>
+<edge source="csgG" target="MlrA"/>
+<edge source="csgG" target="OmpR"/>
+<edge source="csgG" target="RcdA"/>
+<edge source="csgG" target="Cra"/>
+<edge source="csgG" target="BtsR"/>
+<edge source="csgG" target="CpxR"/>
+<edge source="csgG" target="BasR"/>
+<edge source="csgG" target="IHF"/>
+<edge source="csgF" target="RprA"/>
+<edge source="csgF" target="RybB"/>
+<edge source="csgF" target="OmrB"/>
+<edge source="csgF" target="OmrA"/>
+<edge source="csgF" target="FliZ"/>
+<edge source="csgF" target="MqsA"/>
+<edge source="csgF" target="CsgD"/>
+<edge source="csgF" target="H-NS"/>
+<edge source="csgF" target="MlrA"/>
+<edge source="csgF" target="OmpR"/>
+<edge source="csgF" target="RcdA"/>
+<edge source="csgF" target="Cra"/>
+<edge source="csgF" target="BtsR"/>
+<edge source="csgF" target="CpxR"/>
+<edge source="csgF" target="BasR"/>
+<edge source="csgF" target="IHF"/>
+<edge source="csgE" target="RprA"/>
+<edge source="csgE" target="RybB"/>
+<edge source="csgE" target="OmrB"/>
+<edge source="csgE" target="OmrA"/>
+<edge source="csgE" target="FliZ"/>
+<edge source="csgE" target="MqsA"/>
+<edge source="csgE" target="CsgD"/>
+<edge source="csgE" target="H-NS"/>
+<edge source="csgE" target="MlrA"/>
+<edge source="csgE" target="OmpR"/>
+<edge source="csgE" target="RcdA"/>
+<edge source="csgE" target="Cra"/>
+<edge source="csgE" target="BtsR"/>
+<edge source="csgE" target="CpxR"/>
+<edge source="csgE" target="BasR"/>
+<edge source="csgE" target="IHF"/>
+<edge source="csgD" target="RprA"/>
+<edge source="csgD" target="RybB"/>
+<edge source="csgD" target="OmrB"/>
+<edge source="csgD" target="OmrA"/>
+<edge source="csgD" target="FliZ"/>
+<edge source="csgD" target="MqsA"/>
+<edge source="csgD" target="CsgD"/>
+<edge source="csgD" target="H-NS"/>
+<edge source="csgD" target="MlrA"/>
+<edge source="csgD" target="OmpR"/>
+<edge source="csgD" target="RcdA"/>
+<edge source="csgD" target="Cra"/>
+<edge source="csgD" target="BtsR"/>
+<edge source="csgD" target="CpxR"/>
+<edge source="csgD" target="BasR"/>
+<edge source="csgD" target="IHF"/>
+<edge source="SgrS" target="manX"/>
+<edge source="SgrS" target="manY"/>
+<edge source="SgrS" target="manZ"/>
+<edge source="SgrS" target="ptsG"/>
+<edge source="SgrS" target="purR"/>
+<edge source="SgrS" target="yeiB"/>
+<edge source="SgrS" target="folE"/>
+<edge source="SgrS" target="adiY"/>
+<edge source="manX" target="NagC"/>
+<edge source="manX" target="Cra"/>
+<edge source="manX" target="CRP"/>
+<edge source="manX" target="Mlc"/>
+<edge source="manY" target="Cra"/>
+<edge source="manY" target="CRP"/>
+<edge source="manY" target="Mlc"/>
+<edge source="manZ" target="Cra"/>
+<edge source="manZ" target="CRP"/>
+<edge source="manZ" target="Mlc"/>
+<edge source="ptsG" target="Fis"/>
+<edge source="ptsG" target="ArcA"/>
+<edge source="ptsG" target="CRP"/>
+<edge source="ptsG" target="SoxS"/>
+<edge source="ptsG" target="Mlc"/>
+<edge source="purR" target="PurR"/>
+<edge source="yeiB" target="MetJ"/>
+<edge source="folE" target="ArcA"/>
+<edge source="folE" target="MetJ"/>
+<edge source="adiY" target="H-NS"/>
+<edge source="RydC" target="pheA"/>
+<edge source="RydC" target="trpA"/>
+<edge source="RydC" target="trpB"/>
+<edge source="RydC" target="trpC"/>
+<edge source="RydC" target="trpD"/>
+<edge source="RydC" target="trpE"/>
+<edge source="RydC" target="trpL"/>
+<edge source="RydC" target="cfa"/>
+<edge source="trpA" target="TrpR"/>
+<edge source="trpB" target="TrpR"/>
+<edge source="trpC" target="TrpR"/>
+<edge source="trpD" target="TrpR"/>
+<edge source="trpE" target="TrpR"/>
+<edge source="trpL" target="TrpR"/>
+<edge source="cfa" target="Nac"/>
+<edge source="SdhX" target="ackA"/>
+<edge source="SdhX" target="fdhE"/>
+<edge source="SdhX" target="katG"/>
+<edge source="SdhX" target="fdoI"/>
+<edge source="SdhX" target="fdoH"/>
+<edge source="SdhX" target="fdoG"/>
+<edge source="ackA" target="Nac"/>
+<edge source="katG" target="FNR"/>
+<edge source="katG" target="Nac"/>
+<edge source="katG" target="OxyR"/>
+<edge source="fdoG" target="Nac"/>
+<edge source="RprA" target="rpoS"/>
+<edge source="RprA" target="hdeD"/>
+<edge source="RprA" target="narP"/>
+<edge source="RprA" target="dgcM"/>
+<edge source="rpoS" target="CyaR"/>
+<edge source="rpoS" target="MqsA"/>
+<edge source="rpoS" target="TorR"/>
+<edge source="rpoS" target="ArcA"/>
+<edge source="rpoS" target="CRP"/>
+<edge source="hdeD" target="CyaR"/>
+<edge source="hdeD" target="H-NS"/>
+<edge source="hdeD" target="GadE"/>
+<edge source="hdeD" target="PhoP"/>
+<edge source="hdeD" target="GadX"/>
+<edge source="dgcM" target="OmrB"/>
+<edge source="dgcM" target="OmrA"/>
+<edge source="RybB" target="nmpC"/>
+<edge source="RybB" target="ompF"/>
+<edge source="RybB" target="sdhC"/>
+<edge source="RybB" target="rluD"/>
+<edge source="RybB" target="fiu"/>
+<edge source="nmpC" target="OmpR"/>
+<edge source="nmpC" target="CRP"/>
+<edge source="nmpC" target="IHF"/>
+<edge source="ompF" target="OmpR"/>
+<edge source="ompF" target="Nac"/>
+<edge source="ompF" target="CpxR"/>
+<edge source="ompF" target="CRP"/>
+<edge source="sdhC" target="RyhB"/>
+<edge source="sdhC" target="Fur"/>
+<edge source="sdhC" target="ArcA"/>
+<edge source="sdhC" target="Nac"/>
+<edge source="sdhC" target="CRP"/>
+<edge source="fiu" target="Fur"/>
+<edge source="CyaR" target="nadE"/>
+<edge source="CyaR" target="luxS"/>
+<edge source="CyaR" target="yobF"/>
+<edge source="CyaR" target="yqaE"/>
+<edge source="yobF" target="Nac"/>
+<edge source="yobF" target="BtsR"/>
+<edge source="yqaE" target="CpxR"/>
+<edge source="OmrB" target="cirA"/>
+<edge source="OmrB" target="fepA"/>
+<edge source="OmrB" target="ompR"/>
+<edge source="OmrB" target="ompT"/>
+<edge source="OmrB" target="flgM"/>
+<edge source="cirA" target="OmrA"/>
+<edge source="cirA" target="RyhB"/>
+<edge source="cirA" target="Fur"/>
+<edge source="fepA" target="OmrA"/>
+<edge source="fepA" target="Fur"/>
+<edge source="ompR" target="OmrA"/>
+<edge source="ompR" target="Nac"/>
+<edge source="ompR" target="CRP"/>
+<edge source="ompR" target="IHF"/>
+<edge source="ompT" target="OmrA"/>
+<edge source="ompT" target="Nac"/>
+<edge source="ompT" target="PhoP"/>
+<edge source="flgM" target="OmrA"/>
+<edge source="flgM" target="CsgD"/>
+<edge source="flgM" target="FlhDC"/>
+<edge source="Spf" target="araF"/>
+<edge source="Spf" target="ascF"/>
+<edge source="Spf" target="fucP"/>
+<edge source="Spf" target="sthA"/>
+<edge source="Spf" target="nanT"/>
+<edge source="Spf" target="puuE"/>
+<edge source="Spf" target="nanC"/>
+<edge source="Spf" target="srlA"/>
+<edge source="araF" target="AraC"/>
+<edge source="araF" target="Nac"/>
+<edge source="araF" target="CRP"/>
+<edge source="ascF" target="CRP"/>
+<edge source="fucP" target="CRP"/>
+<edge source="fucP" target="SrsR"/>
+<edge source="sthA" target="ArcA"/>
+<edge source="nanT" target="Fis"/>
+<edge source="nanT" target="NanR"/>
+<edge source="nanT" target="CRP"/>
+<edge source="puuE" target="CRP"/>
+<edge source="puuE" target="PuuR"/>
+<edge source="nanC" target="NagC"/>
+<edge source="nanC" target="NanR"/>
+<edge source="nanC" target="CRP"/>
+<edge source="MicA" target="ompA"/>
+<edge source="MicA" target="tsx"/>
+<edge source="MicA" target="ompX"/>
+<edge source="MicA" target="yliM"/>
+<edge source="ompA" target="Nac"/>
+<edge source="tsx" target="CytR"/>
+<edge source="tsx" target="CRP"/>
+<edge source="ompX" target="OmpR"/>
+<edge source="RyhB" target="cysE"/>
+<edge source="RyhB" target="fur"/>
+<edge source="RyhB" target="nirB"/>
+<edge source="RyhB" target="sdhA"/>
+<edge source="RyhB" target="sdhB"/>
+<edge source="RyhB" target="sodB"/>
+<edge source="RyhB" target="sucA"/>
+<edge source="RyhB" target="nuoM"/>
+<edge source="RyhB" target="nuoF"/>
+<edge source="RyhB" target="nuoA"/>
+<edge source="RyhB" target="nuoB"/>
+<edge source="RyhB" target="nuoC"/>
+<edge source="RyhB" target="nuoE"/>
+<edge source="RyhB" target="nuoG"/>
+<edge source="RyhB" target="nuoH"/>
+<edge source="RyhB" target="nuoI"/>
+<edge source="RyhB" target="nuoJ"/>
+<edge source="RyhB" target="nuoK"/>
+<edge source="RyhB" target="nuoL"/>
+<edge source="RyhB" target="nuoN"/>
+<edge source="RyhB" target="iscA"/>
+<edge source="RyhB" target="erpA"/>
+<edge source="RyhB" target="msrB"/>
+<edge source="RyhB" target="uof"/>
+<edge source="RyhB" target="shiA"/>
+<edge source="RyhB" target="iscU"/>
+<edge source="RyhB" target="iscS"/>
+<edge source="RyhB" target="iscR"/>
+<edge source="cysE" target="SutR"/>
+<edge source="fur" target="Fur"/>
+<edge source="fur" target="CRP"/>
+<edge source="fur" target="SoxS"/>
+<edge source="fur" target="OxyR"/>
+<edge source="nirB" target="NarL"/>
+<edge source="nirB" target="H-NS"/>
+<edge source="nirB" target="Fis"/>
+<edge source="nirB" target="Cra"/>
+<edge source="nirB" target="NarP"/>
+<edge source="nirB" target="FNR"/>
+<edge source="nirB" target="IHF"/>
+<edge source="sdhA" target="Fur"/>
+<edge source="sdhA" target="ArcA"/>
+<edge source="sdhB" target="Fur"/>
+<edge source="sdhB" target="ArcA"/>
+<edge source="sdhB" target="CRP"/>
+<edge source="sucA" target="Fur"/>
+<edge source="sucA" target="ArcA"/>
+<edge source="sucA" target="Nac"/>
+<edge source="sucA" target="CRP"/>
+<edge source="nuoM" target="Fis"/>
+<edge source="nuoM" target="ArcA"/>
+<edge source="nuoM" target="FNR"/>
+<edge source="nuoM" target="IHF"/>
+<edge source="nuoF" target="Fis"/>
+<edge source="nuoF" target="ArcA"/>
+<edge source="nuoF" target="FNR"/>
+<edge source="nuoF" target="IHF"/>
+<edge source="nuoA" target="Fis"/>
+<edge source="nuoA" target="ArcA"/>
+<edge source="nuoA" target="FNR"/>
+<edge source="nuoA" target="IHF"/>
+<edge source="nuoB" target="Fis"/>
+<edge source="nuoB" target="ArcA"/>
+<edge source="nuoB" target="FNR"/>
+<edge source="nuoB" target="IHF"/>
+<edge source="nuoC" target="Fis"/>
+<edge source="nuoC" target="ArcA"/>
+<edge source="nuoC" target="FNR"/>
+<edge source="nuoC" target="IHF"/>
+<edge source="nuoE" target="Fis"/>
+<edge source="nuoE" target="ArcA"/>
+<edge source="nuoE" target="FNR"/>
+<edge source="nuoE" target="IHF"/>
+<edge source="nuoG" target="Fis"/>
+<edge source="nuoG" target="ArcA"/>
+<edge source="nuoG" target="FNR"/>
+<edge source="nuoG" target="IHF"/>
+<edge source="nuoH" target="Fis"/>
+<edge source="nuoH" target="ArcA"/>
+<edge source="nuoH" target="FNR"/>
+<edge source="nuoH" target="IHF"/>
+<edge source="nuoI" target="Fis"/>
+<edge source="nuoI" target="ArcA"/>
+<edge source="nuoI" target="FNR"/>
+<edge source="nuoI" target="IHF"/>
+<edge source="nuoJ" target="Fis"/>
+<edge source="nuoJ" target="ArcA"/>
+<edge source="nuoJ" target="FNR"/>
+<edge source="nuoJ" target="IHF"/>
+<edge source="nuoK" target="Fis"/>
+<edge source="nuoK" target="ArcA"/>
+<edge source="nuoK" target="FNR"/>
+<edge source="nuoK" target="IHF"/>
+<edge source="nuoL" target="Fis"/>
+<edge source="nuoL" target="ArcA"/>
+<edge source="nuoL" target="FNR"/>
+<edge source="nuoL" target="IHF"/>
+<edge source="nuoN" target="OmpR"/>
+<edge source="nuoN" target="Fis"/>
+<edge source="nuoN" target="ArcA"/>
+<edge source="nuoN" target="FNR"/>
+<edge source="nuoN" target="IHF"/>
+<edge source="iscA" target="IscR"/>
+<edge source="erpA" target="IscR"/>
+<edge source="erpA" target="Fur"/>
+<edge source="msrB" target="ArcA"/>
+<edge source="msrB" target="FNR"/>
+<edge source="uof" target="SoxS"/>
+<edge source="uof" target="OxyR"/>
+<edge source="shiA" target="Nac"/>
+<edge source="iscU" target="IscR"/>
+<edge source="iscS" target="IscR"/>
+<edge source="iscR" target="IscR"/>
+<edge source="FliX" target="rplB"/>
+<edge source="FliX" target="rplC"/>
+<edge source="FliX" target="rplD"/>
+<edge source="FliX" target="rplP"/>
+<edge source="FliX" target="rplV"/>
+<edge source="FliX" target="rplW"/>
+<edge source="FliX" target="rpmC"/>
+<edge source="FliX" target="rpsC"/>
+<edge source="FliX" target="rpsJ"/>
+<edge source="FliX" target="rpsQ"/>
+<edge source="FliX" target="rpsS"/>
+<edge source="carbon storage regulator CsrA" target="glgA"/>
+<edge source="carbon storage regulator CsrA" target="glgC"/>
+<edge source="carbon storage regulator CsrA" target="glgP"/>
+<edge source="carbon storage regulator CsrA" target="sdiA"/>
+<edge source="carbon storage regulator CsrA" target="nhaR"/>
+<edge source="carbon storage regulator CsrA" target="dgcZ"/>
+<edge source="carbon storage regulator CsrA" target="pgaD"/>
+<edge source="carbon storage regulator CsrA" target="pgaC"/>
+<edge source="carbon storage regulator CsrA" target="pgaB"/>
+<edge source="carbon storage regulator CsrA" target="pgaA"/>
+<edge source="carbon storage regulator CsrA" target="dgcT"/>
+<edge source="glgA" target="CRP"/>
+<edge source="glgC" target="CRP"/>
+<edge source="glgP" target="CRP"/>
+<edge source="sdiA" target="Nac"/>
+<edge source="nhaR" target="NhaR"/>
+<edge source="nhaR" target="YdeO"/>
+<edge source="dgcZ" target="CpxR"/>
+<edge source="pgaD" target="OmpR"/>
+<edge source="pgaD" target="NhaR"/>
+<edge source="pgaC" target="OmpR"/>
+<edge source="pgaC" target="NhaR"/>
+<edge source="pgaB" target="OmpR"/>
+<edge source="pgaB" target="NhaR"/>
+<edge source="pgaA" target="OmpR"/>
+<edge source="pgaA" target="NhaR"/>
+<edge source="pgaA" target="Nac"/>
+<edge source="dgcT" target="Nac"/>
+<edge source="AgaR" target="agaA"/>
+<edge source="AgaR" target="kbaY"/>
+<edge source="AgaR" target="agaB"/>
+<edge source="AgaR" target="agaC"/>
+<edge source="AgaR" target="agaR"/>
+<edge source="AgaR" target="kbaZ"/>
+<edge source="AgaR" target="agaV"/>
+<edge source="AgaR" target="agaW"/>
+<edge source="AgaR" target="agaS"/>
+<edge source="AgaR" target="agaD"/>
+<edge source="AgaR" target="agaI"/>
+<edge source="agaA" target="CRP"/>
+<edge source="kbaY" target="Nac"/>
+<edge source="kbaZ" target="CRP"/>
+<edge source="agaV" target="CRP"/>
+<edge source="agaW" target="CRP"/>
+<edge source="TdcA" target="tdcA"/>
+<edge source="TdcA" target="tdcB"/>
+<edge source="TdcA" target="tdcC"/>
+<edge source="TdcA" target="tdcD"/>
+<edge source="TdcA" target="tdcG"/>
+<edge source="TdcA" target="tdcF"/>
+<edge source="TdcA" target="tdcE"/>
+<edge source="tdcA" target="TdcR"/>
+<edge source="tdcA" target="Nac"/>
+<edge source="tdcA" target="CRP"/>
+<edge source="tdcA" target="IHF"/>
+<edge source="tdcB" target="TdcR"/>
+<edge source="tdcB" target="CRP"/>
+<edge source="tdcB" target="IHF"/>
+<edge source="tdcC" target="TdcR"/>
+<edge source="tdcC" target="CRP"/>
+<edge source="tdcC" target="IHF"/>
+<edge source="tdcD" target="TdcR"/>
+<edge source="tdcD" target="CRP"/>
+<edge source="tdcD" target="IHF"/>
+<edge source="tdcG" target="TdcR"/>
+<edge source="tdcG" target="CRP"/>
+<edge source="tdcG" target="IHF"/>
+<edge source="tdcF" target="TdcR"/>
+<edge source="tdcF" target="CRP"/>
+<edge source="tdcF" target="IHF"/>
+<edge source="tdcE" target="TdcR"/>
+<edge source="tdcE" target="CRP"/>
+<edge source="tdcE" target="IHF"/>
+<edge source="NarL" target="adhE"/>
+<edge source="NarL" target="aspA"/>
+<edge source="NarL" target="cysG"/>
+<edge source="NarL" target="dmsA"/>
+<edge source="NarL" target="dmsB"/>
+<edge source="NarL" target="dmsC"/>
+<edge source="NarL" target="fdhF"/>
+<edge source="NarL" target="frdA"/>
+<edge source="NarL" target="frdB"/>
+<edge source="NarL" target="frdC"/>
+<edge source="NarL" target="frdD"/>
+<edge source="NarL" target="narG"/>
+<edge source="NarL" target="narH"/>
+<edge source="NarL" target="narI"/>
+<edge source="NarL" target="narJ"/>
+<edge source="NarL" target="narK"/>
+<edge source="NarL" target="nirC"/>
+<edge source="NarL" target="nirD"/>
+<edge source="NarL" target="ogt"/>
+<edge source="NarL" target="pflB"/>
+<edge source="NarL" target="poxB"/>
+<edge source="NarL" target="ompW"/>
+<edge source="NarL" target="dcuA"/>
+<edge source="NarL" target="fdnG"/>
+<edge source="NarL" target="fdnH"/>
+<edge source="NarL" target="fdnI"/>
+<edge source="NarL" target="focA"/>
+<edge source="NarL" target="nrfA"/>
+<edge source="NarL" target="nrfB"/>
+<edge source="NarL" target="nrfC"/>
+<edge source="NarL" target="nrfD"/>
+<edge source="NarL" target="nrfE"/>
+<edge source="NarL" target="nrfF"/>
+<edge source="NarL" target="nrfG"/>
+<edge source="NarL" target="ccmH"/>
+<edge source="NarL" target="ccmG"/>
+<edge source="NarL" target="ccmF"/>
+<edge source="NarL" target="ccmE"/>
+<edge source="NarL" target="ccmC"/>
+<edge source="NarL" target="ccmB"/>
+<edge source="NarL" target="ccmA"/>
+<edge source="NarL" target="napC"/>
+<edge source="NarL" target="napB"/>
+<edge source="NarL" target="napH"/>
+<edge source="NarL" target="napG"/>
+<edge source="NarL" target="napA"/>
+<edge source="NarL" target="napF"/>
+<edge source="NarL" target="napD"/>
+<edge source="NarL" target="ccmD"/>
+<edge source="NarL" target="hcr"/>
+<edge source="NarL" target="hcp"/>
+<edge source="NarL" target="ydeP"/>
+<edge source="NarL" target="ynfE"/>
+<edge source="NarL" target="ynfF"/>
+<edge source="NarL" target="ynfG"/>
+<edge source="NarL" target="ynfH"/>
+<edge source="NarL" target="dmsD"/>
+<edge source="NarL" target="ydhT"/>
+<edge source="NarL" target="ydhV"/>
+<edge source="NarL" target="ydhY"/>
+<edge source="NarL" target="yoaG"/>
+<edge source="NarL" target="yeaR"/>
+<edge source="NarL" target="dcuR"/>
+<edge source="NarL" target="dcuS"/>
+<edge source="adhE" target="FlhDC"/>
+<edge source="adhE" target="Fis"/>
+<edge source="adhE" target="Cra"/>
+<edge source="adhE" target="FNR"/>
+<edge source="aspA" target="Lrp"/>
+<edge source="aspA" target="FNR"/>
+<edge source="aspA" target="CRP"/>
+<edge source="cysG" target="H-NS"/>
+<edge source="cysG" target="Fis"/>
+<edge source="cysG" target="Cra"/>
+<edge source="cysG" target="NarP"/>
+<edge source="cysG" target="FNR"/>
+<edge source="cysG" target="IHF"/>
+<edge source="dmsA" target="ModE"/>
+<edge source="dmsA" target="Fur"/>
+<edge source="dmsA" target="FNR"/>
+<edge source="dmsA" target="IHF"/>
+<edge source="dmsB" target="ModE"/>
+<edge source="dmsB" target="Fur"/>
+<edge source="dmsB" target="FNR"/>
+<edge source="dmsB" target="IHF"/>
+<edge source="dmsC" target="ModE"/>
+<edge source="dmsC" target="Fur"/>
+<edge source="dmsC" target="FNR"/>
+<edge source="dmsC" target="IHF"/>
+<edge source="fdhF" target="FhlA"/>
+<edge source="frdA" target="DcuR"/>
+<edge source="frdA" target="FNR"/>
+<edge source="frdB" target="DcuR"/>
+<edge source="frdB" target="FNR"/>
+<edge source="frdC" target="DcuR"/>
+<edge source="frdC" target="FNR"/>
+<edge source="frdD" target="DcuR"/>
+<edge source="frdD" target="FNR"/>
+<edge source="narG" target="Rob"/>
+<edge source="narG" target="FNR"/>
+<edge source="narG" target="IHF"/>
+<edge source="narH" target="FNR"/>
+<edge source="narH" target="IHF"/>
+<edge source="narI" target="FNR"/>
+<edge source="narI" target="IHF"/>
+<edge source="narJ" target="FNR"/>
+<edge source="narJ" target="IHF"/>
+<edge source="narK" target="FNR"/>
+<edge source="narK" target="Nac"/>
+<edge source="narK" target="IHF"/>
+<edge source="nirC" target="H-NS"/>
+<edge source="nirC" target="Fis"/>
+<edge source="nirC" target="Cra"/>
+<edge source="nirC" target="NarP"/>
+<edge source="nirC" target="FNR"/>
+<edge source="nirC" target="IHF"/>
+<edge source="nirD" target="H-NS"/>
+<edge source="nirD" target="Fis"/>
+<edge source="nirD" target="Cra"/>
+<edge source="nirD" target="NarP"/>
+<edge source="nirD" target="FNR"/>
+<edge source="nirD" target="IHF"/>
+<edge source="ogt" target="Fis"/>
+<edge source="pflB" target="ArcA"/>
+<edge source="pflB" target="FNR"/>
+<edge source="pflB" target="CRP"/>
+<edge source="pflB" target="IHF"/>
+<edge source="poxB" target="NsrR"/>
+<edge source="poxB" target="FNR"/>
+<edge source="poxB" target="OxyR"/>
+<edge source="ompW" target="ArcA"/>
+<edge source="ompW" target="FNR"/>
+<edge source="ompW" target="CRP"/>
+<edge source="dcuA" target="ArcA"/>
+<edge source="dcuA" target="FNR"/>
+<edge source="dcuA" target="CRP"/>
+<edge source="fdnG" target="NarP"/>
+<edge source="fdnG" target="FNR"/>
+<edge source="fdnG" target="CpxR"/>
+<edge source="fdnH" target="NarP"/>
+<edge source="fdnH" target="FNR"/>
+<edge source="fdnI" target="NarP"/>
+<edge source="fdnI" target="FNR"/>
+<edge source="focA" target="FNR"/>
+<edge source="focA" target="CRP"/>
+<edge source="focA" target="IHF"/>
+<edge source="nrfA" target="Fis"/>
+<edge source="nrfA" target="NarP"/>
+<edge source="nrfA" target="FNR"/>
+<edge source="nrfA" target="IHF"/>
+<edge source="nrfB" target="NsrR"/>
+<edge source="nrfB" target="Fis"/>
+<edge source="nrfB" target="NarP"/>
+<edge source="nrfB" target="FNR"/>
+<edge source="nrfB" target="IHF"/>
+<edge source="nrfC" target="Fis"/>
+<edge source="nrfC" target="NarP"/>
+<edge source="nrfC" target="FNR"/>
+<edge source="nrfC" target="IHF"/>
+<edge source="nrfD" target="Fis"/>
+<edge source="nrfD" target="NarP"/>
+<edge source="nrfD" target="FNR"/>
+<edge source="nrfD" target="IHF"/>
+<edge source="nrfE" target="Fis"/>
+<edge source="nrfE" target="NarP"/>
+<edge source="nrfE" target="FNR"/>
+<edge source="nrfE" target="IHF"/>
+<edge source="nrfF" target="Fis"/>
+<edge source="nrfF" target="NarP"/>
+<edge source="nrfF" target="FNR"/>
+<edge source="nrfF" target="Nac"/>
+<edge source="nrfF" target="IHF"/>
+<edge source="nrfG" target="Fis"/>
+<edge source="nrfG" target="NarP"/>
+<edge source="nrfG" target="FNR"/>
+<edge source="nrfG" target="Nac"/>
+<edge source="nrfG" target="IHF"/>
+<edge source="ccmH" target="ModE"/>
+<edge source="ccmH" target="NarP"/>
+<edge source="ccmH" target="FNR"/>
+<edge source="ccmH" target="Nac"/>
+<edge source="ccmG" target="ModE"/>
+<edge source="ccmG" target="NarP"/>
+<edge source="ccmG" target="FNR"/>
+<edge source="ccmF" target="ModE"/>
+<edge source="ccmF" target="NarP"/>
+<edge source="ccmF" target="FNR"/>
+<edge source="ccmE" target="ModE"/>
+<edge source="ccmE" target="NarP"/>
+<edge source="ccmE" target="FNR"/>
+<edge source="ccmC" target="ModE"/>
+<edge source="ccmC" target="NarP"/>
+<edge source="ccmC" target="FNR"/>
+<edge source="ccmB" target="ModE"/>
+<edge source="ccmB" target="NarP"/>
+<edge source="ccmB" target="FNR"/>
+<edge source="ccmB" target="Nac"/>
+<edge source="ccmA" target="ModE"/>
+<edge source="ccmA" target="NarP"/>
+<edge source="ccmA" target="FNR"/>
+<edge source="ccmA" target="Nac"/>
+<edge source="napC" target="ModE"/>
+<edge source="napC" target="IscR"/>
+<edge source="napC" target="NarP"/>
+<edge source="napC" target="FNR"/>
+<edge source="napC" target="Nac"/>
+<edge source="napB" target="ModE"/>
+<edge source="napB" target="IscR"/>
+<edge source="napB" target="NarP"/>
+<edge source="napB" target="FNR"/>
+<edge source="napB" target="Nac"/>
+<edge source="napH" target="ModE"/>
+<edge source="napH" target="IscR"/>
+<edge source="napH" target="NarP"/>
+<edge source="napH" target="FNR"/>
+<edge source="napG" target="ModE"/>
+<edge source="napG" target="IscR"/>
+<edge source="napG" target="NarP"/>
+<edge source="napG" target="FNR"/>
+<edge source="napA" target="ModE"/>
+<edge source="napA" target="IscR"/>
+<edge source="napA" target="NarP"/>
+<edge source="napA" target="FNR"/>
+<edge source="napF" target="ModE"/>
+<edge source="napF" target="IscR"/>
+<edge source="napF" target="NarP"/>
+<edge source="napF" target="FNR"/>
+<edge source="napD" target="ModE"/>
+<edge source="napD" target="IscR"/>
+<edge source="napD" target="NarP"/>
+<edge source="napD" target="FNR"/>
+<edge source="ccmD" target="ModE"/>
+<edge source="ccmD" target="NarP"/>
+<edge source="ccmD" target="FNR"/>
+<edge source="hcr" target="NsrR"/>
+<edge source="hcr" target="FNR"/>
+<edge source="hcr" target="OxyR"/>
+<edge source="hcp" target="NsrR"/>
+<edge source="hcp" target="FNR"/>
+<edge source="hcp" target="OxyR"/>
+<edge source="ydeP" target="H-NS"/>
+<edge source="ydeP" target="RcsB"/>
+<edge source="ydeP" target="NarP"/>
+<edge source="ydeP" target="Nac"/>
+<edge source="ydeP" target="EvgA"/>
+<edge source="ynfE" target="FNR"/>
+<edge source="ynfE" target="Nac"/>
+<edge source="ynfF" target="FNR"/>
+<edge source="ynfF" target="Nac"/>
+<edge source="ynfG" target="FNR"/>
+<edge source="ynfG" target="Nac"/>
+<edge source="ynfH" target="FNR"/>
+<edge source="dmsD" target="FNR"/>
+<edge source="ydhT" target="NarP"/>
+<edge source="ydhT" target="FNR"/>
+<edge source="ydhV" target="NarP"/>
+<edge source="ydhV" target="FNR"/>
+<edge source="ydhY" target="NarP"/>
+<edge source="ydhY" target="FNR"/>
+<edge source="yoaG" target="Fis"/>
+<edge source="yeaR" target="Fis"/>
+<edge source="dcuR" target="CRP"/>
+<edge source="FliZ" target="osmY"/>
+<edge source="FliZ" target="hdeA"/>
+<edge source="FliZ" target="hdeB"/>
+<edge source="FliZ" target="yhiD"/>
+<edge source="FliZ" target="gadB"/>
+<edge source="FliZ" target="gadE"/>
+<edge source="FliZ" target="yjbJ"/>
+<edge source="FliZ" target="mlrA"/>
+<edge source="FliZ" target="mdtE"/>
+<edge source="FliZ" target="mdtF"/>
+<edge source="FliZ" target="pdeR"/>
+<edge source="FliZ" target="gadC"/>
+<edge source="osmY" target="Lrp"/>
+<edge source="osmY" target="ArcA"/>
+<edge source="osmY" target="Nac"/>
+<edge source="osmY" target="IHF"/>
+<edge source="hdeA" target="H-NS"/>
+<edge source="hdeA" target="MarA"/>
+<edge source="hdeA" target="GadE"/>
+<edge source="hdeA" target="PhoP"/>
+<edge source="hdeB" target="H-NS"/>
+<edge source="hdeB" target="MarA"/>
+<edge source="hdeB" target="GadE"/>
+<edge source="hdeB" target="PhoP"/>
+<edge source="hdeB" target="GadX"/>
+<edge source="yhiD" target="H-NS"/>
+<edge source="yhiD" target="MarA"/>
+<edge source="yhiD" target="GadE"/>
+<edge source="yhiD" target="PhoP"/>
+<edge source="gadB" target="GadE"/>
+<edge source="gadB" target="AdiY"/>
+<edge source="gadB" target="GadX"/>
+<edge source="gadE" target="H-NS"/>
+<edge source="gadE" target="ArcA"/>
+<edge source="gadE" target="Nac"/>
+<edge source="gadE" target="YdeO"/>
+<edge source="gadE" target="EvgA"/>
+<edge source="gadE" target="GadX"/>
+<edge source="gadE" target="CRP"/>
+<edge source="yjbJ" target="Lrp"/>
+<edge source="mdtE" target="H-NS"/>
+<edge source="mdtE" target="GadE"/>
+<edge source="mdtE" target="Nac"/>
+<edge source="mdtE" target="YdeO"/>
+<edge source="mdtE" target="EvgA"/>
+<edge source="mdtE" target="GadX"/>
+<edge source="mdtE" target="CRP"/>
+<edge source="mdtF" target="H-NS"/>
+<edge source="mdtF" target="GadE"/>
+<edge source="mdtF" target="YdeO"/>
+<edge source="mdtF" target="EvgA"/>
+<edge source="mdtF" target="GadX"/>
+<edge source="mdtF" target="CRP"/>
+<edge source="gadC" target="GadE"/>
+<edge source="gadC" target="AdiY"/>
+<edge source="gadC" target="GadX"/>
+<edge source="Lrp" target="aceB"/>
+<edge source="Lrp" target="ansB"/>
+<edge source="Lrp" target="aroA"/>
+<edge source="Lrp" target="avtA"/>
+<edge source="Lrp" target="cadA"/>
+<edge source="Lrp" target="cadB"/>
+<edge source="Lrp" target="eco"/>
+<edge source="Lrp" target="fimA"/>
+<edge source="Lrp" target="fimC"/>
+<edge source="Lrp" target="fimD"/>
+<edge source="Lrp" target="fimF"/>
+<edge source="Lrp" target="fimG"/>
+<edge source="Lrp" target="fimH"/>
+<edge source="Lrp" target="ftsQ"/>
+<edge source="Lrp" target="gabT"/>
+<edge source="Lrp" target="gcvH"/>
+<edge source="Lrp" target="gltB"/>
+<edge source="Lrp" target="gltD"/>
+<edge source="Lrp" target="ilvA"/>
+<edge source="Lrp" target="ilvE"/>
+<edge source="Lrp" target="ilvH"/>
+<edge source="Lrp" target="ilvI"/>
+<edge source="Lrp" target="ilvM"/>
+<edge source="Lrp" target="lysU"/>
+<edge source="Lrp" target="metK"/>
+<edge source="Lrp" target="mtr"/>
+<edge source="Lrp" target="ompC"/>
+<edge source="Lrp" target="oppA"/>
+<edge source="Lrp" target="oppB"/>
+<edge source="Lrp" target="oppC"/>
+<edge source="Lrp" target="oppD"/>
+<edge source="Lrp" target="oppF"/>
+<edge source="Lrp" target="osmC"/>
+<edge source="Lrp" target="pepD"/>
+<edge source="Lrp" target="sdaA"/>
+<edge source="Lrp" target="serA"/>
+<edge source="Lrp" target="serB"/>
+<edge source="Lrp" target="serC"/>
+<edge source="Lrp" target="tdh"/>
+<edge source="Lrp" target="fau"/>
+<edge source="Lrp" target="argO"/>
+<edge source="Lrp" target="uspE"/>
+<edge source="Lrp" target="thrL"/>
+<edge source="Lrp" target="gabD"/>
+<edge source="Lrp" target="gabP"/>
+<edge source="Lrp" target="lysP"/>
+<edge source="Lrp" target="dadX"/>
+<edge source="Lrp" target="gcvT"/>
+<edge source="Lrp" target="gltF"/>
+<edge source="Lrp" target="stpA"/>
+<edge source="Lrp" target="gcvP"/>
+<edge source="Lrp" target="aidB"/>
+<edge source="Lrp" target="yjbQ"/>
+<edge source="Lrp" target="fimI"/>
+<edge source="Lrp" target="yehL"/>
+<edge source="Lrp" target="mqo"/>
+<edge source="Lrp" target="lrhA"/>
+<edge source="Lrp" target="sdaC"/>
+<edge source="Lrp" target="brnQ"/>
+<edge source="Lrp" target="yhjE"/>
+<edge source="Lrp" target="ybiJ"/>
+<edge source="Lrp" target="yjeM"/>
+<edge source="Lrp" target="cycA"/>
+<edge source="Lrp" target="yciN"/>
+<edge source="Lrp" target="ilvX"/>
+<edge source="Lrp" target="ybjS"/>
+<edge source="Lrp" target="ycaM"/>
+<edge source="Lrp" target="lolC"/>
+<edge source="Lrp" target="dtpA"/>
+<edge source="Lrp" target="leuE"/>
+<edge source="Lrp" target="yfcC"/>
+<edge source="Lrp" target="yfcZ"/>
+<edge source="Lrp" target="alaE"/>
+<edge source="Lrp" target="yqeF"/>
+<edge source="Lrp" target="yzgL"/>
+<edge source="Lrp" target="ytfK"/>
+<edge source="Lrp" target="ridA"/>
+<edge source="Lrp" target="yjiC"/>
+<edge source="Lrp" target="ilvG"/>
+<edge source="aceB" target="FlhDC"/>
+<edge source="aceB" target="Cra"/>
+<edge source="aceB" target="Nac"/>
+<edge source="aceB" target="IHF"/>
+<edge source="ansB" target="FNR"/>
+<edge source="ansB" target="Nac"/>
+<edge source="ansB" target="CRP"/>
+<edge source="aroA" target="CRP"/>
+<edge source="cadA" target="H-NS"/>
+<edge source="cadA" target="OmpR"/>
+<edge source="cadA" target="GadRcs"/>
+<edge source="cadB" target="H-NS"/>
+<edge source="cadB" target="OmpR"/>
+<edge source="cadB" target="GadRcs"/>
+<edge source="fimA" target="H-NS"/>
+<edge source="fimA" target="Fis"/>
+<edge source="fimC" target="H-NS"/>
+<edge source="fimC" target="Fis"/>
+<edge source="fimD" target="H-NS"/>
+<edge source="fimD" target="Fis"/>
+<edge source="fimF" target="H-NS"/>
+<edge source="fimF" target="Fis"/>
+<edge source="fimG" target="H-NS"/>
+<edge source="fimG" target="Fis"/>
+<edge source="fimH" target="H-NS"/>
+<edge source="fimH" target="Fis"/>
+<edge source="ftsQ" target="PdhR"/>
+<edge source="ftsQ" target="MraZ"/>
+<edge source="gabT" target="GlaR"/>
+<edge source="gabT" target="Nac"/>
+<edge source="gabT" target="CRP"/>
+<edge source="gcvH" target="CRP"/>
+<edge source="gltB" target="GadE"/>
+<edge source="gltB" target="ArgR"/>
+<edge source="gltB" target="FNR"/>
+<edge source="gltB" target="AdiY"/>
+<edge source="gltB" target="CRP"/>
+<edge source="gltB" target="IHF"/>
+<edge source="gltD" target="GadE"/>
+<edge source="gltD" target="ArgR"/>
+<edge source="gltD" target="FNR"/>
+<edge source="gltD" target="AdiY"/>
+<edge source="gltD" target="CRP"/>
+<edge source="gltD" target="IHF"/>
+<edge source="ilvA" target="IHF"/>
+<edge source="ilvE" target="IHF"/>
+<edge source="ilvM" target="IHF"/>
+<edge source="lysU" target="Nac"/>
+<edge source="mtr" target="TrpR"/>
+<edge source="mtr" target="TyrR"/>
+<edge source="ompC" target="OmpR"/>
+<edge source="ompC" target="CpxR"/>
+<edge source="ompC" target="IHF"/>
+<edge source="oppA" target="Fur"/>
+<edge source="oppA" target="ArcA"/>
+<edge source="oppA" target="Nac"/>
+<edge source="oppB" target="Fur"/>
+<edge source="oppC" target="Fur"/>
+<edge source="oppC" target="Nac"/>
+<edge source="oppD" target="Fur"/>
+<edge source="oppF" target="Fur"/>
+<edge source="osmC" target="RcsB"/>
+<edge source="osmC" target="NhaR"/>
+<edge source="sdaA" target="Nac"/>
+<edge source="serA" target="Nac"/>
+<edge source="serA" target="CRP"/>
+<edge source="serC" target="CRP"/>
+<edge source="fau" target="H-NS"/>
+<edge source="fau" target="Fis"/>
+<edge source="fau" target="StpA"/>
+<edge source="argO" target="ArgP"/>
+<edge source="argO" target="Nac"/>
+<edge source="gabD" target="GlaR"/>
+<edge source="gabD" target="Nac"/>
+<edge source="gabD" target="CRP"/>
+<edge source="gabP" target="GlaR"/>
+<edge source="gabP" target="Nac"/>
+<edge source="gabP" target="CRP"/>
+<edge source="lysP" target="ArgP"/>
+<edge source="lysP" target="Nac"/>
+<edge source="dadX" target="CRP"/>
+<edge source="gcvT" target="Nac"/>
+<edge source="gcvT" target="CRP"/>
+<edge source="gltF" target="GadE"/>
+<edge source="gltF" target="GlaR"/>
+<edge source="gltF" target="ArgR"/>
+<edge source="gltF" target="FNR"/>
+<edge source="gltF" target="Nac"/>
+<edge source="gltF" target="AdiY"/>
+<edge source="gltF" target="CRP"/>
+<edge source="gltF" target="IHF"/>
+<edge source="gltF" target="LeuO"/>
+<edge source="stpA" target="H-NS"/>
+<edge source="stpA" target="ArgR"/>
+<edge source="gcvP" target="CRP"/>
+<edge source="yjbQ" target="GadE"/>
+<edge source="yjbQ" target="Nac"/>
+<edge source="fimI" target="H-NS"/>
+<edge source="fimI" target="Fis"/>
+<edge source="mqo" target="ArcA"/>
+<edge source="yhjE" target="ArcA"/>
+<edge source="yhjE" target="Nac"/>
+<edge source="ybiJ" target="YhaJ"/>
+<edge source="yjeM" target="Nac"/>
+<edge source="cycA" target="ArcA"/>
+<edge source="cycA" target="Nac"/>
+<edge source="cycA" target="CRP"/>
+<edge source="ilvX" target="IHF"/>
+<edge source="dtpA" target="OmpR"/>
+<edge source="dtpA" target="GadX"/>
+<edge source="yfcC" target="ArgR"/>
+<edge source="yfcZ" target="FNR"/>
+<edge source="alaE" target="GlaR"/>
+<edge source="yqeF" target="CRP"/>
+<edge source="ytfK" target="Nac"/>
+<edge source="ytfK" target="CRP"/>
+<edge source="ilvG" target="IHF"/>
+<edge source="MqsA" target="cspD"/>
+<edge source="MqsA" target="mqsA"/>
+<edge source="MqsA" target="mqsR"/>
+<edge source="cspD" target="CRP"/>
+<edge source="DnaA" target="aldA"/>
+<edge source="DnaA" target="dnaA"/>
+<edge source="DnaA" target="dnaN"/>
+<edge source="DnaA" target="guaA"/>
+<edge source="DnaA" target="guaB"/>
+<edge source="DnaA" target="nrdA"/>
+<edge source="DnaA" target="nrdB"/>
+<edge source="DnaA" target="polA"/>
+<edge source="DnaA" target="recF"/>
+<edge source="DnaA" target="uvrB"/>
+<edge source="DnaA" target="yfaE"/>
+<edge source="DnaA" target="yjeV"/>
+<edge source="aldA" target="ArcA"/>
+<edge source="dnaA" target="Fis"/>
+<edge source="dnaA" target="ArgP"/>
+<edge source="dnaA" target="Nac"/>
+<edge source="dnaN" target="Fis"/>
+<edge source="dnaN" target="ArgP"/>
+<edge source="guaA" target="Fis"/>
+<edge source="guaA" target="PurR"/>
+<edge source="guaA" target="CRP"/>
+<edge source="guaB" target="Fis"/>
+<edge source="guaB" target="PurR"/>
+<edge source="guaB" target="CRP"/>
+<edge source="nrdA" target="H-NS"/>
+<edge source="nrdA" target="ArgP"/>
+<edge source="nrdA" target="NrdR"/>
+<edge source="nrdB" target="H-NS"/>
+<edge source="nrdB" target="ArgP"/>
+<edge source="nrdB" target="NrdR"/>
+<edge source="polA" target="Nac"/>
+<edge source="recF" target="Fis"/>
+<edge source="recF" target="ArgP"/>
+<edge source="uvrB" target="LexA"/>
+<edge source="yfaE" target="H-NS"/>
+<edge source="yfaE" target="Fis"/>
+<edge source="yfaE" target="ArgP"/>
+<edge source="yfaE" target="Nac"/>
+<edge source="yfaE" target="NrdR"/>
+<edge source="CsgD" target="nlpA"/>
+<edge source="CsgD" target="dgcC"/>
+<edge source="CsgD" target="fliE"/>
+<edge source="CsgD" target="fliF"/>
+<edge source="CsgD" target="fliA"/>
+<edge source="CsgD" target="fliZ"/>
+<edge source="CsgD" target="csgA"/>
+<edge source="CsgD" target="wrbA"/>
+<edge source="CsgD" target="fliG"/>
+<edge source="CsgD" target="fliH"/>
+<edge source="CsgD" target="yccJ"/>
+<edge source="CsgD" target="fliI"/>
+<edge source="CsgD" target="fliJ"/>
+<edge source="CsgD" target="fliK"/>
+<edge source="CsgD" target="csgB"/>
+<edge source="CsgD" target="csgC"/>
+<edge source="CsgD" target="flgN"/>
+<edge source="CsgD" target="tcyJ"/>
+<edge source="CsgD" target="yhbS"/>
+<edge source="nlpA" target="GlaR"/>
+<edge source="fliE" target="FlhDC"/>
+<edge source="fliF" target="FlhDC"/>
+<edge source="fliF" target="PdeL"/>
+<edge source="fliA" target="FlhDC"/>
+<edge source="fliA" target="ZraR"/>
+<edge source="fliA" target="SutR"/>
+<edge source="fliA" target="MatA"/>
+<edge source="fliA" target="IHF"/>
+<edge source="fliZ" target="NsrR"/>
+<edge source="fliZ" target="FlhDC"/>
+<edge source="fliZ" target="SutR"/>
+<edge source="fliZ" target="MatA"/>
+<edge source="fliZ" target="IHF"/>
+<edge source="csgA" target="BtsR"/>
+<edge source="csgA" target="CpxR"/>
+<edge source="wrbA" target="Nac"/>
+<edge source="fliG" target="FlhDC"/>
+<edge source="fliG" target="PdeL"/>
+<edge source="fliH" target="FlhDC"/>
+<edge source="fliH" target="PdeL"/>
+<edge source="fliI" target="FlhDC"/>
+<edge source="fliI" target="PdeL"/>
+<edge source="fliJ" target="FlhDC"/>
+<edge source="fliJ" target="PdeL"/>
+<edge source="fliK" target="FlhDC"/>
+<edge source="fliK" target="PdeL"/>
+<edge source="csgB" target="BtsR"/>
+<edge source="csgB" target="CpxR"/>
+<edge source="csgC" target="BtsR"/>
+<edge source="flgN" target="FlhDC"/>
+<edge source="tcyJ" target="NsrR"/>
+<edge source="tcyJ" target="FlhDC"/>
+<edge source="tcyJ" target="SutR"/>
+<edge source="tcyJ" target="MatA"/>
+<edge source="tcyJ" target="IHF"/>
+<edge source="H-NS" target="appY"/>
+<edge source="H-NS" target="bglB"/>
+<edge source="H-NS" target="bglF"/>
+<edge source="H-NS" target="bglG"/>
+<edge source="H-NS" target="cadC"/>
+<edge source="H-NS" target="cspA"/>
+<edge source="H-NS" target="cydA"/>
+<edge source="H-NS" target="cydB"/>
+<edge source="H-NS" target="fimB"/>
+<edge source="H-NS" target="fimE"/>
+<edge source="H-NS" target="galE"/>
+<edge source="H-NS" target="galK"/>
+<edge source="H-NS" target="galT"/>
+<edge source="H-NS" target="lacA"/>
+<edge source="H-NS" target="lacY"/>
+<edge source="H-NS" target="lacZ"/>
+<edge source="H-NS" target="leuO"/>
+<edge source="H-NS" target="proV"/>
+<edge source="H-NS" target="proW"/>
+<edge source="H-NS" target="proX"/>
+<edge source="H-NS" target="rcsB"/>
+<edge source="H-NS" target="ftnA"/>
+<edge source="H-NS" target="yciE"/>
+<edge source="H-NS" target="yciF"/>
+<edge source="H-NS" target="yciG"/>
+<edge source="H-NS" target="chiA"/>
+<edge source="H-NS" target="gspB"/>
+<edge source="H-NS" target="gspO"/>
+<edge source="H-NS" target="dps"/>
+<edge source="H-NS" target="nrdD"/>
+<edge source="H-NS" target="hdfR"/>
+<edge source="H-NS" target="evgA"/>
+<edge source="H-NS" target="evgS"/>
+<edge source="H-NS" target="galM"/>
+<edge source="H-NS" target="dctR"/>
+<edge source="H-NS" target="slp"/>
+<edge source="H-NS" target="gspM"/>
+<edge source="H-NS" target="yhiM"/>
+<edge source="H-NS" target="gadW"/>
+<edge source="H-NS" target="gadX"/>
+<edge source="H-NS" target="rcsD"/>
+<edge source="H-NS" target="cas2"/>
+<edge source="H-NS" target="gadA"/>
+<edge source="H-NS" target="ydeO"/>
+<edge source="H-NS" target="mdtI"/>
+<edge source="H-NS" target="mdtJ"/>
+<edge source="H-NS" target="hchA"/>
+<edge source="H-NS" target="cas1"/>
+<edge source="H-NS" target="casE"/>
+<edge source="H-NS" target="casD"/>
+<edge source="H-NS" target="casC"/>
+<edge source="H-NS" target="casB"/>
+<edge source="H-NS" target="casA"/>
+<edge source="H-NS" target="gspA"/>
+<edge source="H-NS" target="gspC"/>
+<edge source="H-NS" target="gspD"/>
+<edge source="H-NS" target="gspE"/>
+<edge source="H-NS" target="gspF"/>
+<edge source="H-NS" target="gspG"/>
+<edge source="H-NS" target="gspH"/>
+<edge source="H-NS" target="gspI"/>
+<edge source="H-NS" target="gspJ"/>
+<edge source="H-NS" target="gspK"/>
+<edge source="H-NS" target="gspL"/>
+<edge source="H-NS" target="yjjP"/>
+<edge source="H-NS" target="yjjQ"/>
+<edge source="H-NS" target="bglJ"/>
+<edge source="H-NS" target="nrdG"/>
+<edge source="bglB" target="Fis"/>
+<edge source="bglB" target="Nac"/>
+<edge source="bglB" target="CRP"/>
+<edge source="bglB" target="LeuO"/>
+<edge source="bglF" target="Fis"/>
+<edge source="bglF" target="CRP"/>
+<edge source="bglF" target="LeuO"/>
+<edge source="bglG" target="Fis"/>
+<edge source="bglG" target="CRP"/>
+<edge source="bglG" target="LeuO"/>
+<edge source="cadC" target="MlrA"/>
+<edge source="cadC" target="OmpR"/>
+<edge source="cadC" target="GlaR"/>
+<edge source="cadC" target="Fur"/>
+<edge source="cspA" target="Fis"/>
+<edge source="cydA" target="Cra"/>
+<edge source="cydA" target="FNR"/>
+<edge source="cydA" target="Nac"/>
+<edge source="cydB" target="Cra"/>
+<edge source="cydB" target="FNR"/>
+<edge source="fimB" target="NagC"/>
+<edge source="fimB" target="NanR"/>
+<edge source="fimB" target="BasR"/>
+<edge source="fimB" target="IHF"/>
+<edge source="galE" target="GalR"/>
+<edge source="galE" target="CRP"/>
+<edge source="galK" target="GalR"/>
+<edge source="galK" target="CRP"/>
+<edge source="galT" target="GalR"/>
+<edge source="galT" target="CRP"/>
+<edge source="lacA" target="MarA"/>
+<edge source="lacA" target="CRP"/>
+<edge source="lacY" target="MarA"/>
+<edge source="lacY" target="CRP"/>
+<edge source="lacZ" target="MarA"/>
+<edge source="lacZ" target="CRP"/>
+<edge source="leuO" target="Nac"/>
+<edge source="leuO" target="SlyA"/>
+<edge source="leuO" target="LeuO"/>
+<edge source="proV" target="IHF"/>
+<edge source="proW" target="IHF"/>
+<edge source="proX" target="IHF"/>
+<edge source="ftnA" target="Fur"/>
+<edge source="yciE" target="McbR"/>
+<edge source="yciF" target="McbR"/>
+<edge source="yciG" target="McbR"/>
+<edge source="gspO" target="Fur"/>
+<edge source="gspO" target="Nac"/>
+<edge source="gspO" target="SlyA"/>
+<edge source="dps" target="Fis"/>
+<edge source="dps" target="ArgR"/>
+<edge source="nrdD" target="FNR"/>
+<edge source="nrdD" target="NrdR"/>
+<edge source="evgA" target="Nac"/>
+<edge source="evgA" target="EvgA"/>
+<edge source="evgS" target="EvgA"/>
+<edge source="galM" target="GalR"/>
+<edge source="galM" target="CRP"/>
+<edge source="dctR" target="GlaR"/>
+<edge source="dctR" target="GadRcs"/>
+<edge source="dctR" target="YdeO"/>
+<edge source="dctR" target="GadX"/>
+<edge source="slp" target="GadRcs"/>
+<edge source="slp" target="YdeO"/>
+<edge source="slp" target="GadX"/>
+<edge source="gspM" target="Fur"/>
+<edge source="gspM" target="Nac"/>
+<edge source="gspM" target="SlyA"/>
+<edge source="yhiM" target="GadE"/>
+<edge source="yhiM" target="GadRcs"/>
+<edge source="gadW" target="LldR"/>
+<edge source="gadW" target="ZraR"/>
+<edge source="gadW" target="GadE"/>
+<edge source="gadW" target="GlaR"/>
+<edge source="gadW" target="YdeO"/>
+<edge source="gadW" target="RutR"/>
+<edge source="gadW" target="PhoP"/>
+<edge source="gadX" target="RcsB"/>
+<edge source="gadX" target="GadE"/>
+<edge source="gadX" target="GlaR"/>
+<edge source="gadX" target="GadRcs"/>
+<edge source="gadX" target="Nac"/>
+<edge source="gadX" target="RutR"/>
+<edge source="gadX" target="AdiY"/>
+<edge source="cas2" target="StpA"/>
+<edge source="cas2" target="SlyA"/>
+<edge source="cas2" target="CRP"/>
+<edge source="cas2" target="LeuO"/>
+<edge source="gadA" target="RcsB"/>
+<edge source="gadA" target="GadRcs"/>
+<edge source="gadA" target="AdiY"/>
+<edge source="gadA" target="GadX"/>
+<edge source="ydeO" target="GlaR"/>
+<edge source="ydeO" target="PhoP"/>
+<edge source="ydeO" target="EvgA"/>
+<edge source="mdtI" target="AcrR"/>
+<edge source="mdtJ" target="AcrR"/>
+<edge source="hchA" target="ArgR"/>
+<edge source="hchA" target="Nac"/>
+<edge source="cas1" target="StpA"/>
+<edge source="cas1" target="SlyA"/>
+<edge source="cas1" target="CRP"/>
+<edge source="cas1" target="LeuO"/>
+<edge source="casE" target="StpA"/>
+<edge source="casE" target="SlyA"/>
+<edge source="casE" target="CRP"/>
+<edge source="casE" target="LeuO"/>
+<edge source="casD" target="StpA"/>
+<edge source="casD" target="SlyA"/>
+<edge source="casD" target="CRP"/>
+<edge source="casD" target="LeuO"/>
+<edge source="casC" target="StpA"/>
+<edge source="casC" target="SlyA"/>
+<edge source="casC" target="CRP"/>
+<edge source="casC" target="LeuO"/>
+<edge source="casB" target="StpA"/>
+<edge source="casB" target="SlyA"/>
+<edge source="casB" target="CRP"/>
+<edge source="casB" target="LeuO"/>
+<edge source="casA" target="StpA"/>
+<edge source="casA" target="GlaR"/>
+<edge source="casA" target="SlyA"/>
+<edge source="casA" target="CRP"/>
+<edge source="casA" target="LeuO"/>
+<edge source="gspC" target="Fur"/>
+<edge source="gspC" target="SlyA"/>
+<edge source="gspD" target="Fur"/>
+<edge source="gspD" target="SlyA"/>
+<edge source="gspE" target="Fur"/>
+<edge source="gspE" target="SlyA"/>
+<edge source="gspF" target="Fur"/>
+<edge source="gspF" target="SlyA"/>
+<edge source="gspG" target="Fur"/>
+<edge source="gspG" target="Nac"/>
+<edge source="gspG" target="SlyA"/>
+<edge source="gspH" target="Fur"/>
+<edge source="gspH" target="Nac"/>
+<edge source="gspH" target="SlyA"/>
+<edge source="gspI" target="Fur"/>
+<edge source="gspI" target="SlyA"/>
+<edge source="gspJ" target="Fur"/>
+<edge source="gspJ" target="SlyA"/>
+<edge source="gspK" target="Fur"/>
+<edge source="gspK" target="SlyA"/>
+<edge source="gspL" target="Fur"/>
+<edge source="gspL" target="SlyA"/>
+<edge source="yjjP" target="GlaR"/>
+<edge source="yjjQ" target="GlaR"/>
+<edge source="yjjQ" target="LeuO"/>
+<edge source="bglJ" target="LeuO"/>
+<edge source="nrdG" target="FNR"/>
+<edge source="nrdG" target="Nac"/>
+<edge source="nrdG" target="NrdR"/>
+<edge source="AraC" target="araA"/>
+<edge source="AraC" target="araB"/>
+<edge source="AraC" target="araC"/>
+<edge source="AraC" target="araD"/>
+<edge source="AraC" target="araE"/>
+<edge source="AraC" target="araG"/>
+<edge source="AraC" target="araH"/>
+<edge source="AraC" target="araJ"/>
+<edge source="AraC" target="xylB"/>
+<edge source="AraC" target="ygeA"/>
+<edge source="AraC" target="yjfF"/>
+<edge source="AraC" target="ytfQ"/>
+<edge source="AraC" target="ytfR"/>
+<edge source="AraC" target="ytfT"/>
+<edge source="araA" target="CRP"/>
+<edge source="araB" target="Fur"/>
+<edge source="araB" target="CRP"/>
+<edge source="araC" target="XylR"/>
+<edge source="araC" target="CRP"/>
+<edge source="araD" target="CRP"/>
+<edge source="araE" target="Nac"/>
+<edge source="araE" target="CRP"/>
+<edge source="araG" target="CRP"/>
+<edge source="araH" target="CRP"/>
+<edge source="araJ" target="CRP"/>
+<edge source="xylB" target="XylR"/>
+<edge source="ygeA" target="CRP"/>
+<edge source="DcuR" target="dcuB"/>
+<edge source="DcuR" target="fumB"/>
+<edge source="DcuR" target="dctA"/>
+<edge source="DcuR" target="dpiB"/>
+<edge source="DcuR" target="dpiA"/>
+<edge source="dcuB" target="ArcA"/>
+<edge source="dctA" target="CRP"/>
+<edge source="dpiB" target="DpiA"/>
+<edge source="dpiA" target="DpiA"/>
+<edge source="NagC" target="chbB"/>
+<edge source="NagC" target="chbC"/>
+<edge source="NagC" target="chbA"/>
+<edge source="NagC" target="chbR"/>
+<edge source="NagC" target="chbF"/>
+<edge source="NagC" target="glmS"/>
+<edge source="NagC" target="nagA"/>
+<edge source="NagC" target="nagB"/>
+<edge source="NagC" target="umpH"/>
+<edge source="NagC" target="nagE"/>
+<edge source="NagC" target="nagC"/>
+<edge source="NagC" target="glmU"/>
+<edge source="NagC" target="galP"/>
+<edge source="NagC" target="chbG"/>
+<edge source="NagC" target="chiP"/>
+<edge source="NagC" target="chiQ"/>
+<edge source="NagC" target="nanS"/>
+<edge source="NagC" target="nanM"/>
+<edge source="chbB" target="ChbR"/>
+<edge source="chbB" target="CRP"/>
+<edge source="chbC" target="ChbR"/>
+<edge source="chbC" target="CRP"/>
+<edge source="chbA" target="ChbR"/>
+<edge source="chbA" target="CRP"/>
+<edge source="chbR" target="ChbR"/>
+<edge source="chbR" target="CRP"/>
+<edge source="chbF" target="ChbR"/>
+<edge source="chbF" target="CRP"/>
+<edge source="nagA" target="PhoP"/>
+<edge source="nagA" target="CRP"/>
+<edge source="nagB" target="CRP"/>
+<edge source="umpH" target="CRP"/>
+<edge source="nagE" target="CRP"/>
+<edge source="nagC" target="CRP"/>
+<edge source="galP" target="OmpR"/>
+<edge source="galP" target="GalR"/>
+<edge source="galP" target="CRP"/>
+<edge source="chbG" target="ChbR"/>
+<edge source="chbG" target="CRP"/>
+<edge source="nanS" target="NanR"/>
+<edge source="nanS" target="CRP"/>
+<edge source="nanM" target="NanR"/>
+<edge source="nanM" target="CRP"/>
+<edge source="MlrA" target="yhbE"/>
+<edge source="MlrA" target="rplU"/>
+<edge source="MlrA" target="rpmA"/>
+<edge source="MlrA" target="obgE"/>
+<edge source="MlrA" target="ibaG"/>
+<edge source="rplU" target="Nac"/>
+<edge source="TrpR" target="aroH"/>
+<edge source="TrpR" target="aroL"/>
+<edge source="TrpR" target="aroM"/>
+<edge source="TrpR" target="trpR"/>
+<edge source="TrpR" target="yaiA"/>
+<edge source="aroL" target="TyrR"/>
+<edge source="aroM" target="TyrR"/>
+<edge source="yaiA" target="TyrR"/>
+<edge source="ModE" target="modB"/>
+<edge source="ModE" target="modC"/>
+<edge source="ModE" target="deoA"/>
+<edge source="ModE" target="deoB"/>
+<edge source="ModE" target="deoC"/>
+<edge source="ModE" target="deoD"/>
+<edge source="ModE" target="hycA"/>
+<edge source="ModE" target="hycB"/>
+<edge source="ModE" target="hycC"/>
+<edge source="ModE" target="hycD"/>
+<edge source="ModE" target="hycE"/>
+<edge source="ModE" target="hycF"/>
+<edge source="ModE" target="hycG"/>
+<edge source="ModE" target="hycH"/>
+<edge source="ModE" target="narL"/>
+<edge source="ModE" target="narX"/>
+<edge source="ModE" target="modA"/>
+<edge source="ModE" target="hycI"/>
+<edge source="deoA" target="CytR"/>
+<edge source="deoA" target="CRP"/>
+<edge source="deoB" target="CytR"/>
+<edge source="deoB" target="CRP"/>
+<edge source="deoC" target="CytR"/>
+<edge source="deoC" target="CRP"/>
+<edge source="deoD" target="CytR"/>
+<edge source="deoD" target="CRP"/>
+<edge source="hycA" target="FhlA"/>
+<edge source="hycA" target="IHF"/>
+<edge source="hycB" target="FhlA"/>
+<edge source="hycB" target="IHF"/>
+<edge source="hycC" target="FhlA"/>
+<edge source="hycC" target="IHF"/>
+<edge source="hycD" target="FhlA"/>
+<edge source="hycD" target="IHF"/>
+<edge source="hycE" target="FhlA"/>
+<edge source="hycE" target="IHF"/>
+<edge source="hycF" target="FhlA"/>
+<edge source="hycF" target="IHF"/>
+<edge source="hycG" target="FhlA"/>
+<edge source="hycG" target="IHF"/>
+<edge source="hycH" target="FhlA"/>
+<edge source="hycH" target="IHF"/>
+<edge source="narL" target="FNR"/>
+<edge source="narX" target="Nac"/>
+<edge source="hycI" target="FhlA"/>
+<edge source="hycI" target="IHF"/>
+<edge source="Zur" target="znuB"/>
+<edge source="Zur" target="ykgO"/>
+<edge source="Zur" target="ykgM"/>
+<edge source="Zur" target="pliG"/>
+<edge source="Zur" target="znuA"/>
+<edge source="Zur" target="znuC"/>
+<edge source="znuB" target="OxyR"/>
+<edge source="pliG" target="GlaR"/>
+<edge source="znuA" target="OmpR"/>
+<edge source="znuA" target="Nac"/>
+<edge source="znuA" target="OxyR"/>
+<edge source="znuC" target="OxyR"/>
+<edge source="LldR" target="fadL"/>
+<edge source="LldR" target="lldP"/>
+<edge source="LldR" target="lldR"/>
+<edge source="LldR" target="lldD"/>
+<edge source="LldR" target="fadE"/>
+<edge source="LldR" target="yfdY"/>
+<edge source="LldR" target="lpxP"/>
+<edge source="LldR" target="glcD"/>
+<edge source="LldR" target="yhcO"/>
+<edge source="fadL" target="OmpR"/>
+<edge source="fadL" target="ArcA"/>
+<edge source="fadL" target="FadR"/>
+<edge source="fadL" target="CRP"/>
+<edge source="lldP" target="ArcA"/>
+<edge source="lldP" target="PdhR"/>
+<edge source="lldR" target="ArcA"/>
+<edge source="lldD" target="ArcA"/>
+<edge source="fadE" target="OmpR"/>
+<edge source="fadE" target="ArcA"/>
+<edge source="fadE" target="FadR"/>
+<edge source="fadE" target="PdhR"/>
+<edge source="glcD" target="ArcA"/>
+<edge source="glcD" target="PdhR"/>
+<edge source="glcD" target="GlcC"/>
+<edge source="NsrR" target="hmp"/>
+<edge source="NsrR" target="ytfE"/>
+<edge source="hmp" target="FNR"/>
+<edge source="OmpR" target="bolA"/>
+<edge source="OmpR" target="htpX"/>
+<edge source="OmpR" target="lpp"/>
+<edge source="OmpR" target="malE"/>
+<edge source="OmpR" target="narV"/>
+<edge source="OmpR" target="narW"/>
+<edge source="OmpR" target="narY"/>
+<edge source="OmpR" target="narZ"/>
+<edge source="OmpR" target="potE"/>
+<edge source="OmpR" target="speF"/>
+<edge source="OmpR" target="tolC"/>
+<edge source="OmpR" target="pdhR"/>
+<edge source="OmpR" target="tsgA"/>
+<edge source="OmpR" target="rob"/>
+<edge source="OmpR" target="feoA"/>
+<edge source="OmpR" target="feoB"/>
+<edge source="OmpR" target="acrR"/>
+<edge source="OmpR" target="rhtA"/>
+<edge source="OmpR" target="narU"/>
+<edge source="OmpR" target="sstT"/>
+<edge source="OmpR" target="feoC"/>
+<edge source="OmpR" target="yobB"/>
+<edge source="OmpR" target="exoX"/>
+<edge source="OmpR" target="queE"/>
+<edge source="OmpR" target="alx"/>
+<edge source="htpX" target="Nac"/>
+<edge source="malE" target="Fis"/>
+<edge source="malE" target="MalT"/>
+<edge source="malE" target="CRP"/>
+<edge source="tolC" target="Rob"/>
+<edge source="pdhR" target="Cra"/>
+<edge source="pdhR" target="GlaR"/>
+<edge source="pdhR" target="FNR"/>
+<edge source="pdhR" target="PdhR"/>
+<edge source="pdhR" target="BtsR"/>
+<edge source="rob" target="Rob"/>
+<edge source="rob" target="MarA"/>
+<edge source="rob" target="SoxS"/>
+<edge source="feoA" target="Fur"/>
+<edge source="feoA" target="ArcA"/>
+<edge source="feoA" target="FNR"/>
+<edge source="feoB" target="Fur"/>
+<edge source="feoB" target="FNR"/>
+<edge source="acrR" target="AcrR"/>
+<edge source="rhtA" target="Nac"/>
+<edge source="sstT" target="ArcA"/>
+<edge source="feoC" target="Fur"/>
+<edge source="feoC" target="FNR"/>
+<edge source="yobB" target="Nac"/>
+<edge source="queE" target="PhoP"/>
+<edge source="RcsB" target="ftsA"/>
+<edge source="RcsB" target="ftsZ"/>
+<edge source="RcsB" target="sra"/>
+<edge source="RcsB" target="rseA"/>
+<edge source="RcsB" target="rseD"/>
+<edge source="RcsB" target="bdm"/>
+<edge source="RcsB" target="rseC"/>
+<edge source="RcsB" target="rseB"/>
+<edge source="ftsA" target="PdhR"/>
+<edge source="ftsA" target="MraZ"/>
+<edge source="ftsZ" target="ArgR"/>
+<edge source="ftsZ" target="PdhR"/>
+<edge source="ftsZ" target="MraZ"/>
+<edge source="rseA" target="NtrC"/>
+<edge source="rseA" target="CpxR"/>
+<edge source="rseA" target="CRP"/>
+<edge source="rseD" target="NtrC"/>
+<edge source="rseD" target="CpxR"/>
+<edge source="rseD" target="CRP"/>
+<edge source="rseC" target="NtrC"/>
+<edge source="rseC" target="CpxR"/>
+<edge source="rseC" target="CRP"/>
+<edge source="rseB" target="NtrC"/>
+<edge source="rseB" target="CpxR"/>
+<edge source="rseB" target="CRP"/>
+<edge source="RcdA" target="sulA"/>
+<edge source="RcdA" target="ydeI"/>
+<edge source="RcdA" target="rsd"/>
+<edge source="RcdA" target="rmf"/>
+<edge source="RcdA" target="yagK"/>
+<edge source="RcdA" target="ybjI"/>
+<edge source="RcdA" target="ybjJ"/>
+<edge source="RcdA" target="rcdA"/>
+<edge source="RcdA" target="bluF"/>
+<edge source="RcdA" target="asr"/>
+<edge source="sulA" target="LexA"/>
+<edge source="rsd" target="NhaR"/>
+<edge source="rsd" target="McbR"/>
+<edge source="rsd" target="Fur"/>
+<edge source="rsd" target="ArcA"/>
+<edge source="rsd" target="KdpE"/>
+<edge source="rsd" target="Nac"/>
+<edge source="rsd" target="SlyA"/>
+<edge source="rsd" target="PhoP"/>
+<edge source="rmf" target="ZraR"/>
+<edge source="rmf" target="NhaR"/>
+<edge source="rmf" target="McbR"/>
+<edge source="rmf" target="Fur"/>
+<edge source="rmf" target="ArcA"/>
+<edge source="rmf" target="KdpE"/>
+<edge source="rmf" target="SlyA"/>
+<edge source="rmf" target="PhoP"/>
+<edge source="rmf" target="CRP"/>
+<edge source="asr" target="PhoB"/>
+<edge source="Rob" target="fumC"/>
+<edge source="Rob" target="ygiB"/>
+<edge source="Rob" target="ygiC"/>
+<edge source="Rob" target="zwf"/>
+<edge source="Rob" target="inaA"/>
+<edge source="Rob" target="marA"/>
+<edge source="Rob" target="marR"/>
+<edge source="Rob" target="marB"/>
+<edge source="Rob" target="acrA"/>
+<edge source="Rob" target="acrB"/>
+<edge source="Rob" target="mdaB"/>
+<edge source="Rob" target="acrZ"/>
+<edge source="fumC" target="SoxR"/>
+<edge source="fumC" target="MarA"/>
+<edge source="fumC" target="CRP"/>
+<edge source="fumC" target="SoxS"/>
+<edge source="zwf" target="MarA"/>
+<edge source="zwf" target="SoxS"/>
+<edge source="inaA" target="MarA"/>
+<edge source="inaA" target="GlaR"/>
+<edge source="inaA" target="SoxS"/>
+<edge source="marA" target="Fis"/>
+<edge source="marA" target="Cra"/>
+<edge source="marA" target="AcrR"/>
+<edge source="marA" target="MarA"/>
+<edge source="marA" target="CpxR"/>
+<edge source="marA" target="SoxS"/>
+<edge source="marR" target="Fis"/>
+<edge source="marR" target="Cra"/>
+<edge source="marR" target="AcrR"/>
+<edge source="marR" target="MarA"/>
+<edge source="marR" target="Nac"/>
+<edge source="marR" target="CpxR"/>
+<edge source="marR" target="SoxS"/>
+<edge source="marB" target="Fis"/>
+<edge source="marB" target="Cra"/>
+<edge source="marB" target="AcrR"/>
+<edge source="marB" target="MarA"/>
+<edge source="marB" target="CpxR"/>
+<edge source="marB" target="SoxS"/>
+<edge source="acrA" target="AcrR"/>
+<edge source="acrA" target="MarA"/>
+<edge source="acrA" target="SoxS"/>
+<edge source="acrB" target="AcrR"/>
+<edge source="acrB" target="MarA"/>
+<edge source="acrB" target="SoxS"/>
+<edge source="FlhDC" target="fliL"/>
+<edge source="FlhDC" target="fliM"/>
+<edge source="FlhDC" target="fliN"/>
+<edge source="FlhDC" target="epd"/>
+<edge source="FlhDC" target="iclR"/>
+<edge source="FlhDC" target="pfkA"/>
+<edge source="FlhDC" target="ptsH"/>
+<edge source="FlhDC" target="fliD"/>
+<edge source="FlhDC" target="fliO"/>
+<edge source="FlhDC" target="fliS"/>
+<edge source="FlhDC" target="fliT"/>
+<edge source="FlhDC" target="fliP"/>
+<edge source="FlhDC" target="fliQ"/>
+<edge source="FlhDC" target="fliR"/>
+<edge source="FlhDC" target="setB"/>
+<edge source="FlhDC" target="gltJ"/>
+<edge source="FlhDC" target="gltK"/>
+<edge source="FlhDC" target="gltL"/>
+<edge source="FlhDC" target="flgA"/>
+<edge source="FlhDC" target="flgB"/>
+<edge source="FlhDC" target="flgC"/>
+<edge source="FlhDC" target="flgD"/>
+<edge source="FlhDC" target="flgE"/>
+<edge source="FlhDC" target="flgF"/>
+<edge source="FlhDC" target="flgG"/>
+<edge source="FlhDC" target="flgH"/>
+<edge source="FlhDC" target="flgI"/>
+<edge source="FlhDC" target="flgJ"/>
+<edge source="FlhDC" target="flhA"/>
+<edge source="FlhDC" target="gltI"/>
+<edge source="FlhDC" target="flhE"/>
+<edge source="FlhDC" target="flhB"/>
+<edge source="FlhDC" target="yecR"/>
+<edge source="FlhDC" target="fruB"/>
+<edge source="epd" target="Cra"/>
+<edge source="epd" target="CRP"/>
+<edge source="iclR" target="FadR"/>
+<edge source="pfkA" target="Cra"/>
+<edge source="ptsH" target="Cra"/>
+<edge source="ptsH" target="CRP"/>
+<edge source="ptsH" target="Mlc"/>
+<edge source="fliD" target="Nac"/>
+<edge source="fruB" target="Cra"/>
+<edge source="Fis" target="osmE"/>
+<edge source="Fis" target="crp"/>
+<edge source="Fis" target="fadA"/>
+<edge source="Fis" target="fadB"/>
+<edge source="Fis" target="fis"/>
+<edge source="Fis" target="glnA"/>
+<edge source="Fis" target="glnG"/>
+<edge source="Fis" target="glnL"/>
+<edge source="Fis" target="glpT"/>
+<edge source="Fis" target="gltX"/>
+<edge source="Fis" target="gyrA"/>
+<edge source="Fis" target="gyrB"/>
+<edge source="Fis" target="hupA"/>
+<edge source="Fis" target="hupB"/>
+<edge source="Fis" target="katE"/>
+<edge source="Fis" target="lpd"/>
+<edge source="Fis" target="malF"/>
+<edge source="Fis" target="malG"/>
+<edge source="Fis" target="mazE"/>
+<edge source="Fis" target="mazG"/>
+<edge source="Fis" target="mtlA"/>
+<edge source="Fis" target="mtlD"/>
+<edge source="Fis" target="nanA"/>
+<edge source="Fis" target="ndh"/>
+<edge source="Fis" target="queA"/>
+<edge source="Fis" target="topA"/>
+<edge source="Fis" target="tpr"/>
+<edge source="Fis" target="tufB"/>
+<edge source="Fis" target="mazF"/>
+<edge source="Fis" target="dusB"/>
+<edge source="Fis" target="acs"/>
+<edge source="Fis" target="proP"/>
+<edge source="Fis" target="grcA"/>
+<edge source="Fis" target="actP"/>
+<edge source="Fis" target="yjcH"/>
+<edge source="Fis" target="mtlR"/>
+<edge source="Fis" target="cbpA"/>
+<edge source="Fis" target="cbpM"/>
+<edge source="Fis" target="aldB"/>
+<edge source="Fis" target="hlyE"/>
+<edge source="Fis" target="glcC"/>
+<edge source="Fis" target="nanK"/>
+<edge source="Fis" target="nanE"/>
+<edge source="crp" target="Cra"/>
+<edge source="crp" target="CRP"/>
+<edge source="fadA" target="ArcA"/>
+<edge source="fadB" target="ArcA"/>
+<edge source="fis" target="CRP"/>
+<edge source="fis" target="IHF"/>
+<edge source="glnA" target="ZraR"/>
+<edge source="glnA" target="NtrC"/>
+<edge source="glnG" target="NtrC"/>
+<edge source="glnL" target="NtrC"/>
+<edge source="glpT" target="PlaR"/>
+<edge source="glpT" target="GlpR"/>
+<edge source="glpT" target="CRP"/>
+<edge source="glpT" target="IHF"/>
+<edge source="hupA" target="Nac"/>
+<edge source="hupA" target="CRP"/>
+<edge source="hupB" target="CRP"/>
+<edge source="lpd" target="Cra"/>
+<edge source="lpd" target="ArcA"/>
+<edge source="lpd" target="FNR"/>
+<edge source="lpd" target="PdhR"/>
+<edge source="lpd" target="BtsR"/>
+<edge source="malF" target="MalT"/>
+<edge source="malF" target="CRP"/>
+<edge source="malG" target="MalT"/>
+<edge source="malG" target="CRP"/>
+<edge source="mazE" target="CRP"/>
+<edge source="mazE" target="HipB"/>
+<edge source="mtlA" target="Cra"/>
+<edge source="mtlA" target="CRP"/>
+<edge source="mtlD" target="Cra"/>
+<edge source="mtlD" target="CRP"/>
+<edge source="nanA" target="Nac"/>
+<edge source="nanA" target="NanR"/>
+<edge source="nanA" target="CRP"/>
+<edge source="ndh" target="ArcA"/>
+<edge source="ndh" target="FNR"/>
+<edge source="ndh" target="PdhR"/>
+<edge source="ndh" target="IHF"/>
+<edge source="mazF" target="CRP"/>
+<edge source="mazF" target="HipB"/>
+<edge source="dusB" target="CRP"/>
+<edge source="dusB" target="IHF"/>
+<edge source="acs" target="CpxR"/>
+<edge source="acs" target="CRP"/>
+<edge source="acs" target="IHF"/>
+<edge source="proP" target="CRP"/>
+<edge source="grcA" target="FNR"/>
+<edge source="grcA" target="PdhR"/>
+<edge source="actP" target="CRP"/>
+<edge source="actP" target="IHF"/>
+<edge source="yjcH" target="CRP"/>
+<edge source="yjcH" target="IHF"/>
+<edge source="mtlR" target="Cra"/>
+<edge source="mtlR" target="CRP"/>
+<edge source="aldB" target="CRP"/>
+<edge source="hlyE" target="FNR"/>
+<edge source="hlyE" target="SlyA"/>
+<edge source="hlyE" target="CRP"/>
+<edge source="glcC" target="ArcA"/>
+<edge source="glcC" target="GlcC"/>
+<edge source="nanK" target="Nac"/>
+<edge source="nanK" target="NanR"/>
+<edge source="nanK" target="CRP"/>
+<edge source="nanE" target="NanR"/>
+<edge source="nanE" target="CRP"/>
+<edge source="PgrR" target="tyrR"/>
+<edge source="PgrR" target="ycjF"/>
+<edge source="PgrR" target="ymjC"/>
+<edge source="PgrR" target="ymjD"/>
+<edge source="PgrR" target="ycjX"/>
+<edge source="PgrR" target="ycjG"/>
+<edge source="PgrR" target="mpaA"/>
+<edge source="PgrR" target="ycjY"/>
+<edge source="PgrR" target="mppA"/>
+<edge source="IscR" target="hyaA"/>
+<edge source="IscR" target="hyaB"/>
+<edge source="IscR" target="hyaC"/>
+<edge source="IscR" target="hyaD"/>
+<edge source="IscR" target="hyaE"/>
+<edge source="IscR" target="hyaF"/>
+<edge source="IscR" target="sufA"/>
+<edge source="IscR" target="torT"/>
+<edge source="IscR" target="sufE"/>
+<edge source="IscR" target="sufS"/>
+<edge source="IscR" target="sufD"/>
+<edge source="IscR" target="sufC"/>
+<edge source="IscR" target="sufB"/>
+<edge source="IscR" target="rnlA"/>
+<edge source="IscR" target="rnlB"/>
+<edge source="IscR" target="nfuA"/>
+<edge source="hyaA" target="YdeO"/>
+<edge source="hyaB" target="YdeO"/>
+<edge source="hyaC" target="YdeO"/>
+<edge source="hyaD" target="ArcA"/>
+<edge source="hyaD" target="YdeO"/>
+<edge source="hyaE" target="YdeO"/>
+<edge source="hyaF" target="ArcA"/>
+<edge source="hyaF" target="YdeO"/>
+<edge source="sufA" target="Fur"/>
+<edge source="sufA" target="IHF"/>
+<edge source="sufA" target="OxyR"/>
+<edge source="sufE" target="Fur"/>
+<edge source="sufE" target="IHF"/>
+<edge source="sufE" target="OxyR"/>
+<edge source="sufS" target="Fur"/>
+<edge source="sufS" target="IHF"/>
+<edge source="sufS" target="OxyR"/>
+<edge source="sufD" target="Fur"/>
+<edge source="sufD" target="IHF"/>
+<edge source="sufD" target="OxyR"/>
+<edge source="sufC" target="Fur"/>
+<edge source="sufC" target="IHF"/>
+<edge source="sufC" target="OxyR"/>
+<edge source="sufB" target="Fur"/>
+<edge source="sufB" target="IHF"/>
+<edge source="sufB" target="OxyR"/>
+<edge source="rnlB" target="Nac"/>
+<edge source="Cra" target="aceA"/>
+<edge source="Cra" target="aceE"/>
+<edge source="Cra" target="aceF"/>
+<edge source="Cra" target="aceK"/>
+<edge source="Cra" target="aroP"/>
+<edge source="Cra" target="crr"/>
+<edge source="Cra" target="eda"/>
+<edge source="Cra" target="edd"/>
+<edge source="Cra" target="eno"/>
+<edge source="Cra" target="fbaA"/>
+<edge source="Cra" target="gapA"/>
+<edge source="Cra" target="icd"/>
+<edge source="Cra" target="pck"/>
+<edge source="Cra" target="pgk"/>
+<edge source="Cra" target="ppc"/>
+<edge source="Cra" target="ppsA"/>
+<edge source="Cra" target="ptsI"/>
+<edge source="Cra" target="pykF"/>
+<edge source="Cra" target="tpiA"/>
+<edge source="Cra" target="hypF"/>
+<edge source="Cra" target="setA"/>
+<edge source="Cra" target="gpmM"/>
+<edge source="Cra" target="envC"/>
+<edge source="Cra" target="yibQ"/>
+<edge source="Cra" target="mpl"/>
+<edge source="Cra" target="glk"/>
+<edge source="Cra" target="sgrT"/>
+<edge source="Cra" target="prpB"/>
+<edge source="Cra" target="prpC"/>
+<edge source="Cra" target="prpD"/>
+<edge source="Cra" target="prpE"/>
+<edge source="Cra" target="yeaD"/>
+<edge source="Cra" target="fbaB"/>
+<edge source="aceA" target="IHF"/>
+<edge source="aceE" target="FNR"/>
+<edge source="aceE" target="PdhR"/>
+<edge source="aceE" target="BtsR"/>
+<edge source="aceF" target="FNR"/>
+<edge source="aceF" target="PdhR"/>
+<edge source="aceF" target="BtsR"/>
+<edge source="aceK" target="IHF"/>
+<edge source="aroP" target="TyrR"/>
+<edge source="aroP" target="GlaR"/>
+<edge source="aroP" target="ArgR"/>
+<edge source="aroP" target="FNR"/>
+<edge source="crr" target="Mlc"/>
+<edge source="eda" target="PlaR"/>
+<edge source="eda" target="GntR"/>
+<edge source="eda" target="PhoB"/>
+<edge source="edd" target="GntR"/>
+<edge source="fbaA" target="CRP"/>
+<edge source="icd" target="ArcA"/>
+<edge source="icd" target="Nac"/>
+<edge source="pck" target="CRP"/>
+<edge source="pgk" target="CRP"/>
+<edge source="ppc" target="Nac"/>
+<edge source="ppsA" target="PdhR"/>
+<edge source="ptsI" target="Mlc"/>
+<edge source="hypF" target="FhlA"/>
+<edge source="setA" target="SgrR"/>
+<edge source="sgrT" target="SgrR"/>
+<edge source="prpB" target="CRP"/>
+<edge source="prpC" target="CRP"/>
+<edge source="prpD" target="CRP"/>
+<edge source="prpE" target="CRP"/>
+<edge source="RbsR" target="add"/>
+<edge source="RbsR" target="purD"/>
+<edge source="RbsR" target="purH"/>
+<edge source="RbsR" target="dcd"/>
+<edge source="RbsR" target="udk"/>
+<edge source="purD" target="PurR"/>
+<edge source="purH" target="PurR"/>
+<edge source="purH" target="CRP"/>
+<edge source="TorR" target="tnaA"/>
+<edge source="TorR" target="tnaB"/>
+<edge source="TorR" target="tnaC"/>
+<edge source="TorR" target="torA"/>
+<edge source="TorR" target="torC"/>
+<edge source="TorR" target="torD"/>
+<edge source="TorR" target="torR"/>
+<edge source="tnaA" target="Nac"/>
+<edge source="tnaA" target="CRP"/>
+<edge source="tnaB" target="Nac"/>
+<edge source="tnaB" target="CRP"/>
+<edge source="tnaC" target="Nac"/>
+<edge source="tnaC" target="CRP"/>
+<edge source="torA" target="Nac"/>
+<edge source="AcrR" target="soxR"/>
+<edge source="AcrR" target="soxS"/>
+<edge source="AcrR" target="puuA"/>
+<edge source="soxR" target="SoxR"/>
+<edge source="soxS" target="SoxR"/>
+<edge source="soxS" target="SoxS"/>
+<edge source="puuA" target="PuuR"/>
+<edge source="Cbl" target="ssuB"/>
+<edge source="Cbl" target="tauD"/>
+<edge source="Cbl" target="tauA"/>
+<edge source="Cbl" target="tauB"/>
+<edge source="Cbl" target="tauC"/>
+<edge source="Cbl" target="ssuC"/>
+<edge source="Cbl" target="ssuD"/>
+<edge source="Cbl" target="ssuA"/>
+<edge source="Cbl" target="ssuE"/>
+<edge source="ssuB" target="CysB"/>
+<edge source="ssuB" target="IHF"/>
+<edge source="tauD" target="CysB"/>
+<edge source="tauA" target="Nac"/>
+<edge source="tauA" target="CysB"/>
+<edge source="tauB" target="CysB"/>
+<edge source="tauC" target="CysB"/>
+<edge source="ssuC" target="CysB"/>
+<edge source="ssuC" target="IHF"/>
+<edge source="ssuD" target="CysB"/>
+<edge source="ssuD" target="IHF"/>
+<edge source="ssuA" target="CysB"/>
+<edge source="ssuA" target="IHF"/>
+<edge source="ssuE" target="Nac"/>
+<edge source="ssuE" target="CysB"/>
+<edge source="ssuE" target="IHF"/>
+<edge source="SoxR" target="aroF"/>
+<edge source="SoxR" target="sodA"/>
+<edge source="SoxR" target="tyrA"/>
+<edge source="SoxR" target="yjcB"/>
+<edge source="SoxR" target="yrbL"/>
+<edge source="aroF" target="TyrR"/>
+<edge source="aroF" target="Nac"/>
+<edge source="sodA" target="MarA"/>
+<edge source="sodA" target="Fur"/>
+<edge source="sodA" target="SoxS"/>
+<edge source="sodA" target="IHF"/>
+<edge source="tyrA" target="TyrR"/>
+<edge source="yjcB" target="Nac"/>
+<edge source="yrbL" target="PhoP"/>
+<edge source="yrbL" target="BasR"/>
+<edge source="yrbL" target="SoxS"/>
+<edge source="FhlA" target="fhlA"/>
+<edge source="FhlA" target="hypA"/>
+<edge source="FhlA" target="hypB"/>
+<edge source="FhlA" target="hypC"/>
+<edge source="FhlA" target="hypD"/>
+<edge source="FhlA" target="hypE"/>
+<edge source="FhlA" target="hydN"/>
+<edge source="fhlA" target="FNR"/>
+<edge source="fhlA" target="IHF"/>
+<edge source="hypA" target="IHF"/>
+<edge source="hypB" target="FNR"/>
+<edge source="hypB" target="IHF"/>
+<edge source="hypC" target="FNR"/>
+<edge source="hypC" target="IHF"/>
+<edge source="hypD" target="FNR"/>
+<edge source="hypD" target="IHF"/>
+<edge source="hypE" target="FNR"/>
+<edge source="hypE" target="IHF"/>
+<edge source="HprR" target="cusA"/>
+<edge source="HprR" target="cusS"/>
+<edge source="HprR" target="cusR"/>
+<edge source="HprR" target="cusC"/>
+<edge source="HprR" target="cusF"/>
+<edge source="HprR" target="cusB"/>
+<edge source="HprR" target="msrP"/>
+<edge source="HprR" target="msrQ"/>
+<edge source="cusA" target="CusR"/>
+<edge source="cusA" target="PhoB"/>
+<edge source="cusS" target="CusR"/>
+<edge source="cusS" target="PhoB"/>
+<edge source="cusR" target="CusR"/>
+<edge source="cusR" target="PhoB"/>
+<edge source="cusC" target="Fur"/>
+<edge source="cusC" target="CusR"/>
+<edge source="cusC" target="PhoB"/>
+<edge source="cusF" target="CusR"/>
+<edge source="cusF" target="PhoB"/>
+<edge source="cusB" target="CusR"/>
+<edge source="cusB" target="PhoB"/>
+<edge source="msrP" target="CusR"/>
+<edge source="msrP" target="PhoB"/>
+<edge source="msrQ" target="CusR"/>
+<edge source="msrQ" target="PhoB"/>
+<edge source="MarA" target="fpr"/>
+<edge source="MarA" target="purA"/>
+<edge source="MarA" target="rimK"/>
+<edge source="MarA" target="xseA"/>
+<edge source="MarA" target="nfsA"/>
+<edge source="MarA" target="acnA"/>
+<edge source="MarA" target="mlaD"/>
+<edge source="MarA" target="mlaE"/>
+<edge source="MarA" target="mlaF"/>
+<edge source="MarA" target="ybjC"/>
+<edge source="MarA" target="nfsB"/>
+<edge source="MarA" target="ybjN"/>
+<edge source="MarA" target="pqiA"/>
+<edge source="MarA" target="pqiB"/>
+<edge source="MarA" target="pqiC"/>
+<edge source="MarA" target="ycgZ"/>
+<edge source="MarA" target="ymgA"/>
+<edge source="MarA" target="ariR"/>
+<edge source="MarA" target="ymgC"/>
+<edge source="MarA" target="mlaB"/>
+<edge source="MarA" target="mlaC"/>
+<edge source="fpr" target="SoxS"/>
+<edge source="purA" target="PurR"/>
+<edge source="rimK" target="SoxS"/>
+<edge source="rimK" target="OxyR"/>
+<edge source="xseA" target="CRP"/>
+<edge source="nfsA" target="SoxS"/>
+<edge source="nfsA" target="OxyR"/>
+<edge source="acnA" target="SoxS"/>
+<edge source="ybjC" target="SoxS"/>
+<edge source="ybjC" target="OxyR"/>
+<edge source="nfsB" target="SoxS"/>
+<edge source="ybjN" target="SoxS"/>
+<edge source="ybjN" target="OxyR"/>
+<edge source="pqiA" target="SoxS"/>
+<edge source="pqiB" target="SoxS"/>
+<edge source="pqiC" target="SoxS"/>
+<edge source="ZraR" target="zraS"/>
+<edge source="ZraR" target="acrE"/>
+<edge source="ZraR" target="glnH"/>
+<edge source="ZraR" target="zraR"/>
+<edge source="ZraR" target="rfaD"/>
+<edge source="ZraR" target="rpoH"/>
+<edge source="ZraR" target="sspA"/>
+<edge source="ZraR" target="raiA"/>
+<edge source="ZraR" target="zraP"/>
+<edge source="ZraR" target="cspB"/>
+<edge source="ZraR" target="exuR"/>
+<edge source="ZraR" target="yhdW"/>
+<edge source="ZraR" target="yrdD"/>
+<edge source="ZraR" target="yhhY"/>
+<edge source="ZraR" target="cpxP"/>
+<edge source="ZraR" target="yjjY"/>
+<edge source="acrE" target="Nac"/>
+<edge source="glnH" target="NtrC"/>
+<edge source="glnH" target="IHF"/>
+<edge source="zraR" target="GlaR"/>
+<edge source="rpoH" target="CytR"/>
+<edge source="rpoH" target="CRP"/>
+<edge source="rpoH" target="IHF"/>
+<edge source="raiA" target="CRP"/>
+<edge source="yhdW" target="NtrC"/>
+<edge source="yhhY" target="Fur"/>
+<edge source="cpxP" target="CpxR"/>
+<edge source="ArgP" target="asd"/>
+<edge source="ArgP" target="dapB"/>
+<edge source="ArgP" target="dapD"/>
+<edge source="ArgP" target="lysA"/>
+<edge source="ArgP" target="lysC"/>
+<edge source="dapB" target="Nac"/>
+<edge source="lysA" target="Nac"/>
+<edge source="GadE" target="rcsA"/>
+<edge source="GadE" target="yjbR"/>
+<edge source="rcsA" target="Nac"/>
+<edge source="TyrR" target="aroG"/>
+<edge source="TyrR" target="folA"/>
+<edge source="TyrR" target="tyrB"/>
+<edge source="TyrR" target="tyrP"/>
+<edge source="aroG" target="CpxR"/>
+<edge source="CecR" target="rhlE"/>
+<edge source="CecR" target="cecR"/>
+<edge source="CecR" target="ybhR"/>
+<edge source="CecR" target="ybhS"/>
+<edge source="CecR" target="ybhF"/>
+<edge source="CecR" target="ybhG"/>
+<edge source="GlaR" target="apt"/>
+<edge source="GlaR" target="aroB"/>
+<edge source="GlaR" target="cysN"/>
+<edge source="GlaR" target="cysS"/>
+<edge source="GlaR" target="fhuE"/>
+<edge source="GlaR" target="kdsA"/>
+<edge source="GlaR" target="mglA"/>
+<edge source="GlaR" target="mrdA"/>
+<edge source="GlaR" target="murD"/>
+<edge source="GlaR" target="pdxA"/>
+<edge source="GlaR" target="ppiB"/>
+<edge source="GlaR" target="priC"/>
+<edge source="GlaR" target="rhsD"/>
+<edge source="GlaR" target="rpsF"/>
+<edge source="GlaR" target="tar"/>
+<edge source="GlaR" target="ttdA"/>
+<edge source="GlaR" target="yidB"/>
+<edge source="GlaR" target="ppx"/>
+<edge source="GlaR" target="yigG"/>
+<edge source="GlaR" target="smg"/>
+<edge source="GlaR" target="baeS"/>
+<edge source="GlaR" target="phoH"/>
+<edge source="GlaR" target="chaA"/>
+<edge source="GlaR" target="gcvA"/>
+<edge source="GlaR" target="rpiB"/>
+<edge source="GlaR" target="yihD"/>
+<edge source="GlaR" target="yihM"/>
+<edge source="GlaR" target="kdgT"/>
+<edge source="GlaR" target="tehA"/>
+<edge source="GlaR" target="htrE"/>
+<edge source="GlaR" target="yehD"/>
+<edge source="GlaR" target="yehS"/>
+<edge source="GlaR" target="rssB"/>
+<edge source="GlaR" target="idnK"/>
+<edge source="GlaR" target="hinT"/>
+<edge source="GlaR" target="yadN"/>
+<edge source="GlaR" target="chaB"/>
+<edge source="GlaR" target="chaC"/>
+<edge source="GlaR" target="rfbB"/>
+<edge source="GlaR" target="prmC"/>
+<edge source="GlaR" target="yfjD"/>
+<edge source="GlaR" target="yfiL"/>
+<edge source="GlaR" target="sgcC"/>
+<edge source="GlaR" target="ttdR"/>
+<edge source="GlaR" target="ygjI"/>
+<edge source="GlaR" target="ybaN"/>
+<edge source="GlaR" target="dgcN"/>
+<edge source="GlaR" target="yjdP"/>
+<edge source="GlaR" target="dinQ"/>
+<edge source="GlaR" target="ldcC"/>
+<edge source="GlaR" target="elfC"/>
+<edge source="GlaR" target="ycbU"/>
+<edge source="GlaR" target="ycbV"/>
+<edge source="GlaR" target="yccU"/>
+<edge source="GlaR" target="bssS"/>
+<edge source="GlaR" target="pdeG"/>
+<edge source="GlaR" target="ycgJ"/>
+<edge source="GlaR" target="ycgY"/>
+<edge source="GlaR" target="ycgV"/>
+<edge source="GlaR" target="ychQ"/>
+<edge source="GlaR" target="yciU"/>
+<edge source="GlaR" target="ycjP"/>
+<edge source="GlaR" target="ynaE"/>
+<edge source="GlaR" target="ydcK"/>
+<edge source="GlaR" target="safA"/>
+<edge source="GlaR" target="lsrG"/>
+<edge source="GlaR" target="tam"/>
+<edge source="GlaR" target="ydfI"/>
+<edge source="GlaR" target="ydfK"/>
+<edge source="GlaR" target="ydhS"/>
+<edge source="GlaR" target="ynjH"/>
+<edge source="GlaR" target="yeaE"/>
+<edge source="GlaR" target="yobD"/>
+<edge source="GlaR" target="yodB"/>
+<edge source="GlaR" target="yfbN"/>
+<edge source="GlaR" target="yfbO"/>
+<edge source="GlaR" target="hxpA"/>
+<edge source="GlaR" target="yfbU"/>
+<edge source="GlaR" target="yfcO"/>
+<edge source="GlaR" target="yfcV"/>
+<edge source="GlaR" target="yfdC"/>
+<edge source="GlaR" target="yfdV"/>
+<edge source="GlaR" target="oxc"/>
+<edge source="GlaR" target="ypdC"/>
+<edge source="GlaR" target="yfiR"/>
+<edge source="GlaR" target="ypjA"/>
+<edge source="GlaR" target="yqhC"/>
+<edge source="GlaR" target="ygiV"/>
+<edge source="GlaR" target="ygiW"/>
+<edge source="GlaR" target="yhcD"/>
+<edge source="GlaR" target="rsgA"/>
+<edge source="GlaR" target="orn"/>
+<edge source="GlaR" target="yjfY"/>
+<edge source="GlaR" target="bdcA"/>
+<edge source="GlaR" target="bdcR"/>
+<edge source="GlaR" target="idnD"/>
+<edge source="cysN" target="CysB"/>
+<edge source="cysS" target="Nac"/>
+<edge source="fhuE" target="Fur"/>
+<edge source="kdsA" target="Nac"/>
+<edge source="mglA" target="Nac"/>
+<edge source="mglA" target="CRP"/>
+<edge source="murD" target="PdhR"/>
+<edge source="murD" target="MraZ"/>
+<edge source="ppiB" target="Nac"/>
+<edge source="rpsF" target="CRP"/>
+<edge source="baeS" target="CpxR"/>
+<edge source="baeS" target="BaeR"/>
+<edge source="phoH" target="ArcA"/>
+<edge source="phoH" target="Nac"/>
+<edge source="phoH" target="PhoB"/>
+<edge source="chaA" target="CpxR"/>
+<edge source="yihD" target="Nac"/>
+<edge source="htrE" target="Nac"/>
+<edge source="idnK" target="GntR"/>
+<edge source="idnK" target="CRP"/>
+<edge source="chaB" target="CpxR"/>
+<edge source="rfbB" target="Nac"/>
+<edge source="prmC" target="FNR"/>
+<edge source="yfiL" target="Nac"/>
+<edge source="sgcC" target="SlyA"/>
+<edge source="sgcC" target="CRP"/>
+<edge source="ygjI" target="Nac"/>
+<edge source="ybaN" target="Fur"/>
+<edge source="bssS" target="Nac"/>
+<edge source="bssS" target="YhaJ"/>
+<edge source="ycgJ" target="Nac"/>
+<edge source="ycgV" target="Nac"/>
+<edge source="ycjP" target="YcjW"/>
+<edge source="safA" target="PhoP"/>
+<edge source="safA" target="EvgA"/>
+<edge source="lsrG" target="LsrR"/>
+<edge source="lsrG" target="CRP"/>
+<edge source="tam" target="LsrR"/>
+<edge source="tam" target="CRP"/>
+<edge source="ydfK" target="Nac"/>
+<edge source="ynjH" target="Nac"/>
+<edge source="yfcO" target="Nac"/>
+<edge source="yfcV" target="Fur"/>
+<edge source="yfdV" target="Nac"/>
+<edge source="yfdV" target="EvgA"/>
+<edge source="oxc" target="EvgA"/>
+<edge source="yfiR" target="Nac"/>
+<edge source="yhcD" target="Nac"/>
+<edge source="idnD" target="CRP"/>
+<edge source="PlaR" target="glpA"/>
+<edge source="PlaR" target="yiaK"/>
+<edge source="PlaR" target="yiaL"/>
+<edge source="PlaR" target="yiaM"/>
+<edge source="PlaR" target="yiaN"/>
+<edge source="PlaR" target="yiaO"/>
+<edge source="PlaR" target="lyxK"/>
+<edge source="PlaR" target="sgbH"/>
+<edge source="PlaR" target="sgbU"/>
+<edge source="PlaR" target="sgbE"/>
+<edge source="PlaR" target="ygjV"/>
+<edge source="glpA" target="GlpR"/>
+<edge source="glpA" target="CRP"/>
+<edge source="yiaK" target="CRP"/>
+<edge source="yiaK" target="IHF"/>
+<edge source="yiaL" target="CRP"/>
+<edge source="yiaL" target="IHF"/>
+<edge source="yiaM" target="CRP"/>
+<edge source="yiaM" target="IHF"/>
+<edge source="yiaN" target="CRP"/>
+<edge source="yiaN" target="IHF"/>
+<edge source="yiaO" target="CRP"/>
+<edge source="yiaO" target="IHF"/>
+<edge source="lyxK" target="CRP"/>
+<edge source="lyxK" target="IHF"/>
+<edge source="sgbH" target="CRP"/>
+<edge source="sgbH" target="IHF"/>
+<edge source="sgbU" target="CRP"/>
+<edge source="sgbU" target="IHF"/>
+<edge source="sgbE" target="CRP"/>
+<edge source="sgbE" target="IHF"/>
+<edge source="NhaR" target="nhaA"/>
+<edge source="NarP" target="ydhU"/>
+<edge source="NarP" target="ydhX"/>
+<edge source="NarP" target="ydhW"/>
+<edge source="ydhU" target="FNR"/>
+<edge source="ydhX" target="FNR"/>
+<edge source="ydhW" target="FNR"/>
+<edge source="GalR" target="galR"/>
+<edge source="McbR" target="mcbA"/>
+<edge source="mcbA" target="Nac"/>
+<edge source="XylR" target="xylA"/>
+<edge source="XylR" target="xylE"/>
+<edge source="XylR" target="xylG"/>
+<edge source="XylR" target="xylH"/>
+<edge source="XylR" target="xylF"/>
+<edge source="XylR" target="xylR"/>
+<edge source="xylE" target="CpxR"/>
+<edge source="xylE" target="CRP"/>
+<edge source="HcaR" target="iroK"/>
+<edge source="HcaR" target="hcaR"/>
+<edge source="HcaR" target="hcaC"/>
+<edge source="HcaR" target="hcaB"/>
+<edge source="HcaR" target="hcaD"/>
+<edge source="HcaR" target="hcaE"/>
+<edge source="HcaR" target="hcaF"/>
+<edge source="hcaR" target="Fur"/>
+<edge source="hcaR" target="Nac"/>
+<edge source="hcaE" target="Nac"/>
+<edge source="Fur" target="garL"/>
+<edge source="Fur" target="argF"/>
+<edge source="Fur" target="argG"/>
+<edge source="Fur" target="entA"/>
+<edge source="Fur" target="entB"/>
+<edge source="Fur" target="entC"/>
+<edge source="Fur" target="entD"/>
+<edge source="Fur" target="entE"/>
+<edge source="Fur" target="entF"/>
+<edge source="Fur" target="exbB"/>
+<edge source="Fur" target="fecA"/>
+<edge source="Fur" target="fecB"/>
+<edge source="Fur" target="fecC"/>
+<edge source="Fur" target="fecD"/>
+<edge source="Fur" target="fecE"/>
+<edge source="Fur" target="fecI"/>
+<edge source="Fur" target="fecR"/>
+<edge source="Fur" target="fepB"/>
+<edge source="Fur" target="fepC"/>
+<edge source="Fur" target="fepD"/>
+<edge source="Fur" target="fepE"/>
+<edge source="Fur" target="fepG"/>
+<edge source="Fur" target="fes"/>
+<edge source="Fur" target="fhuC"/>
+<edge source="Fur" target="glpF"/>
+<edge source="Fur" target="glpK"/>
+<edge source="Fur" target="nth"/>
+<edge source="Fur" target="pyrC"/>
+<edge source="Fur" target="recN"/>
+<edge source="Fur" target="sucB"/>
+<edge source="Fur" target="sucC"/>
+<edge source="Fur" target="sucD"/>
+<edge source="Fur" target="tonB"/>
+<edge source="Fur" target="ugpE"/>
+<edge source="Fur" target="uxaB"/>
+<edge source="Fur" target="entS"/>
+<edge source="Fur" target="entH"/>
+<edge source="Fur" target="garK"/>
+<edge source="Fur" target="garR"/>
+<edge source="Fur" target="bfd"/>
+<edge source="Fur" target="nohA"/>
+<edge source="Fur" target="eamA"/>
+<edge source="Fur" target="gpmA"/>
+<edge source="Fur" target="mdtL"/>
+<edge source="Fur" target="efeB"/>
+<edge source="Fur" target="yddA"/>
+<edge source="Fur" target="yddB"/>
+<edge source="Fur" target="yihN"/>
+<edge source="Fur" target="yihX"/>
+<edge source="Fur" target="zapB"/>
+<edge source="Fur" target="yejG"/>
+<edge source="Fur" target="yojI"/>
+<edge source="Fur" target="ygaC"/>
+<edge source="Fur" target="nrdF"/>
+<edge source="Fur" target="ydiE"/>
+<edge source="Fur" target="dppB"/>
+<edge source="Fur" target="dppC"/>
+<edge source="Fur" target="dppD"/>
+<edge source="Fur" target="dppF"/>
+<edge source="Fur" target="garP"/>
+<edge source="Fur" target="nrdE"/>
+<edge source="Fur" target="ybdZ"/>
+<edge source="Fur" target="yjjZ"/>
+<edge source="Fur" target="xynR"/>
+<edge source="Fur" target="bssR"/>
+<edge source="Fur" target="efeO"/>
+<edge source="Fur" target="ortT"/>
+<edge source="Fur" target="yncE"/>
+<edge source="Fur" target="adhP"/>
+<edge source="Fur" target="tfaQ"/>
+<edge source="Fur" target="tqsA"/>
+<edge source="Fur" target="mntP"/>
+<edge source="Fur" target="ftnB"/>
+<edge source="Fur" target="mntH"/>
+<edge source="Fur" target="maeB"/>
+<edge source="Fur" target="pdeF"/>
+<edge source="Fur" target="nrdH"/>
+<edge source="Fur" target="nrdI"/>
+<edge source="Fur" target="hybO"/>
+<edge source="Fur" target="gpr"/>
+<edge source="Fur" target="yqhD"/>
+<edge source="Fur" target="dkgA"/>
+<edge source="Fur" target="nfeF"/>
+<edge source="Fur" target="yjiR"/>
+<edge source="Fur" target="fhuF"/>
+<edge source="Fur" target="uxaC"/>
+<edge source="argF" target="ArgR"/>
+<edge source="argG" target="ArgR"/>
+<edge source="argG" target="CRP"/>
+<edge source="entF" target="FNR"/>
+<edge source="entF" target="CRP"/>
+<edge source="fecI" target="SlyA"/>
+<edge source="fecR" target="SlyA"/>
+<edge source="fepB" target="RutR"/>
+<edge source="fepE" target="FNR"/>
+<edge source="fepE" target="Nac"/>
+<edge source="fes" target="FNR"/>
+<edge source="glpF" target="GlpR"/>
+<edge source="glpK" target="GlpR"/>
+<edge source="glpK" target="Nac"/>
+<edge source="pyrC" target="PurR"/>
+<edge source="recN" target="LexA"/>
+<edge source="sucB" target="ArcA"/>
+<edge source="sucB" target="CRP"/>
+<edge source="sucC" target="ArcA"/>
+<edge source="sucC" target="CRP"/>
+<edge source="sucD" target="ArcA"/>
+<edge source="sucD" target="CRP"/>
+<edge source="ugpE" target="CRP"/>
+<edge source="ugpE" target="PhoB"/>
+<edge source="bfd" target="Nac"/>
+<edge source="eamA" target="Nac"/>
+<edge source="yejG" target="ArcA"/>
+<edge source="yejG" target="Nac"/>
+<edge source="ygaC" target="Nac"/>
+<edge source="nrdF" target="NrdR"/>
+<edge source="nrdE" target="NrdR"/>
+<edge source="ybdZ" target="FNR"/>
+<edge source="yjjZ" target="OxyR"/>
+<edge source="ortT" target="FNR"/>
+<edge source="ortT" target="Nac"/>
+<edge source="ortT" target="CRP"/>
+<edge source="yncE" target="ArcA"/>
+<edge source="tfaQ" target="Nac"/>
+<edge source="ftnB" target="Nac"/>
+<edge source="ftnB" target="CpxR"/>
+<edge source="mntH" target="Nac"/>
+<edge source="mntH" target="OxyR"/>
+<edge source="pdeF" target="FNR"/>
+<edge source="pdeF" target="Nac"/>
+<edge source="nrdH" target="NrdR"/>
+<edge source="nrdI" target="NrdR"/>
+<edge source="dkgA" target="Nac"/>
+<edge source="yjiR" target="ArcA"/>
+<edge source="fhuF" target="Nac"/>
+<edge source="fhuF" target="OxyR"/>
+<edge source="uxaC" target="Nac"/>
+<edge source="uxaC" target="CRP"/>
+<edge source="ArcA" target="cydC"/>
+<edge source="ArcA" target="arcA"/>
+<edge source="ArcA" target="argR"/>
+<edge source="ArcA" target="argT"/>
+<edge source="ArcA" target="betB"/>
+<edge source="ArcA" target="betI"/>
+<edge source="ArcA" target="betT"/>
+<edge source="ArcA" target="carA"/>
+<edge source="ArcA" target="moeA"/>
+<edge source="ArcA" target="moeB"/>
+<edge source="ArcA" target="cyoA"/>
+<edge source="ArcA" target="cyoB"/>
+<edge source="ArcA" target="cyoC"/>
+<edge source="ArcA" target="cyoD"/>
+<edge source="ArcA" target="cyoE"/>
+<edge source="ArcA" target="dppA"/>
+<edge source="ArcA" target="fumA"/>
+<edge source="ArcA" target="glpD"/>
+<edge source="ArcA" target="glpE"/>
+<edge source="ArcA" target="gltA"/>
+<edge source="ArcA" target="kdpA"/>
+<edge source="ArcA" target="kgtP"/>
+<edge source="ArcA" target="manA"/>
+<edge source="ArcA" target="mdh"/>
+<edge source="ArcA" target="ndk"/>
+<edge source="ArcA" target="pepN"/>
+<edge source="ArcA" target="pldA"/>
+<edge source="ArcA" target="pncB"/>
+<edge source="ArcA" target="pntA"/>
+<edge source="ArcA" target="putA"/>
+<edge source="ArcA" target="putP"/>
+<edge source="ArcA" target="rho"/>
+<edge source="ArcA" target="sdhD"/>
+<edge source="ArcA" target="ssb"/>
+<edge source="ArcA" target="thrA"/>
+<edge source="ArcA" target="uvrA"/>
+<edge source="ArcA" target="xthA"/>
+<edge source="ArcA" target="dsbB"/>
+<edge source="ArcA" target="cydD"/>
+<edge source="ArcA" target="yigI"/>
+<edge source="ArcA" target="ybfA"/>
+<edge source="ArcA" target="fadD"/>
+<edge source="ArcA" target="thiC"/>
+<edge source="ArcA" target="potF"/>
+<edge source="ArcA" target="yieE"/>
+<edge source="ArcA" target="yfiF"/>
+<edge source="ArcA" target="nupC"/>
+<edge source="ArcA" target="yeiQ"/>
+<edge source="ArcA" target="acnB"/>
+<edge source="ArcA" target="glcB"/>
+<edge source="ArcA" target="acpP"/>
+<edge source="ArcA" target="glcF"/>
+<edge source="ArcA" target="fadH"/>
+<edge source="ArcA" target="ybiU"/>
+<edge source="ArcA" target="rutG"/>
+<edge source="ArcA" target="rutF"/>
+<edge source="ArcA" target="rutE"/>
+<edge source="ArcA" target="rutD"/>
+<edge source="ArcA" target="rutC"/>
+<edge source="ArcA" target="rutB"/>
+<edge source="ArcA" target="rutA"/>
+<edge source="ArcA" target="ynaJ"/>
+<edge source="ArcA" target="ydgC"/>
+<edge source="ArcA" target="rstA"/>
+<edge source="ArcA" target="fadJ"/>
+<edge source="ArcA" target="fadI"/>
+<edge source="ArcA" target="glcA"/>
+<edge source="ArcA" target="glcG"/>
+<edge source="ArcA" target="glcE"/>
+<edge source="ArcA" target="nudE"/>
+<edge source="ArcA" target="igaA"/>
+<edge source="ArcA" target="yhgE"/>
+<edge source="arcA" target="FNR"/>
+<edge source="argR" target="ArgR"/>
+<edge source="argT" target="NtrC"/>
+<edge source="carA" target="ArgR"/>
+<edge source="carA" target="PurR"/>
+<edge source="carA" target="RutR"/>
+<edge source="carA" target="CpxR"/>
+<edge source="carA" target="IHF"/>
+<edge source="moeA" target="FNR"/>
+<edge source="moeA" target="Nac"/>
+<edge source="moeB" target="FNR"/>
+<edge source="cyoA" target="PdhR"/>
+<edge source="cyoB" target="PdhR"/>
+<edge source="cyoC" target="PdhR"/>
+<edge source="cyoD" target="PdhR"/>
+<edge source="cyoE" target="PdhR"/>
+<edge source="dppA" target="Nac"/>
+<edge source="fumA" target="CRP"/>
+<edge source="glpD" target="GlpR"/>
+<edge source="glpD" target="CRP"/>
+<edge source="glpE" target="CRP"/>
+<edge source="gltA" target="Nac"/>
+<edge source="gltA" target="CRP"/>
+<edge source="gltA" target="IHF"/>
+<edge source="kdpA" target="KdpE"/>
+<edge source="mdh" target="BtsR"/>
+<edge source="mdh" target="DpiA"/>
+<edge source="pldA" target="Nac"/>
+<edge source="pntA" target="Nac"/>
+<edge source="putA" target="BasR"/>
+<edge source="ssb" target="LexA"/>
+<edge source="thrA" target="FNR"/>
+<edge source="uvrA" target="LexA"/>
+<edge source="xthA" target="OxyR"/>
+<edge source="yigI" target="Nac"/>
+<edge source="fadD" target="FadR"/>
+<edge source="fadD" target="CRP"/>
+<edge source="potF" target="ArgR"/>
+<edge source="yieE" target="Nac"/>
+<edge source="nupC" target="CRP"/>
+<edge source="glcB" target="PdhR"/>
+<edge source="glcB" target="GlcC"/>
+<edge source="acpP" target="PdhR"/>
+<edge source="glcF" target="PdhR"/>
+<edge source="glcF" target="GlcC"/>
+<edge source="fadH" target="FadR"/>
+<edge source="fadH" target="CRP"/>
+<edge source="fadH" target="HipB"/>
+<edge source="rutG" target="NtrC"/>
+<edge source="rutG" target="RutR"/>
+<edge source="rutF" target="NtrC"/>
+<edge source="rutF" target="RutR"/>
+<edge source="rutE" target="NtrC"/>
+<edge source="rutE" target="RutR"/>
+<edge source="rutD" target="NtrC"/>
+<edge source="rutD" target="RutR"/>
+<edge source="rutC" target="NtrC"/>
+<edge source="rutC" target="RutR"/>
+<edge source="rutB" target="Nac"/>
+<edge source="rutB" target="NtrC"/>
+<edge source="rutB" target="RutR"/>
+<edge source="rutA" target="NtrC"/>
+<edge source="rutA" target="RutR"/>
+<edge source="rstA" target="PhoP"/>
+<edge source="fadJ" target="FadR"/>
+<edge source="fadI" target="FadR"/>
+<edge source="glcA" target="Nac"/>
+<edge source="glcA" target="PdhR"/>
+<edge source="glcA" target="GlcC"/>
+<edge source="glcG" target="PdhR"/>
+<edge source="glcG" target="GlcC"/>
+<edge source="glcE" target="PdhR"/>
+<edge source="glcE" target="GlcC"/>
+<edge source="GlpR" target="glpB"/>
+<edge source="GlpR" target="glpC"/>
+<edge source="GlpR" target="glpQ"/>
+<edge source="GlpR" target="glpX"/>
+<edge source="glpB" target="CRP"/>
+<edge source="glpC" target="CRP"/>
+<edge source="glpQ" target="CRP"/>
+<edge source="glpQ" target="IHF"/>
+<edge source="SutR" target="ydcO"/>
+<edge source="SutR" target="sutR"/>
+<edge source="KdpE" target="kdpB"/>
+<edge source="KdpE" target="kdpC"/>
+<edge source="KdpE" target="kdpF"/>
+<edge source="SgrR" target="thiQ"/>
+<edge source="SgrR" target="thiP"/>
+<edge source="SgrR" target="thiB"/>
+<edge source="SgrR" target="sgrR"/>
+<edge source="SgrR" target="alaC"/>
+<edge source="alaC" target="Nac"/>
+<edge source="ArgR" target="hisM"/>
+<edge source="ArgR" target="argA"/>
+<edge source="ArgR" target="argB"/>
+<edge source="ArgR" target="argC"/>
+<edge source="ArgR" target="argD"/>
+<edge source="ArgR" target="argI"/>
+<edge source="ArgR" target="aroK"/>
+<edge source="ArgR" target="carB"/>
+<edge source="ArgR" target="cvpA"/>
+<edge source="ArgR" target="dacC"/>
+<edge source="ArgR" target="gltP"/>
+<edge source="ArgR" target="hisP"/>
+<edge source="ArgR" target="infB"/>
+<edge source="ArgR" target="waaA"/>
+<edge source="ArgR" target="nusA"/>
+<edge source="ArgR" target="pfkB"/>
+<edge source="ArgR" target="pnp"/>
+<edge source="ArgR" target="rpsO"/>
+<edge source="ArgR" target="yffB"/>
+<edge source="ArgR" target="truB"/>
+<edge source="ArgR" target="rbfA"/>
+<edge source="ArgR" target="rimP"/>
+<edge source="ArgR" target="argH"/>
+<edge source="ArgR" target="mukE"/>
+<edge source="ArgR" target="hisL"/>
+<edge source="ArgR" target="pyrL"/>
+<edge source="ArgR" target="argE"/>
+<edge source="ArgR" target="yaaU"/>
+<edge source="ArgR" target="artP"/>
+<edge source="ArgR" target="artI"/>
+<edge source="ArgR" target="artQ"/>
+<edge source="ArgR" target="artM"/>
+<edge source="ArgR" target="artJ"/>
+<edge source="ArgR" target="puuB"/>
+<edge source="ArgR" target="hisJ"/>
+<edge source="ArgR" target="hisQ"/>
+<edge source="ArgR" target="ykgA"/>
+<edge source="ArgR" target="lysO"/>
+<edge source="ArgR" target="ydgI"/>
+<edge source="ArgR" target="astE"/>
+<edge source="ArgR" target="astB"/>
+<edge source="ArgR" target="astD"/>
+<edge source="ArgR" target="astA"/>
+<edge source="ArgR" target="astC"/>
+<edge source="ArgR" target="eutS"/>
+<edge source="ArgR" target="yraQ"/>
+<edge source="ArgR" target="yhcC"/>
+<edge source="hisM" target="NtrC"/>
+<edge source="carB" target="PurR"/>
+<edge source="carB" target="RutR"/>
+<edge source="carB" target="CpxR"/>
+<edge source="carB" target="IHF"/>
+<edge source="cvpA" target="PurR"/>
+<edge source="gltP" target="Nac"/>
+<edge source="hisP" target="NtrC"/>
+<edge source="infB" target="CRP"/>
+<edge source="nusA" target="Nac"/>
+<edge source="nusA" target="CRP"/>
+<edge source="pfkB" target="Nac"/>
+<edge source="pnp" target="CRP"/>
+<edge source="rpsO" target="CRP"/>
+<edge source="truB" target="CRP"/>
+<edge source="rbfA" target="CRP"/>
+<edge source="rimP" target="Nac"/>
+<edge source="rimP" target="CRP"/>
+<edge source="pyrL" target="Nac"/>
+<edge source="puuB" target="CRP"/>
+<edge source="puuB" target="PuuR"/>
+<edge source="hisJ" target="NtrC"/>
+<edge source="hisQ" target="NtrC"/>
+<edge source="astE" target="NtrC"/>
+<edge source="astB" target="NtrC"/>
+<edge source="astD" target="NtrC"/>
+<edge source="astA" target="NtrC"/>
+<edge source="astC" target="NtrC"/>
+<edge source="eutS" target="Nac"/>
+<edge source="yhcC" target="Nac"/>
+<edge source="PspF" target="pspA"/>
+<edge source="PspF" target="pspB"/>
+<edge source="PspF" target="pspC"/>
+<edge source="PspF" target="pspD"/>
+<edge source="PspF" target="pspE"/>
+<edge source="PspF" target="pspG"/>
+<edge source="PspF" target="pspF"/>
+<edge source="pspA" target="IHF"/>
+<edge source="pspB" target="IHF"/>
+<edge source="pspC" target="IHF"/>
+<edge source="pspD" target="IHF"/>
+<edge source="pspE" target="IHF"/>
+<edge source="PaaX" target="paaZ"/>
+<edge source="PaaX" target="paaA"/>
+<edge source="PaaX" target="paaB"/>
+<edge source="PaaX" target="paaC"/>
+<edge source="PaaX" target="paaD"/>
+<edge source="PaaX" target="paaE"/>
+<edge source="PaaX" target="paaF"/>
+<edge source="PaaX" target="paaG"/>
+<edge source="PaaX" target="paaH"/>
+<edge source="PaaX" target="paaI"/>
+<edge source="PaaX" target="paaJ"/>
+<edge source="PaaX" target="paaK"/>
+<edge source="PaaX" target="paaX"/>
+<edge source="PaaX" target="paaY"/>
+<edge source="paaZ" target="CRP"/>
+<edge source="paaZ" target="IHF"/>
+<edge source="paaZ" target="SrsR"/>
+<edge source="paaA" target="SlyA"/>
+<edge source="paaA" target="CRP"/>
+<edge source="paaA" target="IHF"/>
+<edge source="paaA" target="SrsR"/>
+<edge source="paaB" target="SlyA"/>
+<edge source="paaB" target="CRP"/>
+<edge source="paaB" target="IHF"/>
+<edge source="paaB" target="SrsR"/>
+<edge source="paaC" target="SlyA"/>
+<edge source="paaC" target="CRP"/>
+<edge source="paaC" target="IHF"/>
+<edge source="paaC" target="SrsR"/>
+<edge source="paaD" target="SlyA"/>
+<edge source="paaD" target="CRP"/>
+<edge source="paaD" target="IHF"/>
+<edge source="paaD" target="SrsR"/>
+<edge source="paaE" target="SlyA"/>
+<edge source="paaE" target="CRP"/>
+<edge source="paaE" target="IHF"/>
+<edge source="paaE" target="SrsR"/>
+<edge source="paaF" target="SlyA"/>
+<edge source="paaF" target="CRP"/>
+<edge source="paaF" target="IHF"/>
+<edge source="paaF" target="SrsR"/>
+<edge source="paaG" target="SlyA"/>
+<edge source="paaG" target="CRP"/>
+<edge source="paaG" target="IHF"/>
+<edge source="paaG" target="SrsR"/>
+<edge source="paaH" target="SlyA"/>
+<edge source="paaH" target="CRP"/>
+<edge source="paaH" target="IHF"/>
+<edge source="paaH" target="SrsR"/>
+<edge source="paaI" target="SlyA"/>
+<edge source="paaI" target="CRP"/>
+<edge source="paaI" target="IHF"/>
+<edge source="paaI" target="SrsR"/>
+<edge source="paaJ" target="SlyA"/>
+<edge source="paaJ" target="CRP"/>
+<edge source="paaJ" target="IHF"/>
+<edge source="paaJ" target="SrsR"/>
+<edge source="paaK" target="SlyA"/>
+<edge source="paaK" target="CRP"/>
+<edge source="paaK" target="IHF"/>
+<edge source="paaK" target="SrsR"/>
+<edge source="CytR" target="cdd"/>
+<edge source="CytR" target="cytR"/>
+<edge source="CytR" target="nupG"/>
+<edge source="CytR" target="ppiA"/>
+<edge source="CytR" target="udp"/>
+<edge source="cdd" target="CRP"/>
+<edge source="cytR" target="CRP"/>
+<edge source="nupG" target="CRP"/>
+<edge source="ppiA" target="CpxR"/>
+<edge source="ppiA" target="CRP"/>
+<edge source="udp" target="CRP"/>
+<edge source="MatA" target="fliC"/>
+<edge source="MatA" target="ecpA"/>
+<edge source="fliC" target="Nac"/>
+<edge source="CaiF" target="caiD"/>
+<edge source="CaiF" target="caiC"/>
+<edge source="CaiF" target="caiB"/>
+<edge source="CaiF" target="caiA"/>
+<edge source="CaiF" target="caiT"/>
+<edge source="CaiF" target="fixA"/>
+<edge source="CaiF" target="fixB"/>
+<edge source="CaiF" target="fixC"/>
+<edge source="CaiF" target="fixX"/>
+<edge source="CaiF" target="caiE"/>
+<edge source="caiD" target="CRP"/>
+<edge source="caiC" target="CRP"/>
+<edge source="caiB" target="CRP"/>
+<edge source="caiA" target="CRP"/>
+<edge source="caiT" target="CRP"/>
+<edge source="caiE" target="CRP"/>
+<edge source="PurR" target="glnB"/>
+<edge source="PurR" target="glyA"/>
+<edge source="PurR" target="prs"/>
+<edge source="PurR" target="purC"/>
+<edge source="PurR" target="purE"/>
+<edge source="PurR" target="purF"/>
+<edge source="PurR" target="purK"/>
+<edge source="PurR" target="purL"/>
+<edge source="PurR" target="purM"/>
+<edge source="PurR" target="purN"/>
+<edge source="PurR" target="pyrD"/>
+<edge source="PurR" target="speA"/>
+<edge source="PurR" target="speB"/>
+<edge source="PurR" target="ubiX"/>
+<edge source="PurR" target="purB"/>
+<edge source="PurR" target="codA"/>
+<edge source="PurR" target="codB"/>
+<edge source="PurR" target="hflD"/>
+<edge source="PurR" target="purT"/>
+<edge source="purM" target="FNR"/>
+<edge source="purN" target="FNR"/>
+<edge source="codA" target="Nac"/>
+<edge source="codB" target="Nac"/>
+<edge source="GadRcs" target="aslB"/>
+<edge source="GadRcs" target="adiC"/>
+<edge source="FadR" target="accD"/>
+<edge source="FadR" target="fabA"/>
+<edge source="FadR" target="fabB"/>
+<edge source="FadR" target="accB"/>
+<edge source="FadR" target="accC"/>
+<edge source="FadR" target="fabH"/>
+<edge source="FadR" target="fabD"/>
+<edge source="FadR" target="fabG"/>
+<edge source="FadR" target="uspA"/>
+<edge source="FadR" target="fabI"/>
+<edge source="FadR" target="accA"/>
+<edge source="uspA" target="Nac"/>
+<edge source="FNR" target="fnr"/>
+<edge source="FNR" target="hemA"/>
+<edge source="FNR" target="prfA"/>
+<edge source="FNR" target="pykA"/>
+<edge source="FNR" target="ung"/>
+<edge source="FNR" target="upp"/>
+<edge source="FNR" target="nikR"/>
+<edge source="FNR" target="viaA"/>
+<edge source="FNR" target="ravA"/>
+<edge source="FNR" target="nikA"/>
+<edge source="FNR" target="nikB"/>
+<edge source="FNR" target="nikC"/>
+<edge source="FNR" target="nikD"/>
+<edge source="FNR" target="nikE"/>
+<edge source="FNR" target="uraA"/>
+<edge source="FNR" target="ccp"/>
+<edge source="FNR" target="yibN"/>
+<edge source="FNR" target="garD"/>
+<edge source="FNR" target="caiF"/>
+<edge source="FNR" target="dcuC"/>
+<edge source="FNR" target="ydfZ"/>
+<edge source="FNR" target="ydfO"/>
+<edge source="FNR" target="yffS"/>
+<edge source="FNR" target="mltA"/>
+<edge source="FNR" target="aer"/>
+<edge source="fnr" target="IHF"/>
+<edge source="ung" target="CpxR"/>
+<edge source="nikR" target="NikR"/>
+<edge source="nikA" target="NikR"/>
+<edge source="nikB" target="NikR"/>
+<edge source="nikC" target="NikR"/>
+<edge source="nikD" target="NikR"/>
+<edge source="nikE" target="NikR"/>
+<edge source="ccp" target="OxyR"/>
+<edge source="caiF" target="Nac"/>
+<edge source="aer" target="CRP"/>
+<edge source="Nac" target="ispB"/>
+<edge source="Nac" target="amn"/>
+<edge source="Nac" target="ampD"/>
+<edge source="Nac" target="cysQ"/>
+<edge source="Nac" target="aroD"/>
+<edge source="Nac" target="aroE"/>
+<edge source="Nac" target="asnA"/>
+<edge source="Nac" target="asnC"/>
+<edge source="Nac" target="bfr"/>
+<edge source="Nac" target="bisC"/>
+<edge source="Nac" target="cheA"/>
+<edge source="Nac" target="cpdB"/>
+<edge source="Nac" target="cynT"/>
+<edge source="Nac" target="cysJ"/>
+<edge source="Nac" target="dcm"/>
+<edge source="Nac" target="dcp"/>
+<edge source="Nac" target="ddlA"/>
+<edge source="Nac" target="dld"/>
+<edge source="Nac" target="mltD"/>
+<edge source="Nac" target="fucA"/>
+<edge source="Nac" target="mnmG"/>
+<edge source="Nac" target="gor"/>
+<edge source="Nac" target="hemB"/>
+<edge source="Nac" target="hemH"/>
+<edge source="Nac" target="hfq"/>
+<edge source="Nac" target="htpG"/>
+<edge source="Nac" target="ilvN"/>
+<edge source="Nac" target="intD"/>
+<edge source="Nac" target="kbl"/>
+<edge source="Nac" target="lepA"/>
+<edge source="Nac" target="lepB"/>
+<edge source="Nac" target="livH"/>
+<edge source="Nac" target="livK"/>
+<edge source="Nac" target="livM"/>
+<edge source="Nac" target="lysR"/>
+<edge source="Nac" target="malI"/>
+<edge source="Nac" target="malY"/>
+<edge source="Nac" target="mcrB"/>
+<edge source="Nac" target="metE"/>
+<edge source="Nac" target="metR"/>
+<edge source="Nac" target="mglB"/>
+<edge source="Nac" target="groS"/>
+<edge source="Nac" target="mreC"/>
+<edge source="Nac" target="nusB"/>
+<edge source="Nac" target="osmB"/>
+<edge source="Nac" target="phoB"/>
+<edge source="Nac" target="pstS"/>
+<edge source="Nac" target="pstC"/>
+<edge source="Nac" target="ptrA"/>
+<edge source="Nac" target="pyrB"/>
+<edge source="Nac" target="rep"/>
+<edge source="Nac" target="rfaH"/>
+<edge source="Nac" target="rpmH"/>
+<edge source="Nac" target="rpoZ"/>
+<edge source="Nac" target="gmk"/>
+<edge source="Nac" target="srlR"/>
+<edge source="Nac" target="tdcR"/>
+<edge source="Nac" target="thrS"/>
+<edge source="Nac" target="tolB"/>
+<edge source="Nac" target="trxB"/>
+<edge source="Nac" target="uhpA"/>
+<edge source="Nac" target="sbcD"/>
+<edge source="Nac" target="yajD"/>
+<edge source="Nac" target="ybgC"/>
+<edge source="Nac" target="uvrY"/>
+<edge source="Nac" target="xapR"/>
+<edge source="Nac" target="ppdC"/>
+<edge source="Nac" target="ygdB"/>
+<edge source="Nac" target="yhaB"/>
+<edge source="Nac" target="mscL"/>
+<edge source="Nac" target="mioC"/>
+<edge source="Nac" target="ydiB"/>
+<edge source="Nac" target="pdeL"/>
+<edge source="Nac" target="ycaC"/>
+<edge source="Nac" target="ycaD"/>
+<edge source="Nac" target="chpS"/>
+<edge source="Nac" target="ychA"/>
+<edge source="Nac" target="iraP"/>
+<edge source="Nac" target="yifB"/>
+<edge source="Nac" target="ilvL"/>
+<edge source="Nac" target="leuL"/>
+<edge source="Nac" target="wzzE"/>
+<edge source="Nac" target="dsbA"/>
+<edge source="Nac" target="ligB"/>
+<edge source="Nac" target="waaG"/>
+<edge source="Nac" target="mdtG"/>
+<edge source="Nac" target="amiB"/>
+<edge source="Nac" target="bglH"/>
+<edge source="Nac" target="ubiA"/>
+<edge source="Nac" target="ahpC"/>
+<edge source="Nac" target="dadA"/>
+<edge source="Nac" target="cynR"/>
+<edge source="Nac" target="msrA"/>
+<edge source="Nac" target="yigL"/>
+<edge source="Nac" target="pabC"/>
+<edge source="Nac" target="holE"/>
+<edge source="Nac" target="yhcA"/>
+<edge source="Nac" target="ycgB"/>
+<edge source="Nac" target="ybfC"/>
+<edge source="Nac" target="ibpA"/>
+<edge source="Nac" target="nadC"/>
+<edge source="Nac" target="greB"/>
+<edge source="Nac" target="ygiF"/>
+<edge source="Nac" target="eptA"/>
+<edge source="Nac" target="yafC"/>
+<edge source="Nac" target="yafD"/>
+<edge source="Nac" target="yadC"/>
+<edge source="Nac" target="yicJ"/>
+<edge source="Nac" target="nudC"/>
+<edge source="Nac" target="yidQ"/>
+<edge source="Nac" target="yieH"/>
+<edge source="Nac" target="cbrB"/>
+<edge source="Nac" target="cbrC"/>
+<edge source="Nac" target="yieP"/>
+<edge source="Nac" target="nfrB"/>
+<edge source="Nac" target="ybbC"/>
+<edge source="Nac" target="cmtB"/>
+<edge source="Nac" target="cmtA"/>
+<edge source="Nac" target="rlmM"/>
+<edge source="Nac" target="hofC"/>
+<edge source="Nac" target="mobA"/>
+<edge source="Nac" target="hemN"/>
+<edge source="Nac" target="yihL"/>
+<edge source="Nac" target="yihO"/>
+<edge source="Nac" target="yihQ"/>
+<edge source="Nac" target="yiiE"/>
+<edge source="Nac" target="yiiF"/>
+<edge source="Nac" target="fdhD"/>
+<edge source="Nac" target="yijO"/>
+<edge source="Nac" target="yjaH"/>
+<edge source="Nac" target="yjbB"/>
+<edge source="Nac" target="pdeC"/>
+<edge source="Nac" target="yjcF"/>
+<edge source="Nac" target="yjcO"/>
+<edge source="Nac" target="rfbC"/>
+<edge source="Nac" target="yehE"/>
+<edge source="Nac" target="bglX"/>
+<edge source="Nac" target="yeiH"/>
+<edge source="Nac" target="yejB"/>
+<edge source="Nac" target="secG"/>
+<edge source="Nac" target="yeiE"/>
+<edge source="Nac" target="prfC"/>
+<edge source="Nac" target="nlpE"/>
+<edge source="Nac" target="yaeF"/>
+<edge source="Nac" target="cobT"/>
+<edge source="Nac" target="waaF"/>
+<edge source="Nac" target="yhhQ"/>
+<edge source="Nac" target="yhiJ"/>
+<edge source="Nac" target="yhjD"/>
+<edge source="Nac" target="yiaD"/>
+<edge source="Nac" target="wecH"/>
+<edge source="Nac" target="yadM"/>
+<edge source="Nac" target="cdaR"/>
+<edge source="Nac" target="ygiL"/>
+<edge source="Nac" target="ppnN"/>
+<edge source="Nac" target="yecD"/>
+<edge source="Nac" target="yecE"/>
+<edge source="Nac" target="ybgE"/>
+<edge source="Nac" target="iaaA"/>
+<edge source="Nac" target="gatA"/>
+<edge source="Nac" target="tomB"/>
+<edge source="Nac" target="ygiM"/>
+<edge source="Nac" target="prmB"/>
+<edge source="Nac" target="ybaL"/>
+<edge source="Nac" target="ygiN"/>
+<edge source="Nac" target="lpxH"/>
+<edge source="Nac" target="ycaK"/>
+<edge source="Nac" target="exuT"/>
+<edge source="Nac" target="yecF"/>
+<edge source="Nac" target="pitB"/>
+<edge source="Nac" target="cobU"/>
+<edge source="Nac" target="yohO"/>
+<edge source="Nac" target="yciZ"/>
+<edge source="Nac" target="shoB"/>
+<edge source="Nac" target="ecnA"/>
+<edge source="Nac" target="mgtS"/>
+<edge source="Nac" target="yoeB"/>
+<edge source="Nac" target="ecnB"/>
+<edge source="Nac" target="torI"/>
+<edge source="Nac" target="yafV"/>
+<edge source="Nac" target="ivy"/>
+<edge source="Nac" target="yafQ"/>
+<edge source="Nac" target="dinJ"/>
+<edge source="Nac" target="yafN"/>
+<edge source="Nac" target="yafO"/>
+<edge source="Nac" target="yagU"/>
+<edge source="Nac" target="ykgL"/>
+<edge source="Nac" target="ykgE"/>
+<edge source="Nac" target="ykgH"/>
+<edge source="Nac" target="yaiS"/>
+<edge source="Nac" target="yaiY"/>
+<edge source="Nac" target="yaiZ"/>
+<edge source="Nac" target="thiL"/>
+<edge source="Nac" target="yajO"/>
+<edge source="Nac" target="allR"/>
+<edge source="Nac" target="glxK"/>
+<edge source="Nac" target="ybcK"/>
+<edge source="Nac" target="borD"/>
+<edge source="Nac" target="ybcV"/>
+<edge source="Nac" target="ybdK"/>
+<edge source="Nac" target="dsbG"/>
+<edge source="Nac" target="uspG"/>
+<edge source="Nac" target="ybdR"/>
+<edge source="Nac" target="nadD"/>
+<edge source="Nac" target="ybeQ"/>
+<edge source="Nac" target="ybeR"/>
+<edge source="Nac" target="ybeT"/>
+<edge source="Nac" target="ybeU"/>
+<edge source="Nac" target="ybhD"/>
+<edge source="Nac" target="ybhH"/>
+<edge source="Nac" target="ybhI"/>
+<edge source="Nac" target="ybhM"/>
+<edge source="Nac" target="rlmF"/>
+<edge source="Nac" target="ybjP"/>
+<edge source="Nac" target="ybjQ"/>
+<edge source="Nac" target="ybjX"/>
+<edge source="Nac" target="macA"/>
+<edge source="Nac" target="ycaN"/>
+<edge source="Nac" target="elfA"/>
+<edge source="Nac" target="elfG"/>
+<edge source="Nac" target="yccM"/>
+<edge source="Nac" target="rluE"/>
+<edge source="Nac" target="ycgX"/>
+<edge source="Nac" target="dhaK"/>
+<edge source="Nac" target="dhaR"/>
+<edge source="Nac" target="ymjA"/>
+<edge source="Nac" target="abgA"/>
+<edge source="Nac" target="abgR"/>
+<edge source="Nac" target="ydaT"/>
+<edge source="Nac" target="ydaU"/>
+<edge source="Nac" target="ynaK"/>
+<edge source="Nac" target="stfR"/>
+<edge source="Nac" target="tfaR"/>
+<edge source="Nac" target="pinR"/>
+<edge source="Nac" target="ompN"/>
+<edge source="Nac" target="ydcI"/>
+<edge source="Nac" target="ydcS"/>
+<edge source="Nac" target="ydcT"/>
+<edge source="Nac" target="ydcU"/>
+<edge source="Nac" target="ydcV"/>
+<edge source="Nac" target="patD"/>
+<edge source="Nac" target="ydcY"/>
+<edge source="Nac" target="ydcZ"/>
+<edge source="Nac" target="curA"/>
+<edge source="Nac" target="ansP"/>
+<edge source="Nac" target="ddpC"/>
+<edge source="Nac" target="ydeQ"/>
+<edge source="Nac" target="yneK"/>
+<edge source="Nac" target="pinQ"/>
+<edge source="Nac" target="ydfR"/>
+<edge source="Nac" target="ynfA"/>
+<edge source="Nac" target="ynfB"/>
+<edge source="Nac" target="ynfD"/>
+<edge source="Nac" target="ydgH"/>
+<edge source="Nac" target="fumD"/>
+<edge source="Nac" target="ydiL"/>
+<edge source="Nac" target="ydiM"/>
+<edge source="Nac" target="ydiO"/>
+<edge source="Nac" target="ydiP"/>
+<edge source="Nac" target="ydiY"/>
+<edge source="Nac" target="yniB"/>
+<edge source="Nac" target="hxpB"/>
+<edge source="Nac" target="cho"/>
+<edge source="Nac" target="ynjF"/>
+<edge source="Nac" target="nudG"/>
+<edge source="Nac" target="kdgR"/>
+<edge source="Nac" target="yebQ"/>
+<edge source="Nac" target="rsmF"/>
+<edge source="Nac" target="yobA"/>
+<edge source="Nac" target="uspC"/>
+<edge source="Nac" target="dcyD"/>
+<edge source="Nac" target="yedL"/>
+<edge source="Nac" target="hprR"/>
+<edge source="Nac" target="mtfA"/>
+<edge source="Nac" target="nac"/>
+<edge source="Nac" target="yeeZ"/>
+<edge source="Nac" target="ugd"/>
+<edge source="Nac" target="wcaF"/>
+<edge source="Nac" target="wcaE"/>
+<edge source="Nac" target="wzc"/>
+<edge source="Nac" target="wzb"/>
+<edge source="Nac" target="wza"/>
+<edge source="Nac" target="yegH"/>
+<edge source="Nac" target="yegL"/>
+<edge source="Nac" target="yegR"/>
+<edge source="Nac" target="yfbK"/>
+<edge source="Nac" target="yfbL"/>
+<edge source="Nac" target="yfbV"/>
+<edge source="Nac" target="yfcP"/>
+<edge source="Nac" target="emrK"/>
+<edge source="Nac" target="yfdE"/>
+<edge source="Nac" target="pdxK"/>
+<edge source="Nac" target="yfeK"/>
+<edge source="Nac" target="yfeS"/>
+<edge source="Nac" target="yfgG"/>
+<edge source="Nac" target="yfgH"/>
+<edge source="Nac" target="csiE"/>
+<edge source="Nac" target="yfhL"/>
+<edge source="Nac" target="yfjI"/>
+<edge source="Nac" target="abpA"/>
+<edge source="Nac" target="ygaV"/>
+<edge source="Nac" target="ygaP"/>
+<edge source="Nac" target="ygaM"/>
+<edge source="Nac" target="ygaZ"/>
+<edge source="Nac" target="pphB"/>
+<edge source="Nac" target="ispD"/>
+<edge source="Nac" target="queD"/>
+<edge source="Nac" target="ygcO"/>
+<edge source="Nac" target="ygcP"/>
+<edge source="Nac" target="ygcS"/>
+<edge source="Nac" target="ygcE"/>
+<edge source="Nac" target="gudX"/>
+<edge source="Nac" target="queF"/>
+<edge source="Nac" target="ygdR"/>
+<edge source="Nac" target="kduI"/>
+<edge source="Nac" target="yqeH"/>
+<edge source="Nac" target="yqeJ"/>
+<edge source="Nac" target="yqeK"/>
+<edge source="Nac" target="ygeG"/>
+<edge source="Nac" target="xdhA"/>
+<edge source="Nac" target="yqeB"/>
+<edge source="Nac" target="scpB"/>
+<edge source="Nac" target="yggP"/>
+<edge source="Nac" target="yghG"/>
+<edge source="Nac" target="yghS"/>
+<edge source="Nac" target="yghT"/>
+<edge source="Nac" target="ygiZ"/>
+<edge source="Nac" target="ygjH"/>
+<edge source="Nac" target="yhaI"/>
+<edge source="Nac" target="yraH"/>
+<edge source="Nac" target="yhbX"/>
+<edge source="Nac" target="yhdV"/>
+<edge source="Nac" target="yhfL"/>
+<edge source="Nac" target="yhfZ"/>
+<edge source="Nac" target="yhhZ"/>
+<edge source="Nac" target="yrhB"/>
+<edge source="Nac" target="insK"/>
+<edge source="Nac" target="yjeH"/>
+<edge source="Nac" target="yjeJ"/>
+<edge source="Nac" target="blc"/>
+<edge source="Nac" target="yjfZ"/>
+<edge source="Nac" target="ytfB"/>
+<edge source="Nac" target="fklB"/>
+<edge source="Nac" target="ytfJ"/>
+<edge source="Nac" target="ytfP"/>
+<edge source="Nac" target="yjgH"/>
+<edge source="Nac" target="yjgM"/>
+<edge source="Nac" target="yjgN"/>
+<edge source="Nac" target="yjhI"/>
+<edge source="Nac" target="feaB"/>
+<edge source="cheA" target="CpxR"/>
+<edge source="cpdB" target="CRP"/>
+<edge source="cysJ" target="IHF"/>
+<edge source="fucA" target="SrsR"/>
+<edge source="hemH" target="OxyR"/>
+<edge source="hfq" target="CRP"/>
+<edge source="htpG" target="CRP"/>
+<edge source="ilvN" target="CRP"/>
+<edge source="malI" target="CRP"/>
+<edge source="malY" target="CRP"/>
+<edge source="metE" target="OxyR"/>
+<edge source="metE" target="MetJ"/>
+<edge source="metR" target="OxyR"/>
+<edge source="metR" target="MetJ"/>
+<edge source="mglB" target="CRP"/>
+<edge source="phoB" target="PhoB"/>
+<edge source="pstS" target="PhoB"/>
+<edge source="pstS" target="IHF"/>
+<edge source="pstC" target="PhoB"/>
+<edge source="pstC" target="IHF"/>
+<edge source="ptrA" target="LexA"/>
+<edge source="sbcD" target="PhoB"/>
+<edge source="mioC" target="MraZ"/>
+<edge source="pdeL" target="PdeL"/>
+<edge source="ilvL" target="IHF"/>
+<edge source="dsbA" target="CpxR"/>
+<edge source="ahpC" target="OxyR"/>
+<edge source="dadA" target="CRP"/>
+<edge source="eptA" target="BasR"/>
+<edge source="hofC" target="CRP"/>
+<edge source="gatA" target="CRP"/>
+<edge source="tomB" target="CpxR"/>
+<edge source="tomB" target="BasR"/>
+<edge source="exuT" target="DpiA"/>
+<edge source="shoB" target="CpxR"/>
+<edge source="yafQ" target="SrsR"/>
+<edge source="dinJ" target="SrsR"/>
+<edge source="glxK" target="AllR"/>
+<edge source="borD" target="PhoP"/>
+<edge source="ybcV" target="PdhR"/>
+<edge source="dsbG" target="OxyR"/>
+<edge source="ybeQ" target="LeuO"/>
+<edge source="elfA" target="SlyA"/>
+<edge source="dhaK" target="SrsR"/>
+<edge source="abgR" target="CRP"/>
+<edge source="ydaT" target="RacR"/>
+<edge source="ydaU" target="RacR"/>
+<edge source="ompN" target="SoxS"/>
+<edge source="ddpC" target="NtrC"/>
+<edge source="ynfB" target="GadX"/>
+<edge source="fumD" target="PdhR"/>
+<edge source="yegH" target="PhoB"/>
+<edge source="yegR" target="EvgA"/>
+<edge source="emrK" target="EvgA"/>
+<edge source="yfdE" target="EvgA"/>
+<edge source="yghS" target="LeuO"/>
+<edge source="yjhI" target="CRP"/>
+<edge source="SlyA" target="sgcA"/>
+<edge source="SlyA" target="sgcX"/>
+<edge source="SlyA" target="mdtM"/>
+<edge source="SlyA" target="sgcB"/>
+<edge source="SlyA" target="slyA"/>
+<edge source="SlyA" target="sgcR"/>
+<edge source="SlyA" target="sgcE"/>
+<edge source="SlyA" target="sgcQ"/>
+<edge source="SlyA" target="yjiN"/>
+<edge source="sgcA" target="CRP"/>
+<edge source="sgcX" target="CRP"/>
+<edge source="sgcB" target="CRP"/>
+<edge source="sgcR" target="CRP"/>
+<edge source="sgcE" target="CRP"/>
+<edge source="sgcQ" target="CRP"/>
+<edge source="YcjW" target="ymjB"/>
+<edge source="YcjW" target="ycjM"/>
+<edge source="YcjW" target="ycjN"/>
+<edge source="YcjW" target="ycjO"/>
+<edge source="YcjW" target="ycjQ"/>
+<edge source="YcjW" target="ycjR"/>
+<edge source="YcjW" target="ycjS"/>
+<edge source="YcjW" target="ycjT"/>
+<edge source="YcjW" target="ycjU"/>
+<edge source="YcjW" target="ycjV"/>
+<edge source="YcjW" target="ompG"/>
+<edge source="YdeO" target="appA"/>
+<edge source="YdeO" target="appB"/>
+<edge source="YdeO" target="appC"/>
+<edge source="YdeO" target="yiiS"/>
+<edge source="YdeO" target="uspD"/>
+<edge source="YdeO" target="appX"/>
+<edge source="CysB" target="cysA"/>
+<edge source="CysB" target="cysC"/>
+<edge source="CysB" target="cysD"/>
+<edge source="CysB" target="cysK"/>
+<edge source="CysB" target="cysM"/>
+<edge source="CysB" target="cysP"/>
+<edge source="CysB" target="cysU"/>
+<edge source="CysB" target="cysW"/>
+<edge source="CysB" target="hslJ"/>
+<edge source="CysB" target="cbl"/>
+<edge source="NtrC" target="glnP"/>
+<edge source="NtrC" target="glnQ"/>
+<edge source="NtrC" target="relA"/>
+<edge source="NtrC" target="yhdX"/>
+<edge source="NtrC" target="yhdY"/>
+<edge source="NtrC" target="yhdZ"/>
+<edge source="NtrC" target="ddpF"/>
+<edge source="NtrC" target="ddpD"/>
+<edge source="NtrC" target="ddpB"/>
+<edge source="NtrC" target="ddpA"/>
+<edge source="NtrC" target="ddpX"/>
+<edge source="NtrC" target="patA"/>
+<edge source="glnP" target="IHF"/>
+<edge source="relA" target="CRP"/>
+<edge source="relA" target="HipB"/>
+<edge source="MhpR" target="mhpE"/>
+<edge source="MhpR" target="mhpA"/>
+<edge source="MhpR" target="mhpB"/>
+<edge source="MhpR" target="mhpC"/>
+<edge source="MhpR" target="mhpD"/>
+<edge source="MhpR" target="mhpF"/>
+<edge source="mhpE" target="CRP"/>
+<edge source="mhpA" target="CRP"/>
+<edge source="mhpB" target="CRP"/>
+<edge source="mhpC" target="CRP"/>
+<edge source="mhpD" target="CRP"/>
+<edge source="mhpF" target="CRP"/>
+<edge source="PdhR" target="ddlB"/>
+<edge source="PdhR" target="lpxC"/>
+<edge source="PdhR" target="ftsI"/>
+<edge source="PdhR" target="ftsW"/>
+<edge source="PdhR" target="mraY"/>
+<edge source="PdhR" target="murC"/>
+<edge source="PdhR" target="murE"/>
+<edge source="PdhR" target="murF"/>
+<edge source="PdhR" target="murG"/>
+<edge source="PdhR" target="mraZ"/>
+<edge source="PdhR" target="rsmH"/>
+<edge source="PdhR" target="ftsL"/>
+<edge source="PdhR" target="ppsR"/>
+<edge source="PdhR" target="ybcW"/>
+<edge source="ddlB" target="MraZ"/>
+<edge source="lpxC" target="MraZ"/>
+<edge source="ftsI" target="MraZ"/>
+<edge source="ftsW" target="MraZ"/>
+<edge source="mraY" target="MraZ"/>
+<edge source="murC" target="MraZ"/>
+<edge source="murE" target="MraZ"/>
+<edge source="murF" target="MraZ"/>
+<edge source="murG" target="MraZ"/>
+<edge source="mraZ" target="MraZ"/>
+<edge source="rsmH" target="MraZ"/>
+<edge source="ftsL" target="MraZ"/>
+<edge source="RhaS" target="rhaR"/>
+<edge source="RhaS" target="rhaS"/>
+<edge source="RhaS" target="rhaT"/>
+<edge source="RhaS" target="rhaD"/>
+<edge source="RhaS" target="rhaA"/>
+<edge source="RhaS" target="rhaB"/>
+<edge source="rhaR" target="CRP"/>
+<edge source="rhaS" target="CRP"/>
+<edge source="rhaD" target="CRP"/>
+<edge source="rhaA" target="CRP"/>
+<edge source="rhaB" target="CRP"/>
+<edge source="RutR" target="rutR"/>
+<edge source="RutR" target="nemR"/>
+<edge source="RutR" target="nemA"/>
+<edge source="RutR" target="gloA"/>
+<edge source="MalT" target="lamB"/>
+<edge source="MalT" target="malK"/>
+<edge source="MalT" target="malM"/>
+<edge source="MalT" target="malP"/>
+<edge source="MalT" target="malQ"/>
+<edge source="lamB" target="CRP"/>
+<edge source="malK" target="CRP"/>
+<edge source="malM" target="CRP"/>
+<edge source="LsrR" target="lsrK"/>
+<edge source="LsrR" target="lsrR"/>
+<edge source="LsrR" target="lsrA"/>
+<edge source="LsrR" target="lsrC"/>
+<edge source="LsrR" target="lsrD"/>
+<edge source="LsrR" target="lsrB"/>
+<edge source="LsrR" target="lsrF"/>
+<edge source="lsrK" target="CRP"/>
+<edge source="lsrR" target="CRP"/>
+<edge source="lsrA" target="CRP"/>
+<edge source="lsrC" target="CRP"/>
+<edge source="lsrD" target="CRP"/>
+<edge source="lsrB" target="CRP"/>
+<edge source="lsrF" target="CRP"/>
+<edge source="PhoP" target="hemL"/>
+<edge source="PhoP" target="rstB"/>
+<edge source="PhoP" target="treR"/>
+<edge source="PhoP" target="mgtA"/>
+<edge source="PhoP" target="mgtL"/>
+<edge source="PhoP" target="clpS"/>
+<edge source="PhoP" target="iraM"/>
+<edge source="PhoP" target="slyB"/>
+<edge source="PhoP" target="mgrB"/>
+<edge source="BtsR" target="cspC"/>
+<edge source="BtsR" target="btsT"/>
+<edge source="btsT" target="CpxR"/>
+<edge source="btsT" target="CRP"/>
+<edge source="CpxR" target="acrD"/>
+<edge source="CpxR" target="cpxR"/>
+<edge source="CpxR" target="atpB"/>
+<edge source="CpxR" target="atpI"/>
+<edge source="CpxR" target="cheW"/>
+<edge source="CpxR" target="cpxA"/>
+<edge source="CpxR" target="hha"/>
+<edge source="CpxR" target="degP"/>
+<edge source="CpxR" target="motA"/>
+<edge source="CpxR" target="motB"/>
+<edge source="CpxR" target="slt"/>
+<edge source="CpxR" target="tsr"/>
+<edge source="CpxR" target="yccA"/>
+<edge source="CpxR" target="ldtD"/>
+<edge source="CpxR" target="baeR"/>
+<edge source="CpxR" target="yebE"/>
+<edge source="CpxR" target="srkA"/>
+<edge source="CpxR" target="mdtD"/>
+<edge source="CpxR" target="yddG"/>
+<edge source="CpxR" target="ampH"/>
+<edge source="CpxR" target="ppiD"/>
+<edge source="CpxR" target="efeU"/>
+<edge source="CpxR" target="ldtC"/>
+<edge source="CpxR" target="spy"/>
+<edge source="CpxR" target="mdtA"/>
+<edge source="CpxR" target="mdtB"/>
+<edge source="CpxR" target="mdtC"/>
+<edge source="CpxR" target="kbp"/>
+<edge source="CpxR" target="yqjA"/>
+<edge source="CpxR" target="mzrA"/>
+<edge source="acrD" target="BaeR"/>
+<edge source="hha" target="BasR"/>
+<edge source="baeR" target="BaeR"/>
+<edge source="mdtD" target="BaeR"/>
+<edge source="spy" target="BaeR"/>
+<edge source="mdtA" target="BaeR"/>
+<edge source="mdtB" target="BaeR"/>
+<edge source="mdtC" target="BaeR"/>
+<edge source="DpiA" target="citG"/>
+<edge source="DpiA" target="citX"/>
+<edge source="DpiA" target="citF"/>
+<edge source="DpiA" target="citE"/>
+<edge source="DpiA" target="citD"/>
+<edge source="DpiA" target="citC"/>
+<edge source="AdiY" target="adiA"/>
+<edge source="adiA" target="IHF"/>
+<edge source="GntR" target="gntT"/>
+<edge source="GntR" target="idnT"/>
+<edge source="GntR" target="gntK"/>
+<edge source="GntR" target="gntU"/>
+<edge source="GntR" target="idnO"/>
+<edge source="gntT" target="CRP"/>
+<edge source="idnT" target="CRP"/>
+<edge source="gntK" target="CRP"/>
+<edge source="gntU" target="CRP"/>
+<edge source="idnO" target="CRP"/>
+<edge source="PdeL" target="rfe"/>
+<edge source="PdeL" target="yghJ"/>
+<edge source="EvgA" target="emrY"/>
+<edge source="EvgA" target="yegZ"/>
+<edge source="EvgA" target="frc"/>
+<edge source="EvgA" target="yfdX"/>
+<edge source="AllR" target="gcl"/>
+<edge source="AllR" target="allS"/>
+<edge source="AllR" target="allA"/>
+<edge source="AllR" target="hyi"/>
+<edge source="AllR" target="glxR"/>
+<edge source="AllR" target="allB"/>
+<edge source="AllR" target="ybbY"/>
+<edge source="YhaJ" target="ygiD"/>
+<edge source="YhaJ" target="yqjF"/>
+<edge source="YhaJ" target="yhaK"/>
+<edge source="YhaJ" target="yhaL"/>
+<edge source="YhaJ" target="yhhW"/>
+<edge source="GadX" target="btuB"/>
+<edge source="GadX" target="murI"/>
+<edge source="GadX" target="glsA"/>
+<edge source="GadX" target="ybaT"/>
+<edge source="GadX" target="ydeM"/>
+<edge source="GadX" target="ydeN"/>
+<edge source="GadX" target="speG"/>
+<edge source="UlaR" target="ulaB"/>
+<edge source="UlaR" target="ulaC"/>
+<edge source="UlaR" target="ulaG"/>
+<edge source="UlaR" target="ulaA"/>
+<edge source="UlaR" target="ulaD"/>
+<edge source="UlaR" target="ulaE"/>
+<edge source="UlaR" target="ulaF"/>
+<edge source="ulaB" target="CRP"/>
+<edge source="ulaC" target="CRP"/>
+<edge source="ulaA" target="CRP"/>
+<edge source="ulaD" target="CRP"/>
+<edge source="ulaE" target="CRP"/>
+<edge source="ulaF" target="CRP"/>
+<edge source="CRP" target="puuC"/>
+<edge source="CRP" target="ascB"/>
+<edge source="CRP" target="cyaA"/>
+<edge source="CRP" target="envZ"/>
+<edge source="CRP" target="fucI"/>
+<edge source="CRP" target="fucK"/>
+<edge source="CRP" target="fucR"/>
+<edge source="CRP" target="fucU"/>
+<edge source="CRP" target="galS"/>
+<edge source="CRP" target="gcd"/>
+<edge source="CRP" target="glpG"/>
+<edge source="CRP" target="glpR"/>
+<edge source="CRP" target="hflC"/>
+<edge source="CRP" target="hflK"/>
+<edge source="CRP" target="hflX"/>
+<edge source="CRP" target="ilvB"/>
+<edge source="CRP" target="lacI"/>
+<edge source="CRP" target="malT"/>
+<edge source="CRP" target="malX"/>
+<edge source="CRP" target="melA"/>
+<edge source="CRP" target="melB"/>
+<edge source="CRP" target="mglC"/>
+<edge source="CRP" target="priB"/>
+<edge source="CRP" target="rplI"/>
+<edge source="CRP" target="rplM"/>
+<edge source="CRP" target="rpsI"/>
+<edge source="CRP" target="rpsR"/>
+<edge source="CRP" target="secB"/>
+<edge source="CRP" target="trg"/>
+<edge source="CRP" target="trxA"/>
+<edge source="CRP" target="ugpA"/>
+<edge source="CRP" target="ugpB"/>
+<edge source="CRP" target="ugpC"/>
+<edge source="CRP" target="ugpQ"/>
+<edge source="CRP" target="uhpT"/>
+<edge source="CRP" target="uxuA"/>
+<edge source="CRP" target="hyfA"/>
+<edge source="CRP" target="yhfA"/>
+<edge source="CRP" target="psiE"/>
+<edge source="CRP" target="melR"/>
+<edge source="CRP" target="ivbL"/>
+<edge source="CRP" target="hyfB"/>
+<edge source="CRP" target="preA"/>
+<edge source="CRP" target="glgS"/>
+<edge source="CRP" target="ychH"/>
+<edge source="CRP" target="psuK"/>
+<edge source="CRP" target="sbmC"/>
+<edge source="CRP" target="psuG"/>
+<edge source="CRP" target="hofB"/>
+<edge source="CRP" target="ppdD"/>
+<edge source="CRP" target="cspE"/>
+<edge source="CRP" target="gatB"/>
+<edge source="CRP" target="gatC"/>
+<edge source="CRP" target="gatD"/>
+<edge source="CRP" target="gatY"/>
+<edge source="CRP" target="puuR"/>
+<edge source="CRP" target="gntP"/>
+<edge source="CRP" target="cas3"/>
+<edge source="CRP" target="uxaA"/>
+<edge source="CRP" target="frlA"/>
+<edge source="CRP" target="dgoA"/>
+<edge source="CRP" target="dgoK"/>
+<edge source="CRP" target="dgoT"/>
+<edge source="CRP" target="gpsA"/>
+<edge source="CRP" target="hpt"/>
+<edge source="CRP" target="uxuB"/>
+<edge source="CRP" target="yahN"/>
+<edge source="CRP" target="prpR"/>
+<edge source="CRP" target="mhpR"/>
+<edge source="CRP" target="rihA"/>
+<edge source="CRP" target="ldtB"/>
+<edge source="CRP" target="ybiT"/>
+<edge source="CRP" target="comR"/>
+<edge source="CRP" target="bhsA"/>
+<edge source="CRP" target="puuD"/>
+<edge source="CRP" target="mokB"/>
+<edge source="CRP" target="rspB"/>
+<edge source="CRP" target="rspA"/>
+<edge source="CRP" target="gatZ"/>
+<edge source="CRP" target="preT"/>
+<edge source="CRP" target="murQ"/>
+<edge source="CRP" target="murP"/>
+<edge source="CRP" target="hyfC"/>
+<edge source="CRP" target="hyfD"/>
+<edge source="CRP" target="hyfE"/>
+<edge source="CRP" target="hyfF"/>
+<edge source="CRP" target="hyfG"/>
+<edge source="CRP" target="hyfH"/>
+<edge source="CRP" target="hyfI"/>
+<edge source="CRP" target="hyfJ"/>
+<edge source="CRP" target="hyfR"/>
+<edge source="CRP" target="focB"/>
+<edge source="CRP" target="ygcW"/>
+<edge source="CRP" target="ygeW"/>
+<edge source="CRP" target="aaeB"/>
+<edge source="CRP" target="aaeA"/>
+<edge source="CRP" target="aaeX"/>
+<edge source="CRP" target="aaeR"/>
+<edge source="CRP" target="frlB"/>
+<edge source="CRP" target="frlC"/>
+<edge source="CRP" target="frlD"/>
+<edge source="CRP" target="frlR"/>
+<edge source="CRP" target="hofP"/>
+<edge source="CRP" target="hofO"/>
+<edge source="CRP" target="hofN"/>
+<edge source="CRP" target="hofM"/>
+<edge source="CRP" target="dgoR"/>
+<edge source="CRP" target="idnR"/>
+<edge source="CRP" target="yjhG"/>
+<edge source="CRP" target="yjhH"/>
+<edge source="CRP" target="dgoD"/>
+<edge source="puuC" target="PuuR"/>
+<edge source="envZ" target="IHF"/>
+<edge source="fucI" target="SrsR"/>
+<edge source="fucK" target="SrsR"/>
+<edge source="fucR" target="SrsR"/>
+<edge source="fucU" target="SrsR"/>
+<edge source="gcd" target="IHF"/>
+<edge source="malT" target="Mlc"/>
+<edge source="ugpA" target="PhoB"/>
+<edge source="ugpB" target="PhoB"/>
+<edge source="ugpC" target="PhoB"/>
+<edge source="ugpQ" target="PhoB"/>
+<edge source="psiE" target="PhoB"/>
+<edge source="sbmC" target="LexA"/>
+<edge source="puuR" target="PuuR"/>
+<edge source="hpt" target="IHF"/>
+<edge source="prpR" target="PhoB"/>
+<edge source="puuD" target="PuuR"/>
+<edge source="BasR" target="dgkA"/>
+<edge source="BasR" target="qseC"/>
+<edge source="BasR" target="arnE"/>
+<edge source="BasR" target="cspI"/>
+<edge source="BasR" target="arnB"/>
+<edge source="BasR" target="arnC"/>
+<edge source="BasR" target="arnA"/>
+<edge source="BasR" target="arnD"/>
+<edge source="BasR" target="arnT"/>
+<edge source="BasR" target="arnF"/>
+<edge source="BasR" target="qseB"/>
+<edge source="SoxS" target="fldA"/>
+<edge source="SoxS" target="nfo"/>
+<edge source="SoxS" target="ribA"/>
+<edge source="SoxS" target="waaY"/>
+<edge source="SoxS" target="waaZ"/>
+<edge source="SoxS" target="nepI"/>
+<edge source="SoxS" target="decR"/>
+<edge source="SoxS" target="ydbK"/>
+<edge source="PhoB" target="phnC"/>
+<edge source="PhoB" target="phnD"/>
+<edge source="PhoB" target="phnF"/>
+<edge source="PhoB" target="phnG"/>
+<edge source="PhoB" target="phnH"/>
+<edge source="PhoB" target="phnI"/>
+<edge source="PhoB" target="phnJ"/>
+<edge source="PhoB" target="phnK"/>
+<edge source="PhoB" target="phnL"/>
+<edge source="PhoB" target="phnM"/>
+<edge source="PhoB" target="phnN"/>
+<edge source="PhoB" target="phnO"/>
+<edge source="PhoB" target="phnP"/>
+<edge source="PhoB" target="phoA"/>
+<edge source="PhoB" target="phoE"/>
+<edge source="PhoB" target="phoR"/>
+<edge source="PhoB" target="phoU"/>
+<edge source="PhoB" target="pstA"/>
+<edge source="PhoB" target="pstB"/>
+<edge source="PhoB" target="sbcC"/>
+<edge source="PhoB" target="phnE"/>
+<edge source="PhoB" target="psiF"/>
+<edge source="PhoB" target="feaR"/>
+<edge source="PhoB" target="mipA"/>
+<edge source="phoU" target="IHF"/>
+<edge source="pstA" target="IHF"/>
+<edge source="pstB" target="IHF"/>
+<edge source="PuuR" target="ymjE"/>
+<edge source="PuuR" target="puuP"/>
+<edge source="RacR" target="ydaS"/>
+<edge source="RacR" target="ydaV"/>
+<edge source="RacR" target="ydaW"/>
+<edge source="RacR" target="rzpR"/>
+<edge source="IHF" target="cysH"/>
+<edge source="IHF" target="cysI"/>
+<edge source="IHF" target="ihfA"/>
+<edge source="IHF" target="ihfB"/>
+<edge source="IHF" target="atoA"/>
+<edge source="IHF" target="yjbE"/>
+<edge source="IHF" target="yjbF"/>
+<edge source="IHF" target="yjbG"/>
+<edge source="IHF" target="yjbH"/>
+<edge source="IHF" target="norW"/>
+<edge source="IHF" target="norV"/>
+<edge source="LeuO" target="yghR"/>
+<edge source="LexA" target="dnaG"/>
+<edge source="LexA" target="lexA"/>
+<edge source="LexA" target="polB"/>
+<edge source="LexA" target="recA"/>
+<edge source="LexA" target="recB"/>
+<edge source="LexA" target="recD"/>
+<edge source="LexA" target="rpoD"/>
+<edge source="LexA" target="rpsU"/>
+<edge source="LexA" target="umuD"/>
+<edge source="LexA" target="dinD"/>
+<edge source="LexA" target="dinG"/>
+<edge source="LexA" target="dinF"/>
+<edge source="LexA" target="ybiB"/>
+<edge source="LexA" target="yebG"/>
+<edge source="LexA" target="recX"/>
+<edge source="LexA" target="tisB"/>
+<edge source="LexA" target="ftsK"/>
+<edge source="LexA" target="dinI"/>
+<edge source="LexA" target="ydjM"/>
+<edge source="LexA" target="yoaA"/>
+<edge source="LexA" target="symE"/>
+<edge source="LexA" target="ruvB"/>
+<edge source="OxyR" target="grxA"/>
+<edge source="OxyR" target="oxyR"/>
+<edge source="OxyR" target="ahpF"/>
+<edge source="OxyR" target="ychF"/>
+<edge source="OxyR" target="trxC"/>
+<edge source="OxyR" target="zinT"/>
+<edge source="OxyR" target="flu"/>
+<edge source="OxyR" target="elaB"/>
+<edge source="MetJ" target="metA"/>
+<edge source="MetJ" target="metB"/>
+<edge source="MetJ" target="metC"/>
+<edge source="MetJ" target="metF"/>
+<edge source="MetJ" target="metL"/>
+<edge source="MetJ" target="metQ"/>
+<edge source="MetJ" target="metI"/>
+<edge source="Mlc" target="mlc"/>
+<edge source="HipB" target="hipB"/>
+<edge source="HipB" target="hipA"/>
+<edge source="HipB" target="eutA"/>
+<edge source="HipB" target="eutH"/>
+<edge source="SrsR" target="fucO"/>
+<edge source="SrsR" target="dhaM"/>
+<edge source="SrsR" target="yafL"/>
+<edge source="SrsR" target="bluR"/>
+<edge source="SrsR" target="dhaL"/>
+<edge source="SrsR" target="cdgI"/>
+<edge source="SrsR" target="yfdK"/>
+<edge source="SrsR" target="yfdL"/>
+<edge source="SrsR" target="yfdM"/>
+<edge source="SrsR" target="yfdN"/>
+<edge source="SrsR" target="yfdO"/>
+<edge source="SrsR" target="yfdP"/>
+<edge source="SrsR" target="yfdQ"/>
+</graph></graphml>
