@@ -12,7 +12,7 @@ class JSONExtendedEncoder(json.JSONEncoder):
         elif isinstance(obj, np.int64):
             return int(obj)
         elif isinstance(obj, np.ndarray):
-        	return list(obj)
+            return list(obj)
         else:
             return json.JSONEncoder.default(self, obj)
 
