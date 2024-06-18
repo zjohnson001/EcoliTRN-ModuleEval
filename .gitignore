@@ -3,7 +3,8 @@ __pycache__
 data/regulondb_13.0
 data/Model_predictions
 data/predicted_results 
-# Compiled Cython files
+src/modeval/ebcubed.c
+src/modeval/jaccard.c
 *.so
 *.pyd
 *.dll
