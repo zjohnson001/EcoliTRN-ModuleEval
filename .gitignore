@@ -1,6 +1,8 @@
 .DS_Store
 __pycache__
 data/regulondb_13.0
+data/Model_predictions
+data/predicted_results 
 # Compiled Cython files
 *.so
 *.pyd
