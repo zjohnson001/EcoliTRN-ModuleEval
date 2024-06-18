@@ -1,2 +1,14 @@
 .DS_Store
 __pycache__
+data/regulondb_13.0
+# Compiled Cython files
+*.so
+*.pyd
+*.dll
+*.o
+*.pyc
+*.pyo
+__pycache__/
+build/
+dist/
+*.egg-info/

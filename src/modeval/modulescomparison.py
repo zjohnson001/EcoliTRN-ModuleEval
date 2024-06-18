@@ -2,6 +2,10 @@ from __future__ import division
 
 import numpy as np
 import pandas as pd
+import pip 
+
+# Install the munkres library
+pip.main(['install', 'git+https://github.com/jfrelinger/cython-munkres-wrapper'])
 
 # for speed, the module comparison functions are implemented in Cython
 #import pyximport; pyximport.install()
@@ -21,7 +25,7 @@ from statsmodels.sandbox.stats.multicomp import multipletests
 
 from munkres import munkres
 
-from src.clustervalidityindices import *
+from clustervalidityindices import *
 
 import sys
 
