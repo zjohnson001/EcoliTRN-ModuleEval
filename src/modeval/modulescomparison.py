@@ -2,14 +2,14 @@ from __future__ import division
 
 import numpy as np
 import pandas as pd
-import pip 
+import pip
 
 # Install the munkres library
 pip.main(['install', 'git+https://github.com/jfrelinger/cython-munkres-wrapper'])
 
 # for speed, the module comparison functions are implemented in Cython
 #import pyximport; pyximport.install()
-import ebcubed
+import ebcubed 
 import jaccard
 
 import json
@@ -185,7 +185,7 @@ def modevalworker(setting, scores, baseline):
                 baselineoi = None
 
             knownmodules_location = dataset["knownmodules"][regnet_name][knownmodules_name]
-            knownmodules = Modules(json.load(open("../" + knownmodules_location)))
+            knownmodules = Modules(json.load(open(knownmodules_location)))
 
             settingscores_goldstandard = modevalscorer(modules, knownmodules, baselineoi)
 
@@ -270,7 +270,7 @@ def modeval_coverage_worker(setting, scores, baseline, verbose=False):
     runinfo = json.load(open("../" + setting["output_folder"] + "runinfo.json"))
     modules = Modules(json.load(open("../" + setting["output_folder"] + "modules.json")))
 
-    if verbose: print("▶ " + str(setting["settingid"]))
+    if verbose: print("▶ " + str("../" + setting["settingid"]))
 
     subscores = []
     for bound_name, bound_location in dataset["binding"].items():
@@ -293,7 +293,7 @@ def modeval_coverage_worker(setting, scores, baseline, verbose=False):
 
     scores[setting["settingid"]] = [settingscores]
 
-    if verbose: print("◼ " + str(setting["settingid"]))
+    if verbose: print("◼ " + str("../" + setting["settingid"]))
 
 def modbindevalscorer(modules, binding):
     modules = modules.filter_size(5)
