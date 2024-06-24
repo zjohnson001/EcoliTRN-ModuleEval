@@ -8,7 +8,7 @@ import os
 import subprocess as sp
 
 from modulecontainers import Module, Modules
-from src.simdist import simdist
+from simdist import simdist
 
 def standardize(X):
     return (X - X.mean())/(X.std())
