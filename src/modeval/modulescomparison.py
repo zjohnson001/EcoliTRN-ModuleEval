@@ -1,37 +1,25 @@
 from __future__ import division
 
+import os
+import sys
+import time
+import shutil
+from collections import OrderedDict
+import json
+
 import numpy as np
 import pandas as pd
-import pip 
+from munkres import Munkres
 
-# Install the munkres library
-pip.main(['install', 'git+https://github.com/jfrelinger/cython-munkres-wrapper'])
-
-# for speed, the module comparison functions are implemented in Cython
-#import pyximport; pyximport.install()
-import ebcubed
-import jaccard
-
-import json
-from modulecontainers import Modules
-
-from util import JSONExtendedEncoder
-
-import os
-
-from collections import OrderedDict
 from scipy.stats import fisher_exact
 from statsmodels.sandbox.stats.multicomp import multipletests
 
-from munkres import munkres
+from modeval import ebcubed
+from modeval import jaccard
 
-from clustervalidityindices import *
-
-import sys
-
-import shutil
-
-import time
+from util import JSONExtendedEncoder
+from modulecontainers import Modules
+#from clustervalidityindices import 
 
 def harmonic_mean(X):
     X = np.array(X)
@@ -91,7 +79,7 @@ class ModulesComparison():
                 scores["consensus"] = 0
             else:
                 cost_matrix = np.array(1 - self.jaccards, dtype=np.double).copy()
-                indexes =munkres(cost_matrix)
+                indexes =Munkres(cost_matrix)
                 consensus = (1-cost_matrix[indexes]).sum() / max(self.jaccards.shape)
 
         if ("rr" in scorenames) and ("rp" in scorenames):
@@ -111,12 +99,12 @@ class ModulesComparison():
                     scores["consensus" + baseline_name] = harmonic_mean([(scores[scorename]/baseline[scorename]) for scorename in ["consensus"]])
 
         # alternative scores (for non-overlapping and exhaustive clustering)
-        if "fmeasure_wiwie" in scorenames:
-            scores["fmeasure_wiwie"] = fmeasure_wiwie(self.modulesA, self.modulesB)
-        if "fmeasure_flowcap" in scorenames:
-            scores["fmeasure_flowcap"] = fmeasure_flowcap(self.modulesA, self.modulesB)
-        if "vmeasure_wiwie" in scorenames:
-            scores["vmeasure_wiwie"] = vmeasure_wiwie(self.modulesA, self.modulesB)
+        #if "fmeasure_wiwie" in scorenames:
+        #    scores["fmeasure_wiwie"] = fmeasure_wiwie(self.modulesA, self.modulesB)
+        #if "fmeasure_flowcap" in scorenames:
+        #    scores["fmeasure_flowcap"] = fmeasure_flowcap(self.modulesA, self.modulesB)
+        #if "vmeasure_wiwie" in scorenames:
+        #    scores["vmeasure_wiwie"] = vmeasure_wiwie(self.modulesA, self.modulesB)
 
         return scores
 
