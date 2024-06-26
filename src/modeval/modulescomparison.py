@@ -12,7 +12,10 @@ import pandas as pd
 from munkres import Munkres
 
 from scipy.stats import fisher_exact
+from scipy.stats import chi2_contingency
 from statsmodels.sandbox.stats.multicomp import multipletests
+
+import fisher
 
 from modeval import ebcubed
 from modeval import jaccard
@@ -51,6 +54,7 @@ class ModulesComparison():
 
         """
         scores = {}
+        m = Munkres()
 
         # recovery and relevance
         if "rr" in scorenames:
@@ -79,7 +83,7 @@ class ModulesComparison():
                 scores["consensus"] = 0
             else:
                 cost_matrix = np.array(1 - self.jaccards, dtype=np.double).copy()
-                indexes =Munkres(cost_matrix)
+                indexes =m.compute(cost_matrix)
                 consensus = (1-cost_matrix[indexes]).sum() / max(self.jaccards.shape)
 
         if ("rr" in scorenames) and ("rp" in scorenames):
@@ -400,9 +404,6 @@ def cal_bhi(modules, connectivity):
     bhi = 1/len(modules) * bhi
 
     return bhi
-
-import fisher
-from scipy.stats import chi2_contingency
 
 def test_enrichment(modules, membership):
     if len(modules) == 0:
