@@ -1,1 +1,1 @@
-{"params": {"method": "baseline_permuted"}, "location": "conf/paramexplo/baseline_permuted/0.json", "seed": 0}
+{"params": {"method": "baseline_permuted"}, "location": "../conf/baseline_permuted.json", "seed": 0}
